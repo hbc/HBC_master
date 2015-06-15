@@ -1,11 +1,11 @@
 # Site wide configuration
 
 title: "HBC"
-description: "A lightweight site starter for Jekyll"
+description: "Bioinformatics Analysis for the Harvard Community"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: //mmistakes.github.io/skinny-bones-jekyll 
+url: //jnhutchinson.github.io/CHB_master/
 
 # Jekyll configuration
 
