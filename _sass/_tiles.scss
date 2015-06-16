@@ -8,7 +8,7 @@
   @include media($micro) {
     @include fill-parent;
   }
-  @include media(new-breakpoint(min-width em(560) 12)) {
+  @include media(new-breakpoint(min-width em(360) 12)) {
     @include span-columns(2);
     @include omega(4n);
   }
