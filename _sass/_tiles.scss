@@ -10,7 +10,7 @@
   }
   @include media(new-breakpoint(min-width em(360) 12)) {
     @include span-columns(2);
-    @include omega(4n);
+    @include omega(3n);
   }
   .entry-date {
     @include font-size(16,no);
