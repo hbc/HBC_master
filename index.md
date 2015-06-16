@@ -8,7 +8,7 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">Next Generation Sequencing Analysis</h2>
+  <h2 class="post-title">Next-Gen Sequencing Analysis</h2>
   <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
 </div><!-- /.tile -->
 
