@@ -9,17 +9,17 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Next-Gen Sequencing Analysis</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
+  <p class="post-excerpt">We analyse all types of next-generation sequencing data from RNA-seq and variant sequencing (exome or whole genome), to ChIP-seq and bisulfite sequencing.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Functional Analysis</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+  <p class="post-excerpt">We can help you make sense of your results by placing them in biologcial context through annotation and integration of with data sources.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Research Computing</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+  <p class="post-excerpt">We work with major research computing groups at Harvard and in the cloud to help you get your analysis completed.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
