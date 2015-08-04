@@ -3,7 +3,7 @@ layout: archive
 title: "Contact"
 ---
 
-You can send general enquiries and project requests via [email](mailto:bioinformatics@hsph.harvard.edu). For administrative requests, please contact [Meagan Plante](mailto:mplante@hsph.harvard.edu). Billing inquiries and grant-related questions are handled by [Rachel Boschetto](mailto:rboschet@hsph.harvard.edu). Alternatively, just stop by our office!
+You can send general enquiries and project requests by emailing us at  bioinformatics(at)hsph.harvard.edu. For administrative requests, please contact [Meagan Plante](mailto:mplante@hsph.harvard.edu). Billing inquiries and grant-related questions are handled by [Rachel Boschetto](mailto:rboschet@hsph.harvard.edu). Alternatively, just stop by our office!
 
 ### Office Location
 
