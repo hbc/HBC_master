@@ -19,7 +19,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Research Computing</h2>
-  <p class="post-excerpt">We work with major research computing groups at Harvard and in the cloud to help you get your analysis completed.</p>
+  <p class="post-excerpt">We work with major research computing groups at Harvard and in the cloud to help you get your analysis completed. Test </p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
