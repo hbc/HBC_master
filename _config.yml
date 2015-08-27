@@ -5,7 +5,7 @@ description: "Bioinformatics Analysis for the Harvard Community"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: http://hbc.github.io/HBC_master/
+url: http://bioinformatics.sph.harvard.edu
 
 # Jekyll configuration
 
@@ -23,7 +23,7 @@ gems:
 # Site owner
 owner:
   name: Harvard Chan Bioinformatics Core
-  web: http://hbc.github.io/HBC_master/
+  web: http://bioinformatics.sph.harvard.edu
   email: bioinformatics@hsph.harvard.edu
   twitter: 
   bio: "Bioinfomatics Analysis for the Harvard Community"
