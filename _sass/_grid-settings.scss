@@ -5,7 +5,7 @@
 @import "vendor/neat/neat-helpers";
 
 // Change the grid settings
-$visual_grid: false;
+$visual_grid: true;
 
 // Define your breakpoints
 $short: new-breakpoint(max-height em(700) 12);
