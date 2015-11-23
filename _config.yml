@@ -5,7 +5,7 @@ description: "Bioinformatics Analysis for the Harvard Community"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: http://hbc.github.io
+#url: http://hbc.github.io
 
 # Jekyll configuration
 
