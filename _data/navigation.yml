@@ -20,6 +20,11 @@
   excerpt: "More bioinformatics resources"
   image: 400x250.gif
 
+- title: Training
+  url: /training/
+  excerpt: "Bioinformatics training at HBC"
+  image: 400x250.gif
+
 - title: Contact
   url: /contact/
   excerpt: "More contact info"
