@@ -3,20 +3,6 @@ layout: archive
 title: "Resources"
 ---
 
-### Teaching
-
-With funding from the [HMS Tools and Technology Committee](http://hms.harvard.edu/departments/tools-and-technology) and the [Harvard NeuroDiscovery Center (HNDC)](http://www.neurodiscovery.harvard.edu/), we now have a dedicated bioinformatics training program for HMS researchers with a primary affiliation in one of the Basic and Social Science Departments on the Quad or any affiliation with the HNDC. We run monthly workshops focusing on NGS (re-sequencing, ChIP-Seq and RNA-Seq). Course materials for use in Galaxy are [available online](http://hbc.github.io/ngs-workshops/). 
-
-We also offer an in-depth [NGS Data Analysis course](https://wiki.harvard.edu/confluence/display/hbctraining/NGS+Data+Analysis+Course,+Spring+2015#NGSDataAnalysisCourse,Spring2015-AppReq). The course for 2015 is finished but applications for the Spring 2016 course will open in early 2016. This course is aimed at bench biologists interested in learning how to perform best practice NGS-based genomic analysis and covers:
-
-* Unix & High performance compute environments (Orchestra)
-* Software Carpentry-based introduction to R and version control with Git
-* NGS analysis (command-line based, RNA-Seq, ChIP-Seq, Exome-Seq and Variant calling)
-* Downstream functional analysis
-* Data visualization with genome browsers
-
-[Email](mailto:hbctraining@hsph.harvard.edu) us for any training-related questions.
-
 
 ### Software
 
