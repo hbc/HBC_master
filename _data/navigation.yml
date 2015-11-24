@@ -3,29 +3,31 @@
 - title: Services
   url: /services/
   excerpt: "What we do"
-  image: 400x250.gif
+  image: teaser_400x250.gif
 
 - title: About
   url: /about/
   excerpt: "More about us"
-  image: 400x250.gif
+  image: teaser_400x250.gif
 
 - title: People
   url: /people/
   excerpt: "Who we are"
-  image: 400x250.gif
+  image: teaser_400x250.gif
 
 - title: Projects
   url: /projects/
   excerpt: "Current and past projects"
-  image: 400x250.gif
+  image: teaser_400x250.gif
+
 
 - title: Training
   url: /training/
   excerpt: "Bioinformatics training at HBC"
-  image: 400x250.gif
+  image: teaser_400x250.gif
+
 
 - title: Contact
   url: /contact/
   excerpt: "More contact info"
-  image: 400x250.gif
+  image: teaser_400x250.gif
