@@ -2,8 +2,8 @@
 
 title: "Home"
 description: "Bioinformatics Analysis for the Harvard Community"
-logo: 120x120.gif
-teaser: 400x250.gif
+logo: site_logo_120x120.gif
+teaser: teaser_400x250.gif
 locale: en_US
 url: http://hbc.github.io
 
@@ -27,7 +27,7 @@ owner:
   email: bioinformatics@hsph.harvard.edu
   twitter: 
   bio: "Bioinfomatics Analysis for the Harvard Community"
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  avatar: bio-photoi_160x160.jpg # 160x160 px image for author byline
   google:
     plus:
     ad-client:
