@@ -20,12 +20,15 @@
   excerpt: "Current and past projects"
   image: teaser_400x250.gif
 
-
 - title: Training
   url: /training/
   excerpt: "Bioinformatics training at HBC"
   image: teaser_400x250.gif
 
+- title: Positions
+  url: /positions/
+  excerpt: "Hiring at HBC"
+  image: teaser_400x250.gif
 
 - title: Contact
   url: /contact/
