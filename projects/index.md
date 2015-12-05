@@ -15,7 +15,7 @@ Our NGS analysis relies on the [bcbio.nextgen](https://github.com/chapmanb/bcbio
 
 
 ### Recent presentations
-
+* [small RNA-seq analysis with bcbio-nextgen](https://github.com/lpantano/mypubs/raw/master/talks/bcbio-srnaseq-BIG-20151203.pdf) (BIG Meeting Group)
 * [Clinical Sequencing](https://dl.dropboxusercontent.com/u/407047/Work/Presentations/20140503%20Glasgow%20Clinical%20Sequencing.pdf) (University of Glasgow)
 * [bcbio implementation details](https://github.com/chapmanb/bcbb/raw/master/talks/abcd2014_bcbio_nextgen/chapman_bcbio.pdf) (Harvard ABCD Group)
 * [Workflows for clinical sequencing](https://dl.dropboxusercontent.com/u/407047/Work/Presentations/20140218%20Sheffield%20NGS%20in%20Public%20Health.pdf) (Sheffield Institute for
