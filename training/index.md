@@ -43,7 +43,7 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
  
 ### Upcoming workshops/courses:
 
-Our next **[In-depth Next Generation Sequencing Analysis Course](http://tinyurl.com/ngs-course-feb2016)** runs 2-days a week for 5 weeks starting on February 8th. **[Apply Here](http://tinyurl.com/ngs-course-feb2016)**
+The application period for our next **[In-depth Next Generation Sequencing Analysis Course](http://tinyurl.com/ngs-course-feb2016)** starting February 8th and running 2-days a week for 5 weeks, is now closed. Our next session is not yet scheduled, but check back here for updates.
 
 
 
