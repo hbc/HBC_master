@@ -27,9 +27,9 @@ You will support researchers in the Harvard community with their data management
 - Excellent written English and a familiarity with presenting biological results
 - Strong interpersonal skills
 - Computational experience
-- Scripting abilities (Perl, Python)
-- Experience with R/BioC
-- Working knowledge of high performance computing cluster systems
+	- Scripting abilities (Perl, Python)
+	- Experience with R/BioC
+	- Working knowledge of high performance computing cluster systems
 
 ####Additional qualifications
 Familiarity with best practices in different sequencing workflows
