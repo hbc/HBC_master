@@ -32,8 +32,8 @@ You will support researchers in the Harvard community with their data management
 	- Working knowledge of high performance computing cluster systems
 
 ####Additional qualifications
-Familiarity with best practices in different sequencing workflows
-Competency in statistics
+- Familiarity with best practices in different sequencing workflows
+- Competency in statistics
 
 
 ####Contact us
