@@ -3,7 +3,9 @@ layout: archive
 title: "Positions"
 ---
 
-*Posted November 30th, 2015*
+*Updated Jan 4, 2016*
+
+We are now accepting applications for the following position.
 
 ####About the position
 The Harvard Chan Bioinformatics Core (HBC) acts as a center for bioinformatics research, services and training at the Harvard Chan School of Public Health. Integral to the Harvard Chan School, the Harvard Stem Cell Institute, the Harvard NeuroDiscovery Center and Harvard Medical School, our multi-disciplinary team works with researchers across the Harvard, MIT and Broad biomedical community, providing a comprehensive portfolio of infrastructure, data analysis, training and development. We seek an experienced computational biologist to become a key member of our team.
