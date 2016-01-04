@@ -19,17 +19,17 @@ You have a background in biomedical or quantitative science and a strong interes
 You will support researchers in the Harvard community with their data management, quality control, analysis of data and presentation of results. Projects are usually a mix of short-term support tasks and long-term collaborations; most support tasks and methods should eventually transition into standardized workflows. You will need broad experience in several bioinformatics domains such as microarray analysis (expression, methylation), sequencing (RNA-seq, ChIP-seq, genome assembly, exome/WGS sequencing) or functional analysis and know how to implement your analyses in reproducible workflows. You will be expected to coordinate selected research or support projects and act as an independent point of contact for researchers.
 
 ####Basic qualifications
-PhD in a biomedical or quantitative science (or equivalent experience), 2+ years of work experience
-Expertise in at least one listed bioinformatics domain
-Evidence of working directly with wet laboratories to perform analyses
-Working knowledge of biology, genetics and cell biology
-Proven ability to interpret and analyze large data sets and present results synthetically
-Excellent written English and a familiarity with presenting biological results
-Strong interpersonal skills
-Computational experience
-Scripting abilities (Perl, Python)
-Experience with R/BioC
-Working knowledge of high performance computing cluster systems
+- PhD in a biomedical or quantitative science (or equivalent experience), 2+ years of work experience
+- Expertise in at least one listed bioinformatics domain
+- Evidence of working directly with wet laboratories to perform analyses
+- Working knowledge of biology, genetics and cell biology
+- Proven ability to interpret and analyze large data sets and present results synthetically
+- Excellent written English and a familiarity with presenting biological results
+- Strong interpersonal skills
+- Computational experience
+- Scripting abilities (Perl, Python)
+- Experience with R/BioC
+- Working knowledge of high performance computing cluster systems
 
 ####Additional qualifications
 Familiarity with best practices in different sequencing workflows
