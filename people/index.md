@@ -47,10 +47,9 @@ Oliver worked in a molecular biology wetlab environment before switching to natu
 
 ---
  
-###Alumni
+### Alumni
 
 <p><img style="float: left; margin: 9px 15px -10px 0px;" src="https://www.sheffield.ac.uk/polopoly_fs/1.411574!/image/winstonhide.png" width="100" /></p> **[Winston Hide](mailto:iwinhide@sheffield.ac.uk)** created the Core in his role as an Associate Professor of Bioinformatics and Computational Biology in the Department of Biostatistics at Harvard T.H. Chan School of Public Health. Dr Hide is now a Professor of Computational Biology at the  [Sheffield Institute of Translational Neuroscience](https://www.sheffield.ac.uk/neuroscience/staff/hide). He founded and directed the South African National Bioinformatics Institute (SANBI) near Cape Town. With over 20 years of experience in computational biology, his expertise addresses integration of ‘omics data to deliver clinical translation. He uses standardized approaches to disease gene discovery in stem cells and cancer stem cells, host response to pathogens, and complex diseases.
-
 
 
 <p><img style="float: left; margin: 9px 15px -10px 0px;" src="https://dl.dropboxusercontent.com/u/407047/Ghost/hbc/Andreas.jpg" width="100" /></p> **[Andreas Sjödin](mailto:andreas.sjodin@umu.se)** was a Research Associate in the Department of Biostatistics and is currently the Deputy Research Director at the FOI in Umea, Sweden. He has been in the field of genomics for more than ten years and closely followed the development of emerging sequencing technologies. The focus of his research has changed from plant transcriptomics through pathogen genome sequencing to human WGS and metagenomics. He is also an expert on forensics of select agents (BSATs) using sequencing technologies. Andreas has a PhD in Cell and Molecular Biology of Plants from [Umeå University](http://www.umu.se). Follow him on [twitter](https://twitter.com/druvus).
