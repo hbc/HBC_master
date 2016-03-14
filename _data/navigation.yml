@@ -25,11 +25,6 @@
   excerpt: "Bioinformatics training at HBC"
   image: teaser_400x250.gif
 
-- title: Positions
-  url: /positions/
-  excerpt: "Hiring at HBC"
-  image: teaser_400x250.gif
-
 - title: Contact
   url: /contact/
   excerpt: "More contact info"
