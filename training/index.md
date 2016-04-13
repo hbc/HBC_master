@@ -37,10 +37,17 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
  
 ### Upcoming workshops/courses:
 
-The application for our next **[In-depth NGS Data Analysis Course](http://tinyurl.com/ngs-course-summer-2016)** starting June 22nd and running 2-days a week for 5 weeks, **is now open**. 
+(1) The application for our next **[In-depth NGS Data Analysis Course](http://tinyurl.com/ngs-course-summer-2016)** starting June 22nd and running 2-days a week for 5 weeks, **is now open**. 
 
-More information at [http://tinyurl.com/ngs-course-summer-2016](http://tinyurl.com/ngs-course-summer-2016).
+*More information at [http://tinyurl.com/ngs-course-summer-2016](http://tinyurl.com/ngs-course-summer-2016).*
 
+(2) Our next **[Introduction to UNIX and RNA-Seq data analysis](https://hms-unix-may2016.eventbrite.com)** workshop for **HMS** researchers will be held on May 12th and 13th. *The registration for this course will open on April 21st.*
+
+*More information at [https://hms-unix-may2016.eventbrite.com](https://hms-unix-may2016.eventbrite.com)*
+
+(3)  Our next **[Introduction to UNIX and RNA-Seq data analysis](https://hsci-unix-may2016.eventbrite.com)** workshop for **HSCI** researchers will be held on May 23rd and 24th. *The registration for this course will open on May 2nd.*
+
+*More information at [https://hsci-unix-may2016.eventbrite.com](https://hsci-unix-may2016.eventbrite.com)*
 
 ---
 
