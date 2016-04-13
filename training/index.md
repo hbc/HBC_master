@@ -20,31 +20,26 @@ We **provide bioinformatics training** through both workshops and in-depth cours
 #### 1. Workshops 
 
 ##### a. Next Generation Sequencing Introduction Series
-These are One-day ([Galaxy-based](https://wiki.galaxyproject.org/)) [NGS workshops](http://hbc.github.io/ngs-workshops/) on RNA-Seq, ChIP-Seq to introduce basic concepts of NGS analysis using the easy point-and-click Galaxy interface. The goal of these workshops are to enableresearchers to design their studies appropriately and perform preliminary data analyses.
+([Galaxy-based](https://wiki.galaxyproject.org/)) workshops on RNA-Seq, ChIP-Seq to introduce basic concepts of Next-Generation Sequencing (NGS) analysis. The goal of these workshops are to enable researchers to design their studies appropriately and perform preliminary data analyses.
 
 ##### b. Basic Bioinformatics Skills Series
-These workshops address multiple topics including R, data visualization using R, Python programming, Unix and high-performance computing (varies from half a day to three days) 
+Topics include R, data visualization using R, Python programming, Unix and high-performance computing (duration varies from half a day to three days).
 
 #### 2.  In-Depth Next Generation Sequencing Analysis Courses
 These intensive courses run for 10-12 days and are aimed at bench biologists interested in learning how to perform independent, best practice NGS-based analyses. Topics include:
 
-- using Unix & High performance compute environments 
-
-- Software Carpentry-based introduction to R and version control with Git
-
-- NGS analysis (command-line based, RNA-Seq, ChIP-Seq, Exome-Seq and Variant calling)
-
-- Downstream functional analysis
-
-- Data visualization with genome browsers
-
+- Unix & High-Performance Computing ([Orchestra](https://rc.hms.harvard.edu/#orchestra))
+- NGS data analysis (RNA-Seq, ChIP-Seq, Variant calling)
+- Statistical analysis using R
+- Functional analysis
 
 ---
  
 ### Upcoming workshops/courses:
 
-The application period for our next **[In-depth Next Generation Sequencing Analysis Course](http://tinyurl.com/ngs-course-feb2016)** starting February 8th and running 2-days a week for 5 weeks, is now closed. Our next session is not yet scheduled, but check back here for updates.
+The application for our next **[In-depth NGS Data Analysis Course](http://tinyurl.com/ngs-course-summer-2016)** starting June 22nd and running 2-days a week for 5 weeks, **is now open**. 
 
+More information at [http://tinyurl.com/ngs-course-summer-2016](http://tinyurl.com/ngs-course-summer-2016).
 
 
 ---
