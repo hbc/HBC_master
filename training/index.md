@@ -41,7 +41,7 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 *More information at [http://tinyurl.com/ngs-course-summer-2016](http://tinyurl.com/ngs-course-summer-2016).*
 
-(2) Our next **[Introduction to UNIX and RNA-Seq data analysis](https://hms-unix-may2016.eventbrite.com)** workshop for **HMS** researchers will be held on May 12th and 13th. *The registration for this course* ***is now open****!*
+(2) Our next **[Introduction to UNIX and RNA-Seq data analysis](https://hms-unix-may2016.eventbrite.com)** workshop for **HMS & HNDC** researchers will be held on May 12th and 13th. *The registration for this course* ***is now open****!*
 
 *More information at [https://hms-unix-may2016.eventbrite.com](https://hms-unix-may2016.eventbrite.com)*
 
