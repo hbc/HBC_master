@@ -43,7 +43,7 @@ Oliver worked in a molecular biology wetlab environment before switching to natu
 
 #### Administrative support
 
-<p><img style="float: left; margin: 9px 15px -20px 0px;" src="https://dl.dropboxusercontent.com/u/4253254/Resources/websites/HBC/images/sue_alexander_headshot.png" width="100" /><img style="float: left; margin: 9px 15px -20px 0px;" src="https://dl.dropboxusercontent.com/u/407047/Ghost/hbc/Meagan.jpg" width="100" /> </p>We are fortunate to have access to dedicated administrative support through the HSPH Department of Biostatistics. **[Sue Alexander](mailto:isalexand@hsph.harvard.edu)** is our grants manager and all-around financial guru, and **[Meagan Plante](mailto:mplante@hsph.harvard.edu)** coordinates our events and helps with all planning tasks.
+<p><img style="float: left; margin: 9px 15px -20px 0px;" src="https://dl.dropboxusercontent.com/u/4253254/Resources/websites/HBC/images/sue_alexander_headshot.png" width="100" /><img style="float: left; margin: 9px 15px -20px 0px;" src="https://dl.dropboxusercontent.com/u/4253254/Resources/websites/HBC/images/megan_scott_headshot.JPG" width="100" /> </p>We are fortunate to have access to dedicated administrative support through the HSPH Department of Biostatistics. **[Sue Alexander](mailto:isalexand@hsph.harvard.edu)** is our grants manager and all-around financial guru, and **[Megan Scott](mailto:mescott@hsph.Scottd.edu)** coordinates our events and helps with all planning tasks.
 
 ---
  
