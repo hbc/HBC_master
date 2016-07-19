@@ -37,9 +37,7 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
  
 ### Upcoming workshops/courses:
 
-Our next **[Introduction to UNIX and RNA-Seq data analysis](https://hsci-unix-may2016.eventbrite.com)** workshop for **HSCI** researchers will be held on May 23rd and 24th. *The registration for this course* ***is now open***!
-
-*More information at [https://hsci-unix-may2016.eventbrite.com](https://hsci-unix-may2016.eventbrite.com)*
+A list of workshops for the fall will be announced by July (2016) end. Thanks for your patience!
 
 ---
 
