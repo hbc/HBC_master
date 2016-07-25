@@ -15,7 +15,7 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 ### Training program description:
 
-We provide bioinformatics training through both **shorter workshops** and **in-depth courses**. [**See list of upcoming workshops/courses below.**]
+We provide bioinformatics training through both **shorter workshops** and **in-depth courses**. [**See [list of upcoming workshops/courses](http://bioinformatics.sph.harvard.edu/training/#upcoming-workshopscourses) below.**]
 
 #### 1. Workshops 
 
