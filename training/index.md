@@ -2,6 +2,7 @@
 layout: archive
 title: "Training"
 ---
+
 With funding from the HMS Tools and Technology Committee, the Harvard NeuroDiscovery Center (HNDC) and the Harvard Stem Cell Institute (HSCI) we have a dedicated bioinformatics training program for:
 
 - HMS researchers with a primary affiliation in one of the Basic and Social Science Departments on the Quad 
@@ -9,6 +10,10 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 - researchers with an affiliation with the HNDC
 
 - HSCI researchers 
+
+---
+
+### Training program description:
 
 We provide bioinformatics training through both **shorter workshops** and **in-depth courses**.
 (*No prior NGS or command line expertise is required for our workshops or courses unless explicitly stated.*)
@@ -67,7 +72,7 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 ---
 
-### Contact
+### Contact:
 
 For any training-related questions, please email us at [hbctraining@hsph.harvard.edu](mailto:hbctraining@hsph.harvard.edu).
 
