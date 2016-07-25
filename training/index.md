@@ -15,13 +15,17 @@ We provide bioinformatics training through both **shorter workshops** and **in-d
 
 #### 1. Workshops 
 
-##### a. Next Generation Sequencing Introduction Series
-([Galaxy-based](https://wiki.galaxyproject.org/)) workshops on RNA-Seq, ChIP-Seq to introduce basic concepts of Next-Generation Sequencing (NGS) analysis. The goal of these workshops are to enable researchers to design their studies appropriately and perform preliminary data analyses.
+* **Next Generation Sequencing Introduction Series**
 
-##### b. Basic Bioinformatics Skills Series	Topics include R, data visualization using R, Python programming, Unix and high-performance computing (duration varies from half a day to three days).
+	([Galaxy-based](https://wiki.galaxyproject.org/)) workshops on RNA-Seq, ChIP-Seq to introduce basic concepts of Next-Generation Sequencing (NGS) analysis. The goal of these workshops are to enable researchers to design their studies appropriately and perform preliminary data analyses.
+
+* **Basic Bioinformatics Skills Series**	
+
+	Topics include R, data visualization using R, Python programming, Unix and high-performance computing (duration varies from half a day to three days).
 
 #### 2.  In-Depth Next Generation Sequencing Analysis Courses
-These intensive courses run for 10-12 days and are aimed at bench biologists interested in learning how to perform independent, best practice NGS-based analyses. Topics include:
+
+These intensive courses run for 10-12 days and are aimed at bench biologists interested in learning **how to perform independent, best practice NGS-based analyses**. Topics include:
 
 - Unix & High-Performance Computing ([Orchestra](https://rc.hms.harvard.edu/#orchestra))
 - NGS data analysis (RNA-Seq, ChIP-Seq, Variant calling)
