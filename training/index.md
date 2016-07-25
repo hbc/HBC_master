@@ -36,11 +36,6 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 ### Upcoming workshops/courses:
 
-#### For HMS (quad) and HNDC researchers only
-
-* **September 29th and 30th: *Introduction to R***
-
-	This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
 
 #### For HSCI researchers only
 
@@ -49,6 +44,12 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 	This 2-day workshop will introduce participants to the command-line interface, compute clusters, and basic methods to get started with RNA-Seq data analysis.
 
 * **September 8th and 9th: *Introduction to R***
+
+	This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
+
+#### For HMS (quad) and HNDC researchers only
+
+* **September 29th and 30th: *Introduction to R***
 
 	This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
 
