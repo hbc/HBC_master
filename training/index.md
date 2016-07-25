@@ -10,15 +10,13 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 - HSCI researchers 
 
----
-
 We provide bioinformatics training through both **shorter workshops** and **in-depth courses**.
 (*No prior NGS or command line expertise is required for our workshops or courses unless explicitly stated.*)
 
 #### 1. Workshops 
 
 ##### a. Next Generation Sequencing Introduction Series
-	([Galaxy-based](https://wiki.galaxyproject.org/)) workshops on RNA-Seq, ChIP-Seq to introduce basic concepts of Next-Generation Sequencing (NGS) analysis. The goal of these workshops are to enable researchers to design their studies appropriately and perform preliminary data analyses.
+([Galaxy-based](https://wiki.galaxyproject.org/)) workshops on RNA-Seq, ChIP-Seq to introduce basic concepts of Next-Generation Sequencing (NGS) analysis. The goal of these workshops are to enable researchers to design their studies appropriately and perform preliminary data analyses.
 
 ##### b. Basic Bioinformatics Skills Series	Topics include R, data visualization using R, Python programming, Unix and high-performance computing (duration varies from half a day to three days).
 
