@@ -15,8 +15,7 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 ### Training program description:
 
-We provide bioinformatics training through both **shorter workshops** and **in-depth courses**.
-(*No prior NGS or command line expertise is required for our workshops or courses unless explicitly stated.*)
+We provide bioinformatics training through both **shorter workshops** and **in-depth courses**. [**See list of upcoming workshops/courses below.**]
 
 #### 1. Workshops 
 
@@ -36,6 +35,9 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 - NGS data analysis (RNA-Seq, ChIP-Seq, Variant calling)
 - Statistical analysis using R
 - Functional analysis
+
+
+*No prior NGS or command line expertise is required for our workshops or courses unless explicitly stated.*
 
 ---
 
