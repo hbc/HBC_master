@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Training"
-***
+---
 With funding from the HMS Tools and Technology Committee, the Harvard NeuroDiscovery Center (HNDC) and the Harvard Stem Cell Institute (HSCI) we have a dedicated bioinformatics training program for:
 
 - HMS researchers with a primary affiliation in one of the Basic and Social Science Departments on the Quad 
