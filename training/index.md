@@ -10,10 +10,10 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 - HSCI researchers 
 
-***
+---
 
-We **provide bioinformatics training** through both workshops and in-depth courses.
-*No prior NGS or command line expertise is required for our workshops or courses unless explicitly stated.*
+We provide bioinformatics training through both **shorter workshops** and **in-depth courses**.
+(*No prior NGS or command line expertise is required for our workshops or courses unless explicitly stated.*)
 
 #### 1. Workshops 
 
@@ -31,13 +31,42 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 - Statistical analysis using R
 - Functional analysis
 
-***
+---
 
 ### Upcoming workshops/courses:
 
-A list of workshops for the fall will be announced by July (2016) end. Thanks for your patience!
+##### For HMS (quad) and HNDC researchers
 
-***
+**September 29th and 30th**: Introduction to R
+*No prerequisites*
+
+This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
+
+##### For HSCI researchers
+
+**August 22nd and 23rd**: Introduction to UNIX (and RNA-Seq)
+*No prerequisites*
+
+This 2-day workshop will introduce participants to the command-line interface, compute clusters, and basic methods to get started with RNA-Seq data analysis.
+
+**September 8th and 9th**: Introduction to R
+*No prerequisites*
+
+This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
+
+##### For HMS (quad), HNDC and HSCI researchers
+
+**October 20th**: Introduction to Differential Gene Expression analysis
+***Prerequisite: Introduction to R***
+
+This 1-day workshop is designed to teach researchers the basic concepts for performing differential gene expression analysis using tools in R. If you have taken an R course with us prior to this workshop, you are eligible to attend.
+
+**October-December**: In-depth NGS data analysis course (RNA-Seq only)
+*No prerequisites*
+
+This 8-day in-depth course will instruct participants on the theoretical and practical concepts related to Next-Generation Sequencing (NGS) data analysis, enabling them to perform these analyses independently. This iteration of the course will focus on gene expression analysis using RNA-Seq data.
+
+---
 
 ### Contact
 
