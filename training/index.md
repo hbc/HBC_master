@@ -36,27 +36,30 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 #### For HMS (quad) and HNDC researchers only
 
-1. **September 29th and 30th**: Introduction to R [*No prerequisites*]
+* **September 29th and 30th: *Introduction to R* **
 
 	This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
 
 #### For HSCI researchers only
 
-1. **August 22nd and 23rd**: Introduction to UNIX (and RNA-Seq) [*No prerequisites*]
+* **August 22nd and 23rd: *Introduction to UNIX (and RNA-Seq)* **
 
 	This 2-day workshop will introduce participants to the command-line interface, compute clusters, and basic methods to get started with RNA-Seq data analysis.
 
-2. **September 8th and 9th**: Introduction to R [*No prerequisites*]
+* **September 8th and 9th: *Introduction to R* **
 
 	This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
 
 #### For HMS (quad), HNDC and HSCI researchers
 
-1. **October 20th**: Introduction to Differential Gene Expression analysis [***Prerequisite: Introduction to R***]
+* **October 20th: *Introduction to Differential Gene Expression analysis* **
 
-	This 1-day workshop is designed to teach researchers the basic concepts for performing differential gene expression analysis using tools in R. If you have taken an R course with us prior to this workshop, you are eligible to attend.
+	**Prerequisite: *Introduction to R* ** (You are eligibile to attend only if you have taken an R course with us prior to this workshop.)
+	
+	This 1-day workshop is designed to teach researchers the basic concepts for performing differential gene expression analysis using tools in R. 
+	
+* **October-December: *In-depth NGS data analysis course (RNA-Seq only)* **
 
-2. **October-December**: In-depth NGS data analysis course (RNA-Seq only) [*No prerequisites*]
 	This 8-day in-depth course will instruct participants on the theoretical and practical concepts related to Next-Generation Sequencing (NGS) data analysis, enabling them to perform these analyses independently. This iteration of the course will focus on gene expression analysis using RNA-Seq data.
 
 ---
