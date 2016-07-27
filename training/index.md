@@ -15,7 +15,7 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 ### Training program description:
 
-We provide bioinformatics training through both **shorter workshops** and **in-depth courses**. [**[Click here](http://bioinformatics.sph.harvard.edu/training/#upcoming-workshopscourses) for a list of upcoming workshops/courses, or scroll down.**]
+We provide bioinformatics training through both **shorter workshops** and **in-depth courses**. [[Click here](http://bioinformatics.sph.harvard.edu/training/#upcoming-workshopscourses) for a list of upcoming workshops/courses, or scroll down.]
 
 #### 1. Workshops 
 
@@ -56,7 +56,7 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 	This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
 	
-	** *Registration opens on Monday, August 17th* **
+	** *Registration opens on Wednesday, August 17th* **
 
 #### For HMS (quad) and HNDC researchers only
 
@@ -79,6 +79,8 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 * **October-December: *In-depth NGS data analysis course (RNA-Seq only)***
 
 	This 8-day in-depth course will instruct participants on the theoretical and practical concepts related to Next-Generation Sequencing (NGS) data analysis, enabling them to perform these analyses independently. This iteration of the course will focus on gene expression analysis using RNA-Seq data.
+	
+	** *Application process will open on August 25th* **
 
 ---
 
