@@ -50,7 +50,7 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 	This 2-day workshop will introduce participants to the command-line interface, compute clusters, and basic methods to get started with RNA-Seq data analysis.
 	
-	** *Registration opens on Monday, August 1st* **
+	** *[Registration open](http://tinyurl.com/unix-aug-hsci-info)!* **
 
 * **September 8th and 9th: *Introduction to R***
 
