@@ -43,20 +43,16 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 ### Upcoming workshops/courses:
 
+** *[The application process is now open](http://tinyurl.com/ngs-course-fall-2016) for an 8-day in-depth NGS Data Analysis course focusing on RNA Sequencing! Go tp [http://tinyurl.com/ngs-course-fall-2016](http://tinyurl.com/ngs-course-fall-2016) for more information and a link to the pre-registeration page* **
+
 
 #### For HSCI researchers only
-
-* **August 22nd and 23rd: *Introduction to UNIX (and RNA-Seq)***
-
-	This 2-day workshop will introduce participants to the command-line interface, compute clusters, and basic methods to get started with RNA-Seq data analysis.
-	
-	** *Registration Closed!* **
 
 * **September 8th and 9th: *Introduction to R***
 
 	This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
 	
-	** *[Registration Open!](http://tinyurl.com/r-sept-hsci-info)* **
+	** *Registration Closed!* **
 
 #### For HMS (quad) and HNDC researchers only
 
@@ -68,6 +64,12 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 #### For HMS (quad), HNDC and HSCI researchers
 
+* **October-December: *In-depth NGS data analysis course (RNA-Seq only)***
+
+	This 8-day in-depth course will instruct participants on the theoretical and practical concepts related to Next-Generation Sequencing (NGS) data analysis, enabling them to perform these analyses independently. This iteration of the course will focus on gene expression analysis using RNA-Seq data.
+	
+  ** *[Application Process is Now Open!](http://tinyurl.com/ngs-course-fall-2016)* **
+
 * **October 20th: *Introduction to Differential Gene Expression analysis***
 
 	**Prerequisite: *Introduction to R*** (You are eligibile to attend only if you have taken an R course with us prior to this workshop.)
@@ -76,11 +78,6 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 	
 	** *Registration opens in late September* **
 	
-* **October-December: *In-depth NGS data analysis course (RNA-Seq only)***
-
-	This 8-day in-depth course will instruct participants on the theoretical and practical concepts related to Next-Generation Sequencing (NGS) data analysis, enabling them to perform these analyses independently. This iteration of the course will focus on gene expression analysis using RNA-Seq data.
-	
-	** *Application process will open on August 25th* **
 
 ---
 
