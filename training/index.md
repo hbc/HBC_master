@@ -43,7 +43,7 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 ### Upcoming workshops/courses:
 
-*[The application process is now open](http://tinyurl.com/ngs-course-fall-2016) for an 8-day in-depth ***NGS Data Analysis Course focused on RNA Sequencing!*** Go to [http://tinyurl.com/ngs-course-fall-2016](http://tinyurl.com/ngs-course-fall-2016) for more information and a link to the pre-registration page.*
+*[The application process is now open](http://tinyurl.com/ngs-course-fall-2016) for an 8-day in-depth NGS Data Analysis Course focused on RNA Sequencing! Go to [http://tinyurl.com/ngs-course-fall-2016](http://tinyurl.com/ngs-course-fall-2016) for more information and a link to the pre-registration page.*
 
 
 #### For HSCI researchers only
