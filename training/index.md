@@ -45,15 +45,6 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 *[The application process is now open](http://tinyurl.com/ngs-course-fall-2016) for an 8-day in-depth NGS Data Analysis Course focused on RNA Sequencing! Go to [http://tinyurl.com/ngs-course-fall-2016](http://tinyurl.com/ngs-course-fall-2016) for more information and a link to the pre-registration page.*
 
-
-#### For HSCI researchers only
-
-* **September 8th and 9th: *Introduction to R***
-
-	This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
-	
-	** *Registration Closed!* **
-
 #### For HMS (quad) and HNDC researchers only
 
 * **September 29th and 30th: *Introduction to R***
