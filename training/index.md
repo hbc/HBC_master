@@ -63,7 +63,7 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 	**Prerequisite: *Introduction to R*** (You are eligibile to attend only if you have taken an R course with us prior to this workshop.)
 	
-	This 1-day workshop is designed to teach researchers the basic concepts for performing differential gene expression analysis using tools in R. This course will only be available to participants of R workshops offered earlier this earlier.
+	This 1-day workshop is designed to teach researchers the basic concepts for performing differential gene expression analysis using tools in R. This course will only be available to participants of R workshops offered earlier this year.
 	
 
 ---
