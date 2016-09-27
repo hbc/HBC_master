@@ -43,15 +43,13 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 ### Upcoming workshops/courses:
 
-*[The application process is now open](http://tinyurl.com/ngs-course-fall-2016) for an 8-day in-depth NGS Data Analysis Course focused on RNA Sequencing! Go to [http://tinyurl.com/ngs-course-fall-2016](http://tinyurl.com/ngs-course-fall-2016) for more information and a link to the pre-registration page.*
-
 #### For HMS (quad) and HNDC researchers only
 
 * **September 29th and 30th: *Introduction to R***
 
 	This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
 	
-	** *[Registration is Now Open!](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=212405140)* **
+	** *Registration is Closed!* **
 
 #### For HMS (quad), HNDC and HSCI researchers
 
@@ -59,15 +57,13 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 	This 8-day in-depth course will instruct participants on the theoretical and practical concepts related to Next-Generation Sequencing (NGS) data analysis, enabling them to perform these analyses independently. This iteration of the course will focus on gene expression analysis using RNA-Seq data.
 	
-  ** *[Application Process is Now Open!](http://tinyurl.com/ngs-course-fall-2016)* **
+  ** *[Application Process is Closed!](http://tinyurl.com/ngs-course-fall-2016)* **
 
 * **October 20th: *Introduction to Differential Gene Expression analysis***
 
 	**Prerequisite: *Introduction to R*** (You are eligibile to attend only if you have taken an R course with us prior to this workshop.)
 	
-	This 1-day workshop is designed to teach researchers the basic concepts for performing differential gene expression analysis using tools in R. 
-	
-	** *Registration opens in late September* **
+	This 1-day workshop is designed to teach researchers the basic concepts for performing differential gene expression analysis using tools in R. This course will only be available to participants of R workshops offered earlier this earlier.
 	
 
 ---
