@@ -43,28 +43,37 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 ### Upcoming workshops/courses:
 
-#### For HMS (quad) and HNDC researchers only
+#### For HSCI researchers only
 
-* **September 29th and 30th: *Introduction to R***
+* **January 25th and 26th, 2017: *Introduction to R***
 
 	This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
 	
-	** *Registration is Closed!* **
-
-#### For HMS (quad), HNDC and HSCI researchers
-
-* **October-December: *In-depth NGS data analysis course (RNA-Seq only)***
-
-	This 8-day in-depth course will instruct participants on the theoretical and practical concepts related to Next-Generation Sequencing (NGS) data analysis, enabling them to perform these analyses independently. This iteration of the course will focus on gene expression analysis using RNA-Seq data.
+	** *Registration will open on January 4th, 2017* **
 	
-  ** *[Application Process is Closed!](http://tinyurl.com/ngs-course-fall-2016)* **
+* **February 2nd, 2017: *Introduction to Differential Gene Expression analysis***
 
-* **October 20th: *Introduction to Differential Gene Expression analysis***
-
+	This 1-day hands-on workshop is designed to teach researchers the basic concepts for performing differential gene expression analysis using tools in R. 
+	
 	**Prerequisite: *Introduction to R*** (You are eligibile to attend only if you have taken an R course with us prior to this workshop.)
 	
-	This 1-day workshop is designed to teach researchers the basic concepts for performing differential gene expression analysis using tools in R. This course will only be available to participants of R workshops offered earlier this year.
+	** *If you have R expertise and would like to attend this workshop please [email us](mailto:hbctraining@hsph.harvard.edu) with the subject "February DGE Workshop Inquiry".* **
+		
+* **March 8th and 9th, 2017: *Introduction to UNIX and RNA-Seq***
+  
+	This 2-day hands-on workshop will introduce participants to the command-line interface, compute clusters, and basic methods to get started with RNA-Seq data analysis.
 	
+	** *Registration will open on January 23rd, 2017!* **
+
+#### For HMS (on-quad) and HNDC researchers only
+
+* **February 15th and 16th, 2017: *Introduction to UNIX and RNA-Seq***
+  
+	This 2-day hands-on workshop will introduce participants to the command-line interface, compute clusters, and basic methods to get started with RNA-Seq data analysis.
+	
+	** *Registration will open on February 13th, 2017!* **
+	
+* **Spring 2017 workshops schedule will be announced soon!**
 
 ---
 
