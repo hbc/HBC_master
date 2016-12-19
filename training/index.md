@@ -51,14 +51,6 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 	
 	** *Registration will open on January 4th, 2017* **
 	
-* **February 2nd, 2017: *Introduction to Differential Gene Expression analysis***
-
-	This 1-day hands-on workshop is designed to teach researchers the basic concepts for performing differential gene expression analysis using tools in R. 
-	
-	**Prerequisite: *Introduction to R*** (You are eligibile to attend only if you have taken an R course with us prior to this workshop.)
-	
-	** *If you have R expertise and would like to attend this workshop please [email us](mailto:hbctraining@hsph.harvard.edu) with the subject "February DGE Workshop Inquiry".* **
-		
 * **March 8th and 9th, 2017: *Introduction to UNIX and RNA-Seq***
   
 	This 2-day hands-on workshop will introduce participants to the command-line interface, compute clusters, and basic methods to get started with RNA-Seq data analysis.
@@ -67,14 +59,22 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 #### For HMS (on-quad) and HNDC researchers only
 
-* **February 15th and 16th, 2017: *Introduction to UNIX and RNA-Seq***
-  
-	This 2-day hands-on workshop will introduce participants to the command-line interface, compute clusters, and basic methods to get started with RNA-Seq data analysis.
+* **February 8th and 9th, 2017: *Introduction to R***
+
+	This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
 	
 	** *Registration will open on February 13th, 2017!* **
 	
 * **Spring 2017 workshops schedule will be announced soon!**
 
+#### For HSCI, HNDC and HMS (on-quad) researchers
+
+* **February 14th, 2017: *Introduction to Differential Gene Expression analysis***
+
+	This 1-day hands-on workshop is designed to teach researchers the basic concepts for performing differential gene expression analysis using tools in R. 
+	
+	**Pre-requisite: *Introduction to R* ** (You are eligibile to attend only if you have taken an R workshop with us previously.)
+		
 ---
 
 ### Contact:
