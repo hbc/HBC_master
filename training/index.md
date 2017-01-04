@@ -51,15 +51,15 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 	
 	** *Registration will open on January 5th, 2017* **
 	
-* **March 8th and 9th, 2017: *Introduction to UNIX and RNA-Seq***
+* **March 6th and 7th, 2017: *Introduction to UNIX and RNA-Seq***
   
 	This 2-day hands-on workshop will introduce participants to the command-line interface, compute clusters, and basic methods to get started with RNA-Seq data analysis.
 	
-	** *Registration will open on February 15th, 2017!* **
+	** *Registration will open on February 13th, 2017!* **
 
 #### For HMS (on-quad) and HNDC researchers only
 
-* **February 8th and 9th, 2017: *Introduction to R***
+* **February 9th and 10th, 2017: *Introduction to R***
 
 	This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
 	
@@ -69,7 +69,7 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 #### For HSCI, HNDC and HMS (on-quad) researchers
 
-* **February 14th, 2017: *Introduction to Differential Gene Expression analysis***
+* **February 15th, 2017: *Introduction to Differential Gene Expression analysis***
 
 	This 1-day hands-on workshop is designed to teach researchers the basic concepts for performing differential gene expression analysis using tools in R. 
 	
