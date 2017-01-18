@@ -36,7 +36,6 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 - Statistical analysis using R
 - Functional analysis
 
-
 *No prior NGS or command line expertise is required for our workshops or courses unless explicitly stated.*
 
 ---
@@ -49,9 +48,7 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 	This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
 	
-	** *[Registration for this workshop is now open!](http://tinyurl.com/R-hsci-info)* **
-  
-  ** *For more information and link to the registration page, please go to [http://tinyurl.com/R-hsci-info](http://tinyurl.com/R-hsci-info)* **
+	** *Registration for this workshop is now closed* **
 	
 * **March 6th and 7th, 2017: *Introduction to UNIX and RNA-Seq***
   
