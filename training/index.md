@@ -13,6 +13,36 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 ---
 
+### Upcoming workshops/courses:
+
+#### For HMS (on-quad) and HNDC researchers only
+
+* **February 9th and 10th, 2017: *[Introduction to R](http://tinyurl.com/R-hms-info)***
+
+	This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
+	
+	** *Registration is now open, please find more information at [http://tinyurl.com/R-hms-info](http://tinyurl.com/R-hms-info)!* **
+	
+* **Spring 2017 workshops schedule will be announced soon!**
+
+#### For HSCI researchers only
+	
+* **March 6th and 7th, 2017: *Introduction to UNIX and RNA-Seq***
+  
+	This 2-day hands-on workshop will introduce participants to the command-line interface, compute clusters, and basic methods to get started with RNA-Seq data analysis.
+	
+	** *Registration will open on February 13th, 2017!* **
+
+#### For HSCI, HNDC and HMS (on-quad) researchers
+
+* **February 15th, 2017: *Introduction to Differential Gene Expression analysis***
+
+	This 1-day hands-on workshop is designed to teach researchers the basic concepts for performing differential gene expression analysis using tools in R. 
+	
+	**Pre-requisite: *Introduction to R* ** (You are eligibile to attend only if you have taken an R workshop with us previously.)
+
+---
+
 ### Training program description:
 
 We provide bioinformatics training through both **shorter workshops** and **in-depth courses**. [[Click here](http://bioinformatics.sph.harvard.edu/training/#upcoming-workshopscourses) for a list of upcoming workshops/courses, or scroll down.]
@@ -37,42 +67,6 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 - Functional analysis
 
 *No prior NGS or command line expertise is required for our workshops or courses unless explicitly stated.*
-
----
-
-### Upcoming workshops/courses:
-
-#### For HSCI researchers only
-
-* **January 24th and 25th, 2017: *Introduction to R* **
-
-	This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
-	
-	** *Registration for this workshop is now closed* **
-	
-* **March 6th and 7th, 2017: *Introduction to UNIX and RNA-Seq***
-  
-	This 2-day hands-on workshop will introduce participants to the command-line interface, compute clusters, and basic methods to get started with RNA-Seq data analysis.
-	
-	** *Registration will open on February 13th, 2017!* **
-
-#### For HMS (on-quad) and HNDC researchers only
-
-* **February 9th and 10th, 2017: *[Introduction to R](http://tinyurl.com/R-hms-info)***
-
-	This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
-	
-	** *Registration is now open, please find more information at [http://tinyurl.com/R-hms-info](http://tinyurl.com/R-hms-info)!* **
-	
-* **Spring 2017 workshops schedule will be announced soon!**
-
-#### For HSCI, HNDC and HMS (on-quad) researchers
-
-* **February 15th, 2017: *Introduction to Differential Gene Expression analysis***
-
-	This 1-day hands-on workshop is designed to teach researchers the basic concepts for performing differential gene expression analysis using tools in R. 
-	
-	**Pre-requisite: *Introduction to R* ** (You are eligibile to attend only if you have taken an R workshop with us previously.)
 		
 ---
 
