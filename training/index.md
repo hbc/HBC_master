@@ -44,7 +44,7 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 #### For HSCI researchers only
 
-* **January 24th and 25th, 2017: *[Introduction to R](http://tinyurl.com/R-hsci-info)***
+* **January 24th and 25th, 2017: *Introduction to R* **
 
 	This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
 	
@@ -58,7 +58,7 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 #### For HMS (on-quad) and HNDC researchers only
 
-* **February 9th and 10th, 2017: *Introduction to R***
+* **February 9th and 10th, 2017: *[Introduction to R](http://tinyurl.com/R-hms-info)***
 
 	This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
 	
