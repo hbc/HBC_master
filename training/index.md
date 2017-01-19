@@ -62,7 +62,7 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 	This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
 	
-	** *Registration will open on January 19th, 2017!* **
+	** *Registration is now open, please find more information at [http://tinyurl.com/R-hms-info](http://tinyurl.com/R-hms-info)!* **
 	
 * **Spring 2017 workshops schedule will be announced soon!**
 
