@@ -19,11 +19,11 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 #### For HSCI, HNDC and HMS (on-quad) researchers
 
-* **April 2rd and 4th: *Introduction to R***
+* **April 2rd and 4th, 2017: *Introduction to R***
 
   This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
   
-* **June-July: *In-depth NGS data analysis course***
+* **June 6th - July 13th, 2017: *In-depth NGS data analysis course***
   
   This 12-day in-depth course will instruct participants on the theoretical and practical concepts related to Next-Generation Sequencing (NGS) data analysis, enabling them to perform these analyses independently.
 
@@ -41,7 +41,7 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 #### For HNDC researchers only
 
-* **April 20th: *Introduction to R***
+* **April 20th, 2017: *Introduction to R***
 
   This 1-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation using R. 
 
