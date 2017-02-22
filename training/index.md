@@ -19,7 +19,7 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 #### For HSCI, HNDC and HMS (on-quad) researchers
 
-* **April 2rd and 4th, 2017: *Introduction to R***
+* **April 3rd and 4th, 2017: *Introduction to R***
 
   This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
   
