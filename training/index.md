@@ -33,7 +33,7 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
   
 	This 2-day hands-on workshop will introduce participants to the command-line interface, compute clusters, and basic methods to get started with RNA-Seq data analysis.
 	
-	** *[Registration is now open](https://wiki.harvard.edu/confluence/display/hbctraining/%5BHSCI%5D+Introduction+to+Unix+%28RNA-Seq%29+workshop)* **
+	** *Registration is now closed!* **
   
 * **May 24th and 25th, 2017: *Introduction to UNIX and RNA-Seq***
   
