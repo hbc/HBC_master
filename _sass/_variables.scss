@@ -6,8 +6,13 @@
    Typography variables
    ========================================================================== */
 
-$base-font                   	: Georgia,Times,"Times New Roman",serif;
-$heading-font                	: "Helvetica Neue","Segoe UI",Arial,sans-serif;
+
+
+@import url('https://fonts.googleapis.com/css?family="Open Sans"|Ubuntu');
+
+
+$base-font                   	: Ubuntu,Georgia,Times,"Times New Roman",serif;
+$heading-font                	: "Open Sans","Helvetica Neue","Segoe UI",Arial,sans-serif;
 $caption-font                	: $base-font;
 $code-font                   	: monospace;
 $alt-font                    	: $heading-font;
