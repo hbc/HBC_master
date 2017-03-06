@@ -3,7 +3,9 @@ layout: archive
 title: "About"
 ---
 
-<p><img style="float: left; margin: 7px 15px 10px 0px;" src="https://dl.dropboxusercontent.com/u/407047/Ghost/hbc/hsph_building.jpg" width="320" /></p> The [Harvard School of Public Health](http://www.hsph.harvard.edu/) (HSPH) is taking a leading role in interdisciplinary research involving the computational analysis of complex relationships between genes and their environment as well as basic biological and quantitative sciences. The HSPH Bioinformatics Core (HBC) is integral to the development and application of computational biology methods at the School.
+<p><img style="float: left; margin: 7px 15px 0px 0px;" src="https://dl.dropboxusercontent.com/u/407047/Ghost/hbc/hsph_building.jpg" width="320" /></p> The [Harvard School of Public Health](http://www.hsph.harvard.edu/) (HSPH) has taken a leading role in interdisciplinary research involving the computational analysis of complex relationships between genes and their environment as well as basic biological and quantitative sciences. The Harvard Chan Bioinformatics Core (HBC) is integral to the development and application of computational biology methods at the School.
+
+<div style="clear: left;"></div>
 
 ### Mission
 
@@ -12,18 +14,26 @@ HBC provides a single point of contact for Harvard researchers interested in bio
 [Core staff](/people) aid researchers within the Harvard community with the management, integration and contextual analysis of biological high-throughput data, focusing on next-generation sequencing support. We [provide consulting, training, tools, databases and best practices](/services), foster collaboration and a community of bioinformatics activities, and build a unified infrastructure supporting a diverse set of experimental systems and high-throughput biological data.
 
 
-### Affiliations and Funding
+### Working with us
 
-HBC collaborates with other bioinformatics cores and research groups to provide you with an optimal service. We work closely with our colleagues in the [Department of Biostatistics](http://www.hsph.harvard.edu/departments/biostatistics/) and the [Program in Quantitative Genomics](http://www.hsph.harvard.edu/pqg/). 
+**Consults are billed at $125/hour after an initial meeting to discuss your project.**  We will provide you with a estimate of the number of hours required, a quote and a start date as part of our [Memorandum of Understanding](https://dl.dropboxusercontent.com/u/407047/Ghost/hbc/CHB%20MOU.pdf) (PDF). During the project you will receive detailed monthly billing updates and ongoing analysis results via our project page.
 
-![Partners](https://dl.dropboxusercontent.com/u/407047/Ghost/hbc/logos.png)
+<p><img src="http://dl.dropboxusercontent.com/u/407047/Ghost/hbc/support.gif" style="float: left; margin: 7px 15px 10px 0px;"  width="250" /> </p>
 
-The Core is a member of the [Environmental Statistics and Bioinformatics Core](http://www.hsph.harvard.edu/research/niehs/facility-cores/environmental-statistics-and-bioinformatics-core/index.html) at the Harvard NIEHS Center for Environmental Health and serves as the [Harvard Catalyst Bioinformatics Consulting group](http://catalyst.harvard.edu/services/bioinformaticsconsult/). As part of the [Center for Stem Cell Bioinformatics](http://stemcellcommons.hsci.harvard.edu/) HBC extends its services to members of the HSCI community. Through funding from the [Tools and Technology group](http://hms.harvard.edu/departments/tools-and-technology) and the [Harvard NeuroDiscovery Center](http://www.neurodiscovery.harvard.edu/), we can also offer help to researchers at Harvard Medical School.
+**Fees for pilot projects and other short term consults can be subsidized in many cases through support from our [funding partners](/funders)**. If in doubt [ask us for more information](/contact)!
 
-We are receiving additional funding through the [Cure Alzheimer's Fund](http://www.curealzfund.org/), NIH and DARPA grants and industry support. 
+Please note that **payment of fees for data analysis services and authorship are not mutually exclusive**. Depending on their contributions to a project, HBC Data Analysts might be considered collaborators at the same level as other academic colleagues who contribute intellectually and receive funding for work on a project. We follow the [general guidelines for authorship](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) laid out by the International Committee of Medical Journal Editors. The recovery of Core expenses through the recharge system does not exclude the possibility for authorship for Core personnel. Similarly, authorship does not substitute for payment of Core expenses for services rendered.
+
+### Recent presentations
+* [small RNA-seq analysis with bcbio-nextgen](https://github.com/lpantano/mypubs/raw/master/talks/bcbio-srnaseq-BIG-20151203.pdf) (BIG Meeting Group)
+* [Clinical Sequencing](https://dl.dropboxusercontent.com/u/407047/Work/Presentations/20140503%20Glasgow%20Clinical%20Sequencing.pdf) (University of Glasgow)
+* [bcbio implementation details](https://github.com/chapmanb/bcbb/raw/master/talks/abcd2014_bcbio_nextgen/chapman_bcbio.pdf) (Harvard ABCD Group)
+* [Workflows for clinical sequencing](https://dl.dropboxusercontent.com/u/407047/Work/Presentations/20140218%20Sheffield%20NGS%20in%20Public%20Health.pdf) (Sheffield Institute for
+Translational Neuroscience)
+* [A framework for RNA-Seq DE comparisons](https://dl.dropboxusercontent.com/u/407047/Work/Presentations/20140200%20BIG-meeting-feb-2014.pdf) (BIG Meeting Group)
+* [Community-developed NGS pipelines](https://dl.dropboxusercontent.com/u/407047/Work/Presentations/20131102%20CSHL%20Genome%20Informatics/20131101%20CSHL%20GI2013%20bcbio.pdf) (2013 Genome Informatics Meeting, CSHL)
 
 
+### Publications
 
-### Partners
-
-Additional partners include the [Center for Cancer Computational Biology](http://cccb.dfci.harvard.edu/) (DFCI), the [Bioinformatics & Research Computing group](http://jura.wi.mit.edu/bio/) (Whitehead) and the [Galaxy team](http://wiki.g2.bx.psu.edu/). All computational resources are located at the [FAS Research Computing Center](http://rc.fas.harvard.edu/), with additional resources being managed by the [HMS Research Computing Group](https://rc.hms.harvard.edu/).
+For a  complete list of core publications [see here](https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/51262208/?sort=date&direction=descending)

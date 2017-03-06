@@ -9,7 +9,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Next-Gen Sequencing Analysis</h2>
-  <p class="post-excerpt">We analyse all types of next-generation sequencing data from RNA-seq and variant sequencing (exome or whole genome), to ChIP-seq and bisulfite sequencing.</p>
+  <p class="post-excerpt">We analyse all types of next-generation sequencing data from RNA-seq and single cell RNA-seq to variant sequencing (exome or whole genome), to ChIP-seq or bisulfite sequencing.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -18,8 +18,8 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Research Computing</h2>
-  <p class="post-excerpt">We work with major research computing groups at Harvard and in the cloud to help you get your analysis completed.</p>
+  <h2 class="post-title">Bioinformatics Infrastructure</h2>
+  <p class="post-excerpt">We contribute to the development of bcbio-nextgen, a framework for the automated, scaleable, reproducible analysis of major next-generation sequencing data types.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->

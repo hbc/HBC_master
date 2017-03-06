@@ -1,13 +1,18 @@
 # Site navigation links
 
+- title: About
+  url: /about/
+  excerpt: "More about us"
+  image: teaser_400x250.gif
+
 - title: Services
   url: /services/
   excerpt: "What we do"
   image: teaser_400x250.gif
 
-- title: About
-  url: /about/
-  excerpt: "More about us"
+- title: Training
+  url: /training/
+  excerpt: "Bioinformatics training at HBC"
   image: teaser_400x250.gif
 
 - title: People
@@ -20,12 +25,12 @@
   excerpt: "Selected Resources for Bioinformatics at Harvard"
   image: teaser_400x250.gif
 
-- title: Training
-  url: /training/
-  excerpt: "Bioinformatics training at HBC"
+- title: Funders
+  url: /funders/
+  excerpt: "Our collaborators"
   image: teaser_400x250.gif
 
 - title: Contact
   url: /contact/
-  excerpt: "More contact info"
+  excerpt: "Get in touch with us"
   image: teaser_400x250.gif
