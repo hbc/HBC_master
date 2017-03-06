@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: "Resources"
 ---
 
 

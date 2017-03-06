@@ -15,9 +15,9 @@
   excerpt: "Who we are"
   image: teaser_400x250.gif
 
-- title: Projects
-  url: /projects/
-  excerpt: "Current and past projects"
+- title: Resources
+  url: /resources/
+  excerpt: "Selected Resources for Bioinformatics at Harvard"
   image: teaser_400x250.gif
 
 - title: Training
