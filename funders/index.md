@@ -135,7 +135,4 @@ We work with various biomedical and biotechnology companies, including:
 </table>
 
 
----- 
-
-### Past Collaborations
 
