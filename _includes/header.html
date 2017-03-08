@@ -5,4 +5,7 @@
         {% include navigation.html %}
     </nav>
   </div><!-- /.inner-wrap -->
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
 </header><!-- /.masthead -->
