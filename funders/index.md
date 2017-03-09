@@ -111,7 +111,7 @@ We work with various biomedical and biotechnology companies, including:
             <img  src="https://dl.dropboxusercontent.com/u/4253254/Resources/websites/HBC/images/AstraZeneca-logo.jpg" width="150" /> 
         </td>
         <td markdown="span">
-            Astra Zeneca
+            [AstraZeneca](https://www.astrazeneca.com/)
         </td>
     </tr> 
 
@@ -120,7 +120,7 @@ We work with various biomedical and biotechnology companies, including:
             <img src="https://dl.dropboxusercontent.com/u/4253254/Resources/websites/HBC/images/Boehringer_Ingelheim_Logo.svg.png" width="150"/>
         </td>
         <td width="75%" markdown="span">
-             Boehringer Ingelheim 
+             [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)
         </td>
     </tr>
     
@@ -129,7 +129,7 @@ We work with various biomedical and biotechnology companies, including:
             <img  src="https://dl.dropboxusercontent.com/u/4253254/Resources/websites/HBC/images/arvados_curoverse_logo_01.jpeg" width="150" />
         </td>
         <td width="75%" markdown="span">
-            Curoverse
+            [Curoverse](https://curoverse.com/)
         </td>
     </tr>
 </table>
