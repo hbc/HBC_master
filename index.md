@@ -19,7 +19,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Bioinformatics Infrastructure</h2>
-  <p class="post-excerpt">We contribute to the development of bcbio-nextgen, a framework for the automated, scaleable, reproducible analysis of major next-generation sequencing data types.</p>
+  <p class="post-excerpt">We drive development of <a href="https://bcbio-nextgen.readthedocs.io">bcbio-nextgen</a>, a framework for the automated, scaleable, reproducible analysis of major next-generation sequencing data types.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
