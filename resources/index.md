@@ -3,10 +3,9 @@ layout: archive
 title: "Resources"
 ---
 
+----
 
-#### Bioinformatics
-
-We work with the [Center for Cancer Computational Biology](http://cccb.dfci.harvard.edu/) (DFCI), the [Bioinformatics & Research Computing group](http://jura.wi.mit.edu/bio/) (Whitehead) and the [Galaxy team](http://wiki.g2.bx.psu.edu/). 
+### Software
 
 #### bcbio.nextgen
 
@@ -25,10 +24,9 @@ If you are working on the HMS Orchestra cluster and need a piece of bioinformati
 
 We also recommend [conda](https://conda.io/docs/index.html) as an easy way to install and run software in a shared environment without worrying about dependencies. Many general use packages can be found on [Anaconda Cloud](https://anaconda.org/) and bioinformatics software can be found through [bioconda](https://bioconda.github.io/).
 
+----
 
-#### Data management
-
-Data storage needs increase by the day. To help to figure out how to keep storage costs manageble, we contribute to an important initiative at HMS to develop and propagate good data management practices and resources across the Harvard community. For details and tips on managing your data, see the [HMS data management page](http://datamanagement.hms.harvard.edu/) 
+### Computational and Data Storage Resources
 
 #### Research Computing 
 
@@ -39,7 +37,13 @@ We work closely with and use the computational resources of both:
 
 We also use a variety of cloud architectures including [Amazon AWS](https://aws.amazon.com/) and [Microsoft Azure](https://azure.microsoft.com/en-us/)](https://azure.microsoft.com/en-us/)
 
-#### Sequencing
+#### Data Management
+
+Data storage needs increase by the day. To help to figure out how to keep storage costs manageble, we contribute to an important initiative at HMS to develop and propagate good data management practices and resources across the Harvard community. For details and tips on managing your data, see the [HMS data management page](http://datamanagement.hms.harvard.edu/) 
+
+----
+
+### Next Generation Sequencing
 
 We work with data from any sequencing core but currently work most closely with the:
 
@@ -49,7 +53,11 @@ We work with data from any sequencing core but currently work most closely with 
 
 - [Molecular Biology Core facility at the Dana Farber Cancer Institute](https://mbcf.dfci.harvard.edu/)
 
+----
 
+### More Bioinformatics Groups
+
+We have also worked with the [Center for Cancer Computational Biology](http://cccb.dfci.harvard.edu/) (DFCI), the [Bioinformatics & Research Computing group](http://jura.wi.mit.edu/bio/) (Whitehead) and the [Galaxy team](http://wiki.g2.bx.psu.edu/). 
 
 
 
