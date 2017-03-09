@@ -47,7 +47,7 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 #### Harvard Catalyst Workshops
 
-    ***If you are not affiliated with any of the above groups, you can [check this page](http://catalyst.harvard.edu/services/bioinformatics-workshops/) for current listings of workshops we teach for [Harvard Catalyst](http://catalyst.harvard.edu/education.html).***
+*If you are not affiliated with any of the above groups, you can [check this page](http://catalyst.harvard.edu/services/bioinformatics-workshops/) for current listings of workshops we teach for [Harvard Catalyst](http://catalyst.harvard.edu/education.html).*
 
 * **May 17th to May 19th, 2017: *Introduction to R***
 
