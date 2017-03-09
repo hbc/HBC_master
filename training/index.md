@@ -35,7 +35,7 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
   
   This 12-day in-depth course will instruct participants on the theoretical and practical concepts related to Next-Generation Sequencing (NGS) data analysis, enabling them to perform these analyses independently.
   
-  ** *Registration will open on April 7th, 2017* **
+  ** *Pre-Registration will open on March 20th, 2017* **
 	 
 #### For HNDC researchers only
 
