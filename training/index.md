@@ -17,35 +17,43 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 ### Upcoming workshops/courses:
 
-#### For HSCI, HNDC and HMS (on-quad) researchers
+#### For HSCI, HNDC and on-quad HMS researchers
 
 * **April 3rd and 4th, 2017: *Introduction to R***
 
-  This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R. 
+  This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R.
   
-* **June 6th - July 13th, 2017: *In-depth NGS data analysis course***
-  
-  This 12-day in-depth course will instruct participants on the theoretical and practical concepts related to Next-Generation Sequencing (NGS) data analysis, enabling them to perform these analyses independently.
-
-#### For HSCI researchers only
-	
-* **March 6th and 7th, 2017: *Introduction to UNIX and RNA-Seq***
-  
-	This 2-day hands-on workshop will introduce participants to the command-line interface, compute clusters, and basic methods to get started with RNA-Seq data analysis.
-	
-	** *Registration is now closed!* **
+  ** *Registration will open on March 13th, 2017* **
   
 * **May 24th and 25th, 2017: *Introduction to UNIX and RNA-Seq***
   
 	This 2-day hands-on workshop will introduce participants to the command-line interface, compute clusters, and basic methods to get started with RNA-Seq data analysis.
-
+  
+  ** *Registration will open on May 3rd, 2017* **
+  
+* **June 6th - July 13th, 2017: *In-depth NGS data analysis course***
+  
+  This 12-day in-depth course will instruct participants on the theoretical and practical concepts related to Next-Generation Sequencing (NGS) data analysis, enabling them to perform these analyses independently.
+  
+  ** *Registration will open on April 7th, 2017* **
+	 
 #### For HNDC researchers only
 
 * **April 20th, 2017: *Introduction to R***
 
-  This 1-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation using R. 
+  This 1-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation using R.
+  
+  ** *Registration will open on March 30th, 2017* **
 
-***If you are not affiliated with any of the above groups, you can check [this page](http://catalyst.harvard.edu/services/bioinformatics-workshops/) for current listings of workshops we teach for [Harvard Catalyst](http://catalyst.harvard.edu/education.html).***
+#### Harvard Catalyst Workshops
+
+*If you are not affiliated with any of the above groups, you can [check this page](http://catalyst.harvard.edu/services/bioinformatics-workshops/) for current listings of workshops we teach for [Harvard Catalyst](http://catalyst.harvard.edu/education.html).*
+
+* **May 17th to May 19th, 2017: *Introduction to R***
+
+ This 3-day hands-on workshop will introduce participants to the basics of R and RStudio and their application to differential gene expression analysis on RNA-Seq count data. 
+  
+  ** *[Click here to register](http://catalyst.harvard.edu/services/bioinformatics-workshops/intro-to-r.html)* **
 
 ---
 
