@@ -45,15 +45,15 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
   
   ** *Registration will open on March 30th, 2017* **
 
-#### [Harvard Catalyst Workshops](http://catalyst.harvard.edu/services/bioinformatics-workshops/)
+#### Harvard Catalyst Workshops
 
-***If you are not affiliated with any of the above groups, you can check [this page](http://catalyst.harvard.edu/services/bioinformatics-workshops/) for current listings of workshops we teach for [Harvard Catalyst](http://catalyst.harvard.edu/education.html).***
+***If you are not affiliated with any of the above groups, you can [check this page](http://catalyst.harvard.edu/services/bioinformatics-workshops/) for current listings of workshops we teach for [Harvard Catalyst](http://catalyst.harvard.edu/education.html).***
 
 * **May 17th to May 19th, 2017: *Introduction to R***
 
  This 3-day hands-on workshop will introduce participants to the basics of R and RStudio and their application to differential gene expression analysis on RNA-Seq count data. 
   
-  ** *[Click here](http://catalyst.harvard.edu/services/bioinformatics-workshops/intro-to-r.html) to register* **
+  ** *[Click here to register](http://catalyst.harvard.edu/services/bioinformatics-workshops/intro-to-r.html)* **
 
 ---
 
