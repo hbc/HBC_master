@@ -5,6 +5,8 @@ title: "Resources"
 
 ----
 
+In addition to the material here, our teaching team maintains a list of useful [bioinformatics resources](https://wiki.harvard.edu/confluence/display/hbctraining/Resources).
+
 ### Software
 
 #### bcbio.nextgen
@@ -53,11 +55,6 @@ We work with data from any sequencing core but currently work most closely with 
 
 - [Molecular Biology Core facility at the Dana Farber Cancer Institute](https://mbcf.dfci.harvard.edu/)
 
-----
-
-### More Bioinformatics Groups
-
-We have also worked with the [Center for Cancer Computational Biology](http://cccb.dfci.harvard.edu/) (DFCI), the [Bioinformatics & Research Computing group](http://jura.wi.mit.edu/bio/) (Whitehead) and the [Galaxy team](http://wiki.g2.bx.psu.edu/). 
 
 
 
