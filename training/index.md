@@ -78,6 +78,43 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 		
 ---
 
+### Past Workshops:
+
+**2017**
+
+* [HSCI] March 6th & 7th: **Introduction to UNIX and Orchestra with HMS-RC**
+* [HSCI/TnT/HNDC] February 15th: **Introduction to Differential Gene Expression (DGE) analysis for RNA-Seq**
+* [TnT/HNDC] February 10th & 13th: **Introduction to R**
+* [HSCI] January 24th & 25th: **Introduction to R**
+
+**2016**
+
+* [HSCI/TnT/HNDC] October 31st - December 2nd: **In-depth NGS data analysis course (RNA-Seq)**
+* [HSCI/TnT/HNDC] October 20th: **Introduction to Differential Gene Expression (DGE) analysis for RNA-Seq**
+* [TnT/HNDC] September 29th & 30th: **Introduction to R**
+* [HSCI] September 8th & 9th: **Introduction to R**
+* [HSCI] August 22nd & 23rd: **Introduction to UNIX and Orchestra with HMS-RC**
+* [HSCI/TnT/HNDC] June 22nd - August 12th: **In-depth NGS data analysis course**
+* [HSCI] May 23rd & 24th: **Introduction to UNIX and Orchestra with HMS-RC**
+* [TnT/HNDC] May 12th & 12th: **Introduction to UNIX and Orchestra with HMS-RC**
+* [HSCI/TnT/HNDC] February 8th - March 8th: **In-depth NGS data analysis course**
+
+**2015**
+
+* [HSCI] December 11th: **Introduction to R**
+* [HSCI] November 13th: *RNA-Seq with Galaxy**
+* [TnT/HNDC] November 23rd: **RNA-Seq with Galaxy**
+* [TnT/HNDC] October 8th & 9th: **Introduction to UNIX and Orchestra with HMS-RC**
+* [TnT/HNDC] October 2nd: **RNA-Seq with Galaxy**
+* [TnT/HNDC] September 21st: **RNA-Seq with Galaxy**
+* [TnT/HNDC] September 11th: **ChIP-Seq with Galaxy**
+* [TnT/HNDC] August 14th: **RNA-Seq with Galaxy**
+* [TnT/HNDC] July 22nd: **A Hands-on Introduction to Python** (in collaboration with [IQSS](http://www.iq.harvard.edu/))
+* [TnT/HNDC] July 17th: **RNA-Seq with Galaxy**
+* [TnT/HNDC] June 26th: **Introduction to R and R graphics with ggplot2** (in collaboration with [IQSS](http://www.iq.harvard.edu/))
+
+---
+
 ### Contact:
 
 For any training-related questions, please email us at [hbctraining@hsph.harvard.edu](mailto:hbctraining@hsph.harvard.edu).
