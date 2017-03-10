@@ -25,15 +25,9 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
   
   ** *Registration will open on March 13th, 2017* **
   
-* **May 24th and 25th, 2017: *Introduction to UNIX and RNA-Seq***
+* **May 31st - June 29th, 2017: *In-depth NGS data analysis course***
   
-	This 2-day hands-on workshop will introduce participants to the command-line interface, compute clusters, and basic methods to get started with RNA-Seq data analysis.
-  
-  ** *Registration will open on May 3rd, 2017* **
-  
-* **June 6th - July 13th, 2017: *In-depth NGS data analysis course***
-  
-  This 12-day in-depth course will instruct participants on the theoretical and practical concepts related to Next-Generation Sequencing (NGS) data analysis, enabling them to perform these analyses independently.
+  This 10-day in-depth course will instruct participants on the theoretical and practical concepts related to Next-Generation Sequencing (NGS) data analysis, enabling them to perform these analyses independently. This class includes an additional 2 day session in early August; the topics for this session will inclue Variant Calling and Git/Github.
   
   ** *Pre-Registration will open on March 20th, 2017* **
 	 
