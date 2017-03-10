@@ -6,7 +6,7 @@ title: "Services"
 
 Core staff can handle all your bioinformatics needs in next-generation sequence analysis, from data retrieval and management, storage, quality control, analysis and writeup. We follow best practices and re-use public workflows and tools wherever possible, but are happy to adapt existing methods and develop new solutions where required. While we try to offer support in most areas of computational biology HBC’s expertise is focused on two core areas:
  
-![](https://dl.dropboxusercontent.com/u/407047/Ghost/hbc/services.jpg) 
+![](/images/services.jpg) 
  
 #### 1. Next generation sequencing analysis: 
 

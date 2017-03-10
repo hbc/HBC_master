@@ -3,7 +3,7 @@ layout: archive
 title: "About"
 ---
 
-<p><img style="float: left; margin: 7px 15px 0px 0px;" src="https://dl.dropboxusercontent.com/u/407047/Ghost/hbc/hsph_building.jpg" width="250" /></p> The [Harvard School of Public Health](http://www.hsph.harvard.edu/) (HSPH) has taken a leading role in interdisciplinary research involving the computational analysis of complex relationships between genes and their environment as well as basic biological and quantitative sciences. The Harvard Chan Bioinformatics Core (HBC) is integral to the development and application of computational biology methods at the School.
+<p><img style="float: left; margin: 7px 15px 0px 0px;" src="/images/hsph_building.jpg" width="250" /></p> The [Harvard School of Public Health](http://www.hsph.harvard.edu/) (HSPH) has taken a leading role in interdisciplinary research involving the computational analysis of complex relationships between genes and their environment as well as basic biological and quantitative sciences. The Harvard Chan Bioinformatics Core (HBC) is integral to the development and application of computational biology methods at the School.
 
 <div style="clear: left;"></div>
 
