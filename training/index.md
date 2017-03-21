@@ -23,7 +23,7 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
   This 2-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation and plotting using R.
   
-  ** *Registration is [now open! Click here](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667) for more details* **
+  ** *Registration is now closed* **
   
 * **May 31st - June 29th, 2017: *In-depth NGS data analysis course***
   
