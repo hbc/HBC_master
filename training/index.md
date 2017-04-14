@@ -33,7 +33,7 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
   This 1-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation using R.
   
-  ** *[Click here for link to registration page and more details about the course](http://tinyurl.com/R-hndc-info)* **
+  ** *Registration is now closed for this workshop* **
 
 #### Harvard Catalyst Workshops
 
