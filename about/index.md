@@ -25,6 +25,7 @@ HBC provides a single point of contact for Harvard researchers interested in bio
 Please note that **payment of fees for data analysis services and authorship are not mutually exclusive**. Depending on their contributions to a project, HBC Data Analysts might be considered collaborators at the same level as other academic colleagues who contribute intellectually and receive funding for work on a project. We follow the [general guidelines for authorship](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) laid out by the International Committee of Medical Journal Editors. The recovery of Core expenses through the recharge system does not exclude the possibility for authorship for Core personnel. Similarly, authorship does not substitute for payment of Core expenses for services rendered.
 
 ### Recent presentations
+* [R-based methods for single cell RNA-seq analysis](https://github.com/steinbaugh/presentations/blob/master/2017-05-04/mit_big_meeting/mit_big_meeting.pdf) (BIG Meeting Group) 
 * [small RNA-seq analysis with bcbio-nextgen](https://github.com/lpantano/mypubs/raw/master/talks/bcbio-srnaseq-BIG-20151203.pdf) (BIG Meeting Group)
 * [Clinical Sequencing](https://dl.dropboxusercontent.com/u/407047/Work/Presentations/20140503%20Glasgow%20Clinical%20Sequencing.pdf) (University of Glasgow)
 * [bcbio implementation details](https://github.com/chapmanb/bcbb/raw/master/talks/abcd2014_bcbio_nextgen/chapman_bcbio.pdf) (Harvard ABCD Group)
