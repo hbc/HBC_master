@@ -18,6 +18,8 @@ Our NGS analyses rely on the [bcbio.nextgen](https://github.com/chapmanb/bcbio-n
 * [Docker for easier distribution](https://bcbio.wordpress.com/)
 * [Introducing RNA-Seq to bcbio](http://spliced.ghost.io/automated-comparison-of-rna-seq-differential-expression-calls/)
 
+[More presentations about bcbio](https://bcbio-nextgen.readthedocs.io/en/latest/contents/presentations.html)
+
 #### BioGrids
 
 If you are working on the HMS Orchestra cluster and need a piece of bioinformatics software, we recommend you look at the software available through BioGrids project, a [software stack for bioinformatics available on the HMS Orchestra cluster](http://www.biogrids.org/)
