@@ -19,21 +19,21 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 #### For HSCI, HNDC and on-quad HMS researchers
   
-* **August 16th - 17th, 2017: *[Introduction to UNIX and RNA-seq](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=217225881)***
+* August 16th - 17th, 2017: *[Introduction to UNIX and RNA-seq](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=217225881)*
 
-* **September 13th - 14th, 2017: *Introduction to R***
+* September 13th - 14th, 2017: *Introduction to R*
 
-* **October 25th, 2017: *Using DESeq2 for Differential Gene Expression* (Pre-req: Intro to R)**
+* October 25th, 2017: *Using DESeq2 for Differential Gene Expression* (Pre-req: Intro to R)
 
 #### Harvard Catalyst Workshops
 
 *If you are not affiliated with any of the above groups, you can [check this page](http://catalyst.harvard.edu/services/bioinformatics-workshops/) for current listings of workshops we teach for [Harvard Catalyst](http://catalyst.harvard.edu/education.html).*
 
-* ***[Introduction to Omics Research](http://catalyst.harvard.edu/services/omics/)*** : An online course about the scope, analytical methods, & challenges of omics research.
+* *[Introduction to Omics Research](http://catalyst.harvard.edu/services/omics/)* : An online course about the scope, analytical methods, & challenges of omics research.
 
-* **September 25th - 27th, 2017: *[Introduction to UNIX and RNA-seq Analysis Workshop](http://catalyst.harvard.edu/services/bioinformatics-workshops/unix.html)***
+* September 25th - 27th, 2017: *[Introduction to UNIX and RNA-seq Analysis Workshop](http://catalyst.harvard.edu/services/bioinformatics-workshops/unix.html)*
 
-* **November 1st - 3rd, 2017: *[Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis](http://catalyst.harvard.edu/services/bioinformatics-workshops/intro-to-r.html)***
+* November 1st - 3rd, 2017: *[Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis](http://catalyst.harvard.edu/services/bioinformatics-workshops/intro-to-r.html)*
 
 ---
 
