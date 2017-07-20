@@ -27,8 +27,6 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 #### Harvard Catalyst Workshops
 
-*If you are not affiliated with any of the above groups, you can [check this page](http://catalyst.harvard.edu/services/bioinformatics-workshops/) for current listings of workshops we teach for [Harvard Catalyst](http://catalyst.harvard.edu/education.html).*
-
 * *[Introduction to Omics Research](http://catalyst.harvard.edu/services/omics/)* : An online course about the scope, analytical methods, & challenges of omics research.
 
 * September 25th - 27th, 2017: *[Introduction to UNIX and RNA-seq Analysis Workshop](http://catalyst.harvard.edu/services/bioinformatics-workshops/unix.html)*
