@@ -19,25 +19,21 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 #### For HSCI, HNDC and on-quad HMS researchers
   
-* **May 31st - June 29th, 2017: *In-depth NGS data analysis course***
-  
-  This 10-day in-depth course will instruct participants on the theoretical and practical concepts related to Next-Generation Sequencing (NGS) data analysis, enabling them to perform these analyses independently. This class includes an additional 2 day session in early August; the topics for this session will inclue Variant Calling and Git/Github.
-  
-  ** *Pre-registration is now CLOSED* **
-  
-  ** *More information about this course at [http://tinyurl.com/ngs-course-info-2017](http://tinyurl.com/ngs-course-info-2017)* **
-	 
-#### For HNDC researchers only
+* **August 16th - 17th, 2017: *[Introduction to UNIX and RNA-seq](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=217225881)***
 
-* **April 20th, 2017: *Introduction to R***
+* **September 13th - 14th, 2017: *Introduction to R***
 
-  This 1-day hands-on workshop will introduce participants to using R and RStudio. After this workshop participants can expect to be comfortable with the basics of data manipulation using R.
-  
-  ** *Registration is now closed for this workshop* **
+* **October 25th, 2017: *Using DESeq2 for Differential Gene Expression* (Pre-req: Intro to R)**
 
 #### Harvard Catalyst Workshops
 
 *If you are not affiliated with any of the above groups, you can [check this page](http://catalyst.harvard.edu/services/bioinformatics-workshops/) for current listings of workshops we teach for [Harvard Catalyst](http://catalyst.harvard.edu/education.html).*
+
+* ***[Introduction to Omics Research](http://catalyst.harvard.edu/services/omics/)*** : An online course about the scope, analytical methods, & challenges of omics research.
+
+* **September 25th - 27th, 2017: *[Introduction to UNIX and RNA-seq Analysis Workshop](http://catalyst.harvard.edu/services/bioinformatics-workshops/unix.html)***
+
+* **November 1st - 3rd, 2017: *[Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis](http://catalyst.harvard.edu/services/bioinformatics-workshops/intro-to-r.html)***
 
 ---
 
@@ -72,6 +68,8 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 **2017**
 
+* *[HSCI/TnT/HNDC]* May 31st - July 7th: **In-depth NGS data analysis course**
+* *[HNDC]* April 20th: **Introduction to R**
 * *[TnT/HNDC/HSCI]* April 3rd & 4th: **Introduction to R**
 * *[HSCI]* March 6th & 7th: **Introduction to UNIX and Orchestra with HMS-RC**
 * *[HSCI/TnT/HNDC]* February 15th: **Introduction to Differential Gene Expression (DGE) analysis for RNA-Seq**
