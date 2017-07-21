@@ -9,7 +9,7 @@ Work at the HBC is funded by individual labs and collaborations with research gr
 
 ### Academic Collaborations
 
-The Core partners with a number of academic institutions and organizations to provide bioinformatics analyses to members of their community:
+The Core partners with a number of academic institutions and organizations to provide bioinformatics analyses and training to members of their community:
 
 <table>
     <colgroup>
