@@ -14,7 +14,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Functional Analysis</h2>
-  <p class="post-excerpt">We can help you make sense of your results by placing them in biological context through annotation and integration of with data sources.</p>
+  <p class="post-excerpt">We can help you make sense of your results by placing them in biological context through annotation and integration with data sources.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
