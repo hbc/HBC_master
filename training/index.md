@@ -19,7 +19,7 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 #### For HSCI, HNDC and on-quad HMS researchers
   
-* August 16th - 17th, 2017: *[Introduction to UNIX and RNA-seq](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=217225881)*
+* August 23rd - 24th, 2017: *[Introduction to RNA-seq using high-performance computing](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=217225881)* [Registration is now closed]
 
 * September 13th - 14th, 2017: *Introduction to R*
 
