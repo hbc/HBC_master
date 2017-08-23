@@ -21,9 +21,9 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
   
 * August 23rd - 24th, 2017: *[Introduction to RNA-seq using high-performance computing](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=217225881)* [Registration is now closed]
 
-* September 13th - 14th, 2017: *Introduction to R*
+* September 13th - 14th, 2017: *[Introduction to R](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667)*
 
-* October 25th, 2017: *Using DESeq2 for Differential Gene Expression* (Pre-req: Intro to R)
+* October 25th, 2017: *Using DESeq2 for Differential Gene Expression* (Pre-req: [Introduction to R](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667))
 
 #### Harvard Catalyst Workshops
 
