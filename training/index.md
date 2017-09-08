@@ -25,12 +25,12 @@ Each of these **2 to 3 hour**, **hands-on** workshops are freestanding, but some
 
 Please find the list of upcoming workshops in this new series below:
 
-| Lessons | Date |   Time   | Location | Prerequisites |
-|:----------|:----------|:----------|:----------|:----------|
-| Introduction to R & Visualizations with ggplot2 | 9/19/2017 | 2-4pm | HSPH, Building FXB, Room G11 | None |
-| Advanced plotting (including volcano plots and heatmaps) | 10/17/2017 | 1-4pm | HSPH, Building FXB, Room G11 | Beginner R or Intro R workshop |
-| Functional analysis of gene lists | 11/13/2017 | 1-4pm | TMEC, Room 328 | Beginner R or Intro R workshop |
-| Reproducible research using R (Rmarkdown: report generation) | 12/11/2017 | 1-4pm | HSPH, Buliding FXB, Room G13 | Beginner R or Intro R workshop |
+| Lessons | Date |   Timing   | Location | Prerequisites |
+|:----------|:----------:|:---------:|:----------:|:----------:|
+| Introduction to R & Visualizations with ggplot2 | 9/19/2017 | 2-4 pm | HSPH, Building FXB, Room G11 | None |
+| Advanced plotting (including volcano plots and heatmaps) | 10/17/2017 | 1-4 pm | HSPH, Building FXB, Room G11 | Beginner R or Intro R workshop |
+| Functional analysis of gene lists | 11/13/2017 | 1-4 pm | TMEC, Room 328 | Beginner R or Intro R workshop |
+| Reproducible research using R (Rmarkdown: report generation) | 12/11/2017 | 1-4 pm | HSPH, Buliding FXB, Room G13 | Beginner R or Intro R workshop |
 
 #### For HSCI, HNDC and on-quad HMS researchers
   
