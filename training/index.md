@@ -17,21 +17,34 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 ### Upcoming workshops/courses:
 
+#### For all researchers at Harvard University and affiliated institutions
+
+We are excited to announce a new workshop series called "Current Topics in Bioinformatics". Each of these **2-3 hour**, **hands-on**, workshops are freestanding, but some of them will have prerequisites. They will be held **monthly** in the Longwood Medical Area at either HSPH or HMS. The workshops are first-come-first-served and there is no registration process, so we encourage you to be punctual!
+
+Please find the list of upcoming workshops in this new series below:
+
+| Lessons | Date |   Time   | Location* | Prerequisites |
+|:----------|:----------|:----------|:----------|:----------|
+| Introduction to R & Visualizations with ggplot2 | 9/19/2017 | 2-4pm | HSPH, Building FXB, Room G11 | None |
+| Advanced plotting (including volcano plots and heatmaps) | 10/17/2017 | 1-4pm | HSPH, Building FXB, Room G11 | Beginner R or Intro R workshop |
+| Functional analysis of gene lists | 11/13/2017 | 1-4pm | TMEC, Room 328 | Beginner R or Intro R workshop |
+| Reproducible research using R (Rmarkdown: report generation) | 12/11/2017 | 1-4pm | HSPH, Buliding FXB, Room G13 | Beginner R or Intro R workshop |
+
 #### For HSCI, HNDC and on-quad HMS researchers
   
 * August 23rd - 24th, 2017: *[Introduction to RNA-seq using high-performance computing](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=217225881)* [Registration is now closed]
 
-* September 13th - 14th, 2017: *[Introduction to R](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667)*
+* September 13th - 14th, 2017: *[Introduction to R](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667)*  [Registration is now closed]
 
-* October 25th, 2017: *Using DESeq2 for Differential Gene Expression* (Pre-req: [Introduction to R](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667))
+* October 25th, 2017: *Using DESeq2 for Differential Gene Expression* (Prerequisite: [Introduction to R](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667))
 
 #### Harvard Catalyst Workshops
 
-* *[Introduction to Omics Research](http://catalyst.harvard.edu/services/omics/)* : An online course about the scope, analytical methods, & challenges of omics research.
+* *[Introduction to Omics Research](http://catalyst.harvard.edu/services/omics/)* : An online course about the scope, analytical methods, & challenges of omics research. [Registration is now closed]
 
-* September 25th - 27th, 2017: *[Introduction to UNIX and RNA-seq Analysis Workshop](http://catalyst.harvard.edu/services/bioinformatics-workshops/unix.html)*
+* September 25th - 27th, 2017: *[Introduction to UNIX and RNA-seq Analysis Workshop](http://catalyst.harvard.edu/services/bioinformatics-workshops/unix.html)*  [Registration is now closed]
 
-* November 1st - 3rd, 2017: *[Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis](http://catalyst.harvard.edu/services/bioinformatics-workshops/intro-to-r.html)*
+* November 1st - 3rd, 2017: *[Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis](http://catalyst.harvard.edu/services/bioinformatics-workshops/intro-to-r.html)*  [Registration is now closed]
 
 ---
 
