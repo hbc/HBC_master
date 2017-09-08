@@ -19,7 +19,9 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 #### For all researchers at Harvard University and affiliated institutions
 
-We are excited to announce a new workshop series called "Current Topics in Bioinformatics". Each of these **2-3 hour**, **hands-on**, workshops are freestanding, but some of them will have prerequisites. They will be held **monthly** in the Longwood Medical Area at either HSPH or HMS. The workshops are first-come-first-served and there is no registration process, so we encourage you to be punctual!
+We are excited to announce a *new workshop series* called **"Current Topics in Bioinformatics"**. 
+
+Each of these **2 to 3 hour**, **hands-on** workshops are freestanding, but some of them will have prerequisites. They will be held **monthly** in the Longwood Medical Area at either HSPH or HMS. The workshops are first-come-first-served and there is no registration process, so we encourage you to be punctual!
 
 Please find the list of upcoming workshops in this new series below:
 
