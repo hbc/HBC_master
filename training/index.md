@@ -27,7 +27,7 @@ Please find the list of upcoming workshops in this new series and their descript
 
 | Lessons | Date |   Timing   | Location | Prerequisites |
 |:----------|:----------:|:---------:|:----------:|:----------:|
-| Introduction to R & Visualizations with ggplot2 | 9/19/2017 | 2-4pm | HSPH, Building FXB, Room G11 | None |
+| [Introduction to R & Visualizations with ggplot2](https://github.com/hbctraining/Training-modules/blob/master/IntroR_ggplot2/README.md) | 9/19/2017 | 2-4pm | HSPH, Building FXB, Room G11 | None |
 | Advanced plotting (including volcano plots and heatmaps) | 10/17/2017 | 1-4pm | HSPH, Building FXB, Room G11 | Beginner R or Intro R workshop |
 | Functional analysis of gene lists | 11/13/2017 | 1-4pm | TMEC, Room 328 | Beginner R or Intro R workshop |
 | Reproducible research using R (Rmarkdown: report generation) | 12/11/2017 | 1-4pm | HSPH, Buliding FXB, Room G13 | Beginner R or Intro R workshop |
