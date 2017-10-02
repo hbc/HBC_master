@@ -17,18 +17,20 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 ### Upcoming workshops/courses:
 
+Please find a list of our various offerings below categorized by eligibility. If you would like to receive emails from us about training opportunities, please fill out [this form](https://harvard.az1.qualtrics.com/jfe/form/SV_6nGqk2i8RUi2oN7). 
+
 #### For all researchers at Harvard University and affiliated institutions
 
 We are excited to announce a *new workshop series* called **"Current Topics in Bioinformatics"**. 
 
 Each of these **2 to 3 hour**, **hands-on** workshops are freestanding, but some of them will have prerequisites. They will be held **monthly** in the Longwood Medical Area at either HSPH or HMS. The workshops are first-come-first-served and there is no registration process, so we encourage you to be punctual!
 
-Please find the list of upcoming workshops in this new series and their descriptions below:
+Please find the list of upcoming workshops in this new series and their descriptions below. We encourage you to bring a laptop with [R](http://lib.stat.cmu.edu/R/CRAN/) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download) installed to be able to follow along in class. 
 
 | Lessons | Date |   Timing   | Location | Prerequisites |
 |:----------|:----------:|:---------:|:----------:|:----------:|
 | [Introduction to R & Visualizations with ggplot2](https://github.com/hbctraining/Training-modules/blob/master/IntroR_ggplot2/README.md) | 9/19/2017 | 2-4pm | HSPH, Building FXB, Room G11 | None |
-| Advanced plotting (including volcano plots and heatmaps) | 10/17/2017 | 1-4pm | HSPH, Building FXB, Room G11 | Beginner R or Intro R workshop |
+| Plotting and visualization in R using ggplot2 and other packages | 10/17/2017 | 1-4pm | HSPH, Building FXB, Room G11 | Beginner R or Intro R workshop |
 | Functional analysis of gene lists | 11/13/2017 | 1-4pm | TMEC, Room 328 | Beginner R or Intro R workshop |
 | Reproducible research using R (Rmarkdown: report generation) | 12/11/2017 | 1-4pm | HSPH, Buliding FXB, Room G13 | Beginner R or Intro R workshop |
 
@@ -36,9 +38,9 @@ Please find the list of upcoming workshops in this new series and their descript
 
 In this brief introduction to the R programming environment, we will cover the basics of R and RStudio. R is a simple programming environment that enables the effective handling of data, while providing excellent graphical support. RStudio is a tool that provides a user-friendly environment for working with R. We will explore R syntax and data structures, functions and packages, and the basics of data wrangling. We will end with performing visualizations with the **ggplot2** R package for the generation of publication-worthy figures.
 
-**Advanced plotting (October 17th, 2017):**
+**Plotting and visualization in R using ggplot2 and other packages (October 17th, 2017):**
 
-For this workshop, we will be using R to perform a variety of advanced plotting methods. Using several R packages (ggplot2, ggrepel, pheatmap, etc.), we will learn how to change from a wide data format to a long data format for plotting purposes, how to label and/or repel individual data points on a scatter plot, and how to create heatmaps and volcano plots.
+For this workshop, we will be using R to perform a variety of plotting. Using several R packages (ggplot2, ggrepel, pheatmap, etc.), we will learn how to change from a wide data format to a long data format for plotting purposes, how to label and/or repel individual data points on a scatter plot, and how to create heatmaps and volcano plots.
 
 **Functional analysis of gene lists (November 13th, 2017):**
 
