@@ -23,9 +23,9 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 We are excited to announce a *new workshop series* called **"Current Topics in Bioinformatics"**. 
 
-Each of these **2 to 3 hour**, **hands-on** workshops are freestanding, but some of them will have prerequisites. They will be held **monthly** in the Longwood Medical Area at either HSPH or HMS. The workshops are first-come-first-served and there is no registration process, so we encourage you to be punctual!
+Each of these **2 to 3 hour**, **hands-on** workshops are freestanding, but some of them will have prerequisites. They will be held **monthly** in the Longwood Medical Area at either HSPH or HMS. Please **bring a laptop with [R](http://lib.stat.cmu.edu/R/CRAN/) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download) installed** to be able to follow along in class. The workshops are first-come-first-served and there is no registration process, so we encourage you to be punctual!
 
-Please find the list of upcoming workshops in this new series and their descriptions below. We encourage you to bring a laptop with [R](http://lib.stat.cmu.edu/R/CRAN/) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download) installed to be able to follow along in class. 
+Please find the list of upcoming workshops in this new series and their descriptions below: 
 
 | Lessons | Date |   Timing   | Location | Prerequisites |
 |:----------|:----------:|:---------:|:----------:|:----------:|
