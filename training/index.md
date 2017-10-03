@@ -54,17 +54,15 @@ Reproducible research is as important for computational analysis as it is at the
 
 #### For HSCI, HNDC and on-quad HMS researchers
   
-* August 23rd - 24th, 2017: *[Introduction to RNA-seq using high-performance computing](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=217225881)* [Registration is now closed]
-
-* September 13th - 14th, 2017: *[Introduction to R](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667)*  [Registration is now closed]
-
 * October 25th, 2017: *Using DESeq2 for Differential Gene Expression* (Prerequisite: [Introduction to R](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667))
+
+* November 20th - 21st, 2017: *Introduction to RNA-seq using high-performance computing* [Registration will open in late October]
+
+* December 6th - 7th, 2017: *Introduction to R* [Registration will open in mid November]
 
 #### Harvard Catalyst Workshops
 
 * *[Introduction to Omics Research](http://catalyst.harvard.edu/services/omics/)* : An online course about the scope, analytical methods, & challenges of omics research. [Registration is now closed]
-
-* September 25th - 27th, 2017: *[Introduction to UNIX and RNA-seq Analysis Workshop](http://catalyst.harvard.edu/services/bioinformatics-workshops/unix.html)*  [Registration is now closed]
 
 * November 1st - 3rd, 2017: *[Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis](http://catalyst.harvard.edu/services/bioinformatics-workshops/intro-to-r.html)*  [Registration is now closed]
 
@@ -101,9 +99,11 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 **2017**
 
+* *[HSCI/TnT/HNDC]* September 13th - 14th: **Introduction to R**
+* *[HSCI/TnT/HNDC]* August 23rd - 24th: **Introduction to RNA-seq using high-performance computing**
 * *[HSCI/TnT/HNDC]* May 31st - July 7th: **In-depth NGS data analysis course**
 * *[HNDC]* April 20th: **Introduction to R**
-* *[TnT/HNDC/HSCI]* April 3rd & 4th: **Introduction to R**
+* *[HSCI/TnT/HNDC]* April 3rd & 4th: **Introduction to R**
 * *[HSCI]* March 6th & 7th: **Introduction to UNIX and Orchestra with HMS-RC**
 * *[HSCI/TnT/HNDC]* February 15th: **Introduction to Differential Gene Expression (DGE) analysis for RNA-Seq**
 * *[TnT/HNDC]* February 10th & 13th: **Introduction to R**
