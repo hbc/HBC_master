@@ -16,7 +16,7 @@ HBC provides a single point of contact for Harvard researchers interested in bio
 
 ### Working with us
 
-**Consults are billed at $125/hour after an initial meeting to discuss your project.**  We will provide you with an estimate of the number of hours required, a quote and a start date as part of our [Memorandum of Understanding](https://dl.dropboxusercontent.com/u/407047/Ghost/hbc/CHB%20MOU.pdf) (PDF). During the project you will receive detailed monthly billing updates and ongoing analysis results via our project page.
+**Consults are billed at $150/hour after an initial meeting to discuss your project.**  We will provide you with an estimate of the number of hours required, a quote and a start date as part of our [Memorandum of Understanding](https://dl.dropboxusercontent.com/u/407047/Ghost/hbc/CHB%20MOU.pdf) (PDF). During the project you will receive detailed monthly billing updates and ongoing analysis results via our project page.
 
 <p><img src="http://dl.dropboxusercontent.com/u/407047/Ghost/hbc/support.gif" style="float: left; margin: 7px 15px 10px 0px;"  width="250" /> </p>
 
