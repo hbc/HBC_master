@@ -23,32 +23,18 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 We are excited to announce a *new workshop series* called **"Current Topics in Bioinformatics"**. 
 
-Each of these **2 to 3 hour**, **hands-on** workshops are freestanding, but some of them will have prerequisites. They will be held **monthly** in the Longwood Medical Area at either HSPH or HMS. Please **bring a laptop with [R](http://lib.stat.cmu.edu/R/CRAN/) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download) installed** to be able to follow along in class. The workshops are first-come-first-served and there is no registration process, so we encourage you to be punctual!
+Each of these **2 to 3 hour**, **hands-on** workshops are freestanding, but some of them will have prerequisites. They will be held **monthly** in the Longwood Medical Area at either HSPH or HMS. Please **bring a laptop with [R](http://lib.stat.cmu.edu/R/CRAN/) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download) installed** to be able to follow along in class; for additional installation instructions for each class, please click on the links below. The workshops are first-come-first-served and there is no registration process, so we encourage you to be punctual! 
 
-Please find the list of upcoming workshops in this new series and their descriptions below: 
+**Fall 2017 schedule:**
 
 | Lessons | Date |   Timing   | Location | Prerequisites |
 |:----------|:----------:|:---------:|:----------:|:----------:|
 | [Introduction to R & Visualizations with ggplot2](https://github.com/hbctraining/Training-modules/blob/master/IntroR_ggplot2/README.md) | 9/19/2017 | 2-4pm | HSPH, Building FXB, Room G11 | None |
 | [Plotting and visualization in R using ggplot2 and other packages](https://github.com/hbctraining/Training-modules/tree/master/Visualization_in_R/README.md) | 10/17/2017 | 1-4pm | HSPH, Building FXB, Room G11 | Beginner R or Intro R workshop |
-| Functional analysis of gene lists | 11/13/2017 | 1-4pm | TMEC, Room 328 | Beginner R or Intro R workshop |
+| [Functional analysis of gene lists](https://github.com/hbctraining/Training-modules/blob/master/DGE-functional-analysis/README.md) | 11/13/2017 | 1-4pm | TMEC, Room 328 | Beginner R or Intro R workshop |
 | Reproducible research using R (Rmarkdown: report generation) | 12/11/2017 | 1-4pm | HSPH, Buliding FXB, Room G13 | Beginner R or Intro R workshop |
 
-**Introduction to R and visualizations with ggplot2 (September 19th, 2017):**
-
-In this brief introduction to the R programming environment, we will cover the basics of R and RStudio. R is a simple programming environment that enables the effective handling of data, while providing excellent graphical support. RStudio is a tool that provides a user-friendly environment for working with R. We will explore R syntax and data structures, functions and packages, and the basics of data wrangling. We will end with performing visualizations with the **ggplot2** R package for the generation of publication-worthy figures.
-
-**Plotting and visualization in R using ggplot2 and other packages (October 17th, 2017):**
-
-For this workshop, we will be using R to perform a variety of plotting. Using several R packages (ggplot2, ggrepel, pheatmap, etc.), we will learn how to change from a wide data format to a long data format for plotting purposes, how to label and/or repel individual data points on a scatter plot, and how to create heatmaps and volcano plots.
-
-**Functional analysis of gene lists (November 13th, 2017):**
-
-Functional analysis methods help us to gain insight about the biology underlying a list of genes. These genes could be output from a differential expression analysis, a GWAS analysis, proteomics analysis, etc. Regardless of the source of the gene list, functional analysis can explore whether particular pathways or processes are enriched among a list of genes. In this 3-hour workshop, we will use over-representation analysis (ORA) and functional class scoring methods to identify potential pathways that are associated with our list of genes. We will be using the **clusterProfiler** R package to determine whether there is enrichment of any gene ontology (GO) processes in a list of genes and generate plots from the results. We will also give a brief introduction to using clusterProfiler to perform functional class scoring with gene set enrichment analysis (GSEA) followed by the **Pathview** R package for visualization.
-
-**Reproducible research using R (December 11th, 2017):**
-
-Reproducible research is as important for computational analysis as it is at the bench. Integrating your R data analyses into a report format allows for easy retrieval of the packages/versions and code used to generate your results and figures. It allows for efficient communication of your results with your collaborators. The **knitr** R package allows for the easy generation of professional reports for any R analysis, while allowing for customization and easy revision. In this 3-hour workshop, we will cover the simple RMarkdown syntax and explore options for customizing your reports.
+**For more detailed descriptions and access to class materials [click here](https://github.com/hbctraining/Training-modules/blob/master/README.md).**
 
 ***
 
