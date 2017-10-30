@@ -19,6 +19,12 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 Please find a list of our various offerings below categorized by eligibility. If you would like to receive emails from us about training opportunities, please fill out [this form](https://harvard.az1.qualtrics.com/jfe/form/SV_6nGqk2i8RUi2oN7). 
 
+#### For HSCI, HNDC and on-quad HMS researchers
+  
+* November 20th - 21st, 2017: *Introduction to RNA-seq using high-performance computing* [Registration is now open](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=217225881)
+
+* December 6th - 7th, 2017: *Introduction to R* [Registration will open in mid November]
+
 #### For all researchers at Harvard University and affiliated institutions
 
 We are excited to announce a *new workshop series* called **"Current Topics in Bioinformatics"**. 
@@ -37,12 +43,6 @@ Each of these **2 to 3 hour**, **hands-on** workshops are freestanding, but some
 **For more detailed descriptions and access to class materials [click here](https://github.com/hbctraining/Training-modules/blob/master/README.md).**
 
 ***
-
-#### For HSCI, HNDC and on-quad HMS researchers
-  
-* November 20th - 21st, 2017: *Introduction to RNA-seq using high-performance computing* [Registration is now open](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=217225881)
-
-* December 6th - 7th, 2017: *Introduction to R* [Registration will open in mid November]
 
 #### Harvard Catalyst Workshops
 
