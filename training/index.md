@@ -21,7 +21,7 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 #### For HSCI, HNDC and on-quad HMS researchers
   
-* November 20th - 21st, 2017: *Introduction to RNA-seq using high-performance computing* [Registration is now open](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=217225881)
+* November 20th - 21st, 2017: *Introduction to RNA-seq using high-performance computing.* [Click here to register!](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=217225881)
 
 * December 6th - 7th, 2017: *Introduction to R* [Registration will open in mid November]
 
