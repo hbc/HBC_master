@@ -40,9 +40,7 @@ Each of these **2 to 3 hour**, **hands-on** workshops are freestanding, but some
 
 #### For HSCI, HNDC and on-quad HMS researchers
   
-* October 25th, 2017: *Using DESeq2 for Differential Gene Expression* (Prerequisite: [Introduction to R](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667))
-
-* November 20th - 21st, 2017: *Introduction to RNA-seq using high-performance computing* [Registration will open in late October]
+* November 20th - 21st, 2017: *Introduction to RNA-seq using high-performance computing* [Registration is now open](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=217225881)
 
 * December 6th - 7th, 2017: *Introduction to R* [Registration will open in mid November]
 
@@ -85,6 +83,7 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 **2017**
 
+* *[HSCI/TnT/HNDC]* October 25th - 26th: **Using DESeq2 for Differential Gene Expression**
 * *[HSCI/TnT/HNDC]* September 13th - 14th: **Introduction to R**
 * *[HSCI/TnT/HNDC]* August 23rd - 24th: **Introduction to RNA-seq using high-performance computing**
 * *[HSCI/TnT/HNDC]* May 31st - July 7th: **In-depth NGS data analysis course**
