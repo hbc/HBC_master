@@ -10,6 +10,7 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 - HSCI researchers 
 
 *In addition, we also teach short courses for [Harvard Catalyst](http://catalyst.harvard.edu/services/bioinformatics-workshops/).*
+
 ---
 
 ### Upcoming workshops/courses:
