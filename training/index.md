@@ -21,7 +21,7 @@ Please find a list of our various offerings below categorized by eligibility. If
   
 * November 20th - 21st, 2017: *Introduction to RNA-seq using high-performance computing* [Registration is now closed]
 
-* December 6th - 7th, 2017: *Introduction to R* [http://tinyurl.com/hbc-intro-r-info](http://tinyurl.com/hbc-intro-r-info)
+* December 6th - 7th, 2017: *Introduction to R* [Registration is now closed]
 
 #### For all researchers at Harvard University and affiliated institutions
 
