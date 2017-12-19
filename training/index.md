@@ -39,9 +39,9 @@ Each of these **2 to 3 hour**, **hands-on** workshops are freestanding, but some
 
 | Lessons | Date |   Timing   | Location | Prerequisites |
 |:----------|:----------:|:---------:|:----------:|:----------:|
-| [Introduction to R & Visualizations with ggplot2](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/README.html) | 9/19/2017 | 2-4pm | HSPH, Building FXB, Room G11 | None |
-| [Plotting and visualization in R using ggplot2 and other packages](https://hbctraining.github.io/Training-modules/Visualization_in_R/README.html) | 10/17/2017 | 1-4pm | HSPH, Building FXB, Room G11 | Beginner R or Intro R workshop |
-| [Functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis/README.html) | 11/13/2017 | 1-4pm | TMEC, Room 328 | Beginner R or Intro R workshop |
+| [Introduction to R & Visualizations with ggplot2](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) | 9/19/2017 | 2-4pm | HSPH, Building FXB, Room G11 | None |
+| [Plotting and visualization in R using ggplot2 and other packages](https://hbctraining.github.io/Training-modules/Visualization_in_R/) | 10/17/2017 | 1-4pm | HSPH, Building FXB, Room G11 | Beginner R or Intro R workshop |
+| [Functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis/) | 11/13/2017 | 1-4pm | TMEC, Room 328 | Beginner R or Intro R workshop |
 | [Reproducible research using R: report generation using RMarkdown and `knitr`](https://hbctraining.github.io/Training-modules/Rmarkdown/) | 12/11/2017 | 1-4pm | HSPH, Buliding Kresge, Room G2 | Beginner R or Intro R workshop |
 
 ***
