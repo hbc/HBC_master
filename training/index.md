@@ -11,7 +11,7 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 *In addition, we also teach short courses for [Harvard Catalyst](http://catalyst.harvard.edu/services/bioinformatics-workshops/).*
 
----
+***
 
 ### Upcoming workshops/courses:
 
@@ -19,9 +19,13 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 #### For HSCI, HNDC and on-quad HMS researchers
   
-* November 20th - 21st, 2017: *Introduction to RNA-seq using high-performance computing* [Registration is now closed]
+* January 29th - 31st, 2018: *Introduction to RNA-seq using high-performance computing* [Registration will open in on January 8th, 2018]
 
-* December 6th - 7th, 2017: *Introduction to R* [Registration is now closed]
+#### Harvard Catalyst Workshops
+
+* April 5th, 6th, 12th and 13th, 2018: *Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis* [Registration will open in early 2018]
+
+***
 
 #### For all researchers at Harvard University and affiliated institutions
 
@@ -29,30 +33,22 @@ We are excited to announce a *new workshop series* called **"Current Topics in B
 
 Each of these **2 to 3 hour**, **hands-on** workshops are freestanding, but some of them will have prerequisites. They will be held **monthly** in the Longwood Medical Area at either HSPH or HMS. Please **bring a laptop with [R](http://lib.stat.cmu.edu/R/CRAN/) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download) installed** to be able to follow along in class; for additional installation instructions for each class, please click on the links in the table below. The workshops are first-come-first-served and there is no registration process, so we encourage you to be punctual! 
 
-**Fall 2017 schedule:**
+**Spring 2018 schedule will be announced in mid-January 2018**
+
+**Fall 2017 schedule and lesson links:**
 
 | Lessons | Date |   Timing   | Location | Prerequisites |
 |:----------|:----------:|:---------:|:----------:|:----------:|
 | [Introduction to R & Visualizations with ggplot2](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/README.html) | 9/19/2017 | 2-4pm | HSPH, Building FXB, Room G11 | None |
 | [Plotting and visualization in R using ggplot2 and other packages](https://hbctraining.github.io/Training-modules/Visualization_in_R/README.html) | 10/17/2017 | 1-4pm | HSPH, Building FXB, Room G11 | Beginner R or Intro R workshop |
 | [Functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis/README.html) | 11/13/2017 | 1-4pm | TMEC, Room 328 | Beginner R or Intro R workshop |
-| Reproducible research using R (Rmarkdown: report generation) | 12/11/2017 | 1-4pm | HSPH, Buliding FXB, Room G13 | Beginner R or Intro R workshop |
-
-**For more detailed descriptions and access to class materials [click here](https://hbctraining.github.io/Training-modules/README.html).**
+| [Reproducible research using R: report generation using RMarkdown and `knitr`](https://hbctraining.github.io/Training-modules/Rmarkdown/) | 12/11/2017 | 1-4pm | HSPH, Buliding Kresge, Room G2 | Beginner R or Intro R workshop |
 
 ***
 
-#### Harvard Catalyst Workshops
-
-* *[Introduction to Omics Research](http://catalyst.harvard.edu/services/omics/)* : An online course about the scope, analytical methods, & challenges of omics research. [Registration is now closed]
-
-* November 1st - 3rd, 2017: *[Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis](http://catalyst.harvard.edu/services/bioinformatics-workshops/intro-to-r.html)*  [Registration is now closed]
-
----
-
 ### Training program description:
 
-We provide bioinformatics training through both **shorter workshops** and **in-depth courses**. [[Click here](http://bioinformatics.sph.harvard.edu/training/#upcoming-workshopscourses) for a list of upcoming workshops/courses, or scroll down.]
+We provide bioinformatics training through both **shorter workshops** and **in-depth courses**. [[Click here](http://bioinformatics.sph.harvard.edu/training/#upcoming-workshopscourses) for a list of upcoming workshops/courses]
 
 #### 1. Workshops 
 
@@ -75,12 +71,14 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 *No prior NGS or command line expertise is required for our workshops or courses unless explicitly stated.*
 		
----
+***
 
 ### Past Workshops:
 
 **2017**
 
+* *[HSCI/TnT/HNDC]* December 6th - 7th: **Introduction to R**
+* *[HSCI/TnT/HNDC]* November 20th - 21st: **Introduction to RNA-seq using high-performance computing**
 * *[HSCI/TnT/HNDC]* October 25th - 26th: **Using DESeq2 for Differential Gene Expression**
 * *[HSCI/TnT/HNDC]* September 13th - 14th: **Introduction to R**
 * *[HSCI/TnT/HNDC]* August 23rd - 24th: **Introduction to RNA-seq using high-performance computing**
@@ -118,10 +116,10 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 * *[TnT/HNDC]* July 17th: **RNA-Seq with Galaxy**
 * *[TnT/HNDC]* June 26th: **Introduction to R and R graphics with ggplot2** (in collaboration with [IQSS](http://www.iq.harvard.edu/))
 
----
+***
 
 ### Contact:
 
 For any training-related questions, please email us at [hbctraining@hsph.harvard.edu](mailto:hbctraining@hsph.harvard.edu).
 
-
+Training materials can be [accessed here](https://hbctraining.github.io/main/). Please read our [licensing information](https://hbctraining.github.io/main/license) prior to reusing or adapting our materials.
