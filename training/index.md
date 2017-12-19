@@ -77,23 +77,29 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 
 **2017**
 
-* *[HSCI/TnT/HNDC]* December 6th - 7th: **Introduction to R**
-* *[HSCI/TnT/HNDC]* November 20th - 21st: **Introduction to RNA-seq using high-performance computing**
-* *[HSCI/TnT/HNDC]* October 25th - 26th: **Using DESeq2 for Differential Gene Expression**
-* *[HSCI/TnT/HNDC]* September 13th - 14th: **Introduction to R**
-* *[HSCI/TnT/HNDC]* August 23rd - 24th: **Introduction to RNA-seq using high-performance computing**
+* *[HSCI/TnT/HNDC]* December 6th & 7th: **Introduction to R**
+* *[HSCI/TnT/HNDC]* November 20th & 21st: **Introduction to RNA-seq using high-performance computing**
+* *[Harvard Catalyst]* November 1st - 3rd: **Introduction to R and Differential Gene Expression (DGE) analysis for RNA-seq**
+* *[HSCI/TnT/HNDC]* October 25th & 26th: **Using DESeq2 for Differential Gene Expression**
+* *[Harvard Catalyst]* September 25th - 27th: **Introduction to RNA-seq using high-performance computing**
+* *[HSCI/TnT/HNDC]* September 13th & 14th: **Introduction to R**
+* *[HSCI/TnT/HNDC]* August 23rd & 24th: **Introduction to RNA-seq using high-performance computing**
 * *[HSCI/TnT/HNDC]* May 31st - July 7th: **In-depth NGS data analysis course**
+* *[Harvard Catalyst]* May 17th - 19th: **Introduction to R and Differential Gene Expression (DGE) analysis for RNA-seq**
 * *[HNDC]* April 20th: **Introduction to R**
 * *[HSCI/TnT/HNDC]* April 3rd & 4th: **Introduction to R**
+* *[Harvard Catalyst]* March 16th: **Introduction to RNA-seq with Galaxy**
 * *[HSCI]* March 6th & 7th: **Introduction to UNIX and Orchestra with HMS-RC**
-* *[HSCI/TnT/HNDC]* February 15th: **Introduction to Differential Gene Expression (DGE) analysis for RNA-Seq**
+* *[HSCI/TnT/HNDC]* February 15th: **Introduction to Differential Gene Expression (DGE) analysis for RNA-seq**
 * *[TnT/HNDC]* February 10th & 13th: **Introduction to R**
 * *[HSCI]* January 24th & 25th: **Introduction to R**
 
 **2016**
 
+* *[Harvard Catalyst]* November 17th & 18th: **Introduction to UNIX and Orchestra with HMS-RC**
 * *[HSCI/TnT/HNDC]* October 31st - December 2nd: **In-depth NGS data analysis course (RNA-Seq)**
-* *[HSCI/TnT/HNDC]* October 20th: **Introduction to Differential Gene Expression (DGE) analysis for RNA-Seq**
+* *[HSCI/TnT/HNDC]* October 20th: **Introduction to Differential Gene Expression (DGE) analysis for RNA-seq**
+* *[Harvard Catalyst]* October 14th: **Introduction to RNA-seq with Galaxy**
 * *[TnT/HNDC]* September 29th & 30th: **Introduction to R**
 * *[HSCI]* September 8th & 9th: **Introduction to R**
 * *[HSCI]* August 22nd & 23rd: **Introduction to UNIX and Orchestra with HMS-RC**
@@ -105,15 +111,15 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 **2015**
 
 * *[HSCI]* December 11th: **Introduction to R**
-* *[HSCI]* November 13th: *RNA-Seq with Galaxy**
-* *[TnT/HNDC]* November 23rd: **RNA-Seq with Galaxy**
+* *[TnT/HNDC]* November 23rd: **Introduction to RNA-seq with Galaxy**
+* *[HSCI]* November 13th: **Introduction to RNA-seq with Galaxy**
 * *[TnT/HNDC]* October 8th & 9th: **Introduction to UNIX and Orchestra with HMS-RC**
-* *[TnT/HNDC]* October 2nd: **RNA-Seq with Galaxy**
-* *[TnT/HNDC]* September 21st: **RNA-Seq with Galaxy**
+* *[TnT/HNDC]* October 2nd: **Introduction to RNA-seq with Galaxy**
+* *[TnT/HNDC]* September 21st: **Introduction to RNA-seq with Galaxy**
 * *[TnT/HNDC]* September 11th: **ChIP-Seq with Galaxy**
-* *[TnT/HNDC]* August 14th: **RNA-Seq with Galaxy**
+* *[TnT/HNDC]* August 14th: **Introduction to RNA-seq with Galaxy**
 * *[TnT/HNDC]* July 22nd: **A Hands-on Introduction to Python** (in collaboration with [IQSS](http://www.iq.harvard.edu/))
-* *[TnT/HNDC]* July 17th: **RNA-Seq with Galaxy**
+* *[TnT/HNDC]* July 17th: **Introduction to RNA-seq with Galaxy**
 * *[TnT/HNDC]* June 26th: **Introduction to R and R graphics with ggplot2** (in collaboration with [IQSS](http://www.iq.harvard.edu/))
 
 ***
