@@ -19,9 +19,7 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 #### For HSCI, HNDC and on-quad HMS researchers
   
-* January 29th - 31st, 2018: *Introduction to RNA-seq using high-performance computing*. 
-
-**Registration is now open!** More information and a link to register is available at [https://tinyurl.com/rnaseq-hpc-2018](https://tinyurl.com/rnaseq-hpc-2018).
+* January 29th - 31st, 2018: *Introduction to RNA-seq using high-performance computing*. **Registration is now open at [https://tinyurl.com/rnaseq-hpc-2018](https://tinyurl.com/rnaseq-hpc-2018)!!**
 
 #### Harvard Catalyst Workshops
 
