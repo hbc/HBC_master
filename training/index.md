@@ -19,11 +19,11 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 #### For HSCI, HNDC and on-quad HMS researchers
   
-* January 29th - 31st, 2018: *Introduction to RNA-seq using high-performance computing*. **Registration is now open at [https://tinyurl.com/rnaseq-hpc-2018](https://tinyurl.com/rnaseq-hpc-2018)!!**
+* January 29th - 31st, 2018: *Introduction to RNA-seq using high-performance computing*. **Registration is now closed.**
 
 #### Harvard Catalyst Workshops
 
-* April 5th, 6th, 12th and 13th, 2018: *Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis* [Registration will open in early 2018]
+* April 5th, 6th, 12th and 13th, 2018: *Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis* **[Apply for this workshop here](https://catalyst.harvard.edu/services/bioinformatics-workshops/intro-to-r.html)!**
 
 ***
 
