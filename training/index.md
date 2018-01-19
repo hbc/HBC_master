@@ -25,8 +25,6 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 * April 5th, 6th, 12th and 13th, 2018: *Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis* **[Apply for this workshop here](https://catalyst.harvard.edu/services/bioinformatics-workshops/intro-to-r.html)!**
 
-***
-
 #### For all researchers at Harvard University and affiliated institutions
 
 We are excited to announce a new set of workshops for Spring 2018 in the **Current Topics in Bioinformatics** series of short workshops. 
