@@ -29,20 +29,21 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 #### For all researchers at Harvard University and affiliated institutions
 
-We are excited to announce a *new workshop series* called **"Current Topics in Bioinformatics"**. 
+We are excited to announce a new set of workshops for Spring 2018 in the **Current Topics in Bioinformatics** series of short workshops. 
 
-Each of these **2 to 3 hour**, **hands-on** workshops are freestanding, but some of them will have prerequisites. They will be held **monthly** in the Longwood Medical Area at either HSPH or HMS. Please **bring a laptop with [R](http://lib.stat.cmu.edu/R/CRAN/) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download) installed** to be able to follow along in class; for additional installation instructions for each class, please click on the links in the table below. The workshops are first-come-first-served and there is no registration process, so we encourage you to be punctual! 
+Similar to last semester, each of these **2 to 3 hour**, **hands-on** workshops are freestanding, but some of them will have prerequisites. They will be held **monthly** in the Longwood Medical Area at either HSPH or HMS. The workshops are first-come-first-served and there is no registration process, so we encourage you to be punctual! 
 
-**Spring 2018 schedule will be announced in mid-January 2018**
+Please **bring a laptop** to be able to follow along in class. For instructions to prepare yourself and your laptop for the workshop, please click on the link to the workshop you are interested in attending in the table below.
 
-**Fall 2017 schedule and lesson links:**
+**Spring 2018 schedule and lesson links:**
 
 | Lessons | Date |   Timing   | Location | Prerequisites |
 |:----------|:----------:|:---------:|:----------:|:----------:|
-| [Introduction to R & Visualizations with ggplot2](https://hbctraining.github.io/Training-modules/IntroR_ggplot2/) | 9/19/2017 | 2-4pm | HSPH, Building FXB, Room G11 | None |
-| [Plotting and visualization in R using ggplot2 and other packages](https://hbctraining.github.io/Training-modules/Visualization_in_R/) | 10/17/2017 | 1-4pm | HSPH, Building FXB, Room G11 | Beginner R or Intro R workshop |
-| [Functional analysis of gene lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis/) | 11/13/2017 | 1-4pm | TMEC, Room 328 | Beginner R or Intro R workshop |
-| [Reproducible research using R: report generation using RMarkdown and `knitr`](https://hbctraining.github.io/Training-modules/Rmarkdown/) | 12/11/2017 | 1-4pm | HSPH, Buliding Kresge, Room G2 | Beginner R or Intro R workshop |
+| [Introduction to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell/) | 1/26/2018 | 1-4pm | HSPH, Building Kresge, Room G2 | None |
+| [Intermediate bash](https://hbctraining.github.io/Training-modules/Intermediate_shell/) | 2/23/2018 | 1-4pm | HSPH, Building Kresge, Room G2 | Beginner bash or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell/) |
+| [Version control using Git and Github](https://hbctraining.github.io/Training-modules/Git-Github) | 3/13/2018 | 1-4pm | [HMS-TMEC](https://goo.gl/maps/8SrsY7F3rSp), Room 227 | Beginner bash or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell/) |
+| [Accessing genomic reference and experimental sequencing data](https://hbctraining.github.io/Training-modules/Accessing_public_genomic_data) | 4/27/2018 | 1-4pm | HSPH, Buliding FXB, Room G12 | Beginner bash or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell/) |
+| [Exploring genomic variants using the GEMINI framework](https://hbctraining.github.io/Training-modules/Exploring_variants_with_GEMINI) | 5/25/2018 | 1-4pm | HSPH, Buliding Kresge, Room 502 | Beginner bash or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell/) |
 
 ***
 
