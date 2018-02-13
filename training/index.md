@@ -19,7 +19,7 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 #### For HSCI, HNDC and on-quad HMS researchers
   
-* February 26th - 28th, 2018: *Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis*. **Registration is now open, [click here for details](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=224239187).**
+* February 26th - 28th, 2018: *Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis*. **Registration is now closed.**
 
 * March 21st - 23rd, 2018: *Introduction to ChIP-seq using high-performance computing*. Registration will open pn March 1st, 2018.
 
