@@ -18,10 +18,8 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 Please find a list of our various offerings below categorized by eligibility. If you would like to receive emails from us about training opportunities, please fill out [this form](https://harvard.az1.qualtrics.com/jfe/form/SV_6nGqk2i8RUi2oN7). 
 
 #### For HSCI, HNDC and on-quad HMS researchers
-  
-* February 26th - 28th, 2018: *Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis*. **Registration is now closed.**
 
-* March 21st - 23rd, 2018: *Introduction to ChIP-seq using high-performance computing*. Registration will open pn March 1st, 2018.
+* March 21st - 23rd, 2018: *Introduction to ChIP-seq using high-performance computing*. Registration is now open, please go to (https://tinyurl.com/chipseq-hpc-2018)[https://tinyurl.com/chipseq-hpc-2018] for more information.
 
 #### Harvard Catalyst Workshops
 
@@ -77,7 +75,8 @@ These intensive courses run for 10-12 days and are aimed at bench biologists int
 ### Past Workshops:
 
 **2018**
-
+  
+* *[HSCI/TnT]* February 26th - 28th: **Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis**
 * *[HSCI/TnT]* January 29th - 31st: **Introduction to RNA-seq using high-performance computing**
 
 **2017**
