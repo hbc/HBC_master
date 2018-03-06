@@ -19,11 +19,7 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 #### For HSCI, HNDC and on-quad HMS researchers
 
-* March 21st - 23rd, 2018: *Introduction to ChIP-seq using high-performance computing*. Registration is now open, please go to (https://tinyurl.com/chipseq-hpc-2018)[https://tinyurl.com/chipseq-hpc-2018] for more information.
-
-#### Harvard Catalyst Workshops
-
-* April 5th, 6th, 12th and 13th, 2018: *Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis* **[Apply for this workshop here](https://catalyst.harvard.edu/services/bioinformatics-workshops/intro-to-r.html)!**
+* March 21st - 23rd, 2018: *Introduction to ChIP-seq using high-performance computing*. Registration is now open, please go to [https://tinyurl.com/chipseq-hpc-2018](https://tinyurl.com/chipseq-hpc-2018) for more information.
 
 #### For all researchers at Harvard University and affiliated institutions
 
@@ -42,6 +38,10 @@ Please **bring a laptop** to be able to follow along in class. For instructions 
 | [Version control using Git and Github](https://hbctraining.github.io/Training-modules/Git-Github) | 3/13/2018 | 1-4pm | [HMS-TMEC](https://goo.gl/maps/8SrsY7F3rSp), Room 227 | Beginner bash or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell/) |
 | [Accessing genomic reference and experimental sequencing data](https://hbctraining.github.io/Training-modules/Accessing_public_genomic_data) | 4/27/2018 | 1-4pm | HSPH, Buliding FXB, Room G12 | Beginner bash or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell/) |
 | [Exploring genomic variants using the GEMINI framework](https://hbctraining.github.io/Training-modules/Exploring_variants_with_GEMINI) | 5/25/2018 | 1-4pm | HSPH, Buliding Kresge, Room 502 | Beginner bash or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell/) |
+
+##### Harvard Catalyst Workshops
+
+* April 5th, 6th, 12th and 13th, 2018: *Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis* **[Apply for this workshop here](https://catalyst.harvard.edu/services/bioinformatics-workshops/intro-to-r.html)!**
 
 ***
 
