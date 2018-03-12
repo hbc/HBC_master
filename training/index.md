@@ -19,7 +19,7 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 #### For HSCI, HNDC and on-quad HMS researchers
 
-* March 21st - 23rd, 2018: *Introduction to ChIP-seq using high-performance computing*. **Registration is now open**, please go to [https://tinyurl.com/chipseq-hpc-2018](https://tinyurl.com/chipseq-hpc-2018) for more information.
+* March 21st - 23rd, 2018: *Introduction to ChIP-seq using high-performance computing*. **Registration is now closed.**
 
 #### For all researchers at Harvard University and affiliated institutions
 
