@@ -53,19 +53,19 @@ We provide bioinformatics training through both **shorter workshops** and **in-d
 
 These workshops vary in duration from half-day to 3 days and are aimed at biologists interested in expanding their knowledge of Next-Generation Sequence (NGS) data analysis, and basic computational skills for working with big or small datasets.
 
-* **Next-Generation Sequencing Introduction Series**
+* **Next-Generation Sequencing**
 
 	Short workshops on RNA-Seq, ChIP-Seq to introduce basic concepts of Next-Generation Sequencing (NGS) analysis. The goal of these workshops are to enable researchers to design their studies appropriately and perform preliminary data analyses using best practices.
 
-* **Basic Skills for Data Analysis Series**	
+* **Basic Skills for Data Analysis**	
 
 	Topics include R, data visualization using R, Linux shell, High-Performance Computing (HPC), version control, Research Data Management, etc.
 
 #### 2.  In-Depth Next Generation Sequencing Analysis Courses
 
-These intensive courses run for 10-12 days and are aimed at bench biologists interested in learning **how to perform independent, best practice NGS-based analyses**. Topics include:
+These intensive courses run for 8-12 days and are aimed at bench biologists interested in learning **how to perform independent, best practice NGS-based analyses**. Topics include:
 
-- Unix & High-Performance Computing ([Orchestra](https://rc.hms.harvard.edu/#orchestra))
+- Unix & High-Performance Computing ([O2](https://rc.hms.harvard.edu/))
 - NGS data analysis (RNA-Seq, ChIP-Seq, Variant calling)
 - Statistical analysis using R
 - Functional analysis
