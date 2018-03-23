@@ -11,6 +11,8 @@ Work at the HBC is funded by individual labs and collaborations with research gr
 
 The Core partners with a number of academic institutions and organizations to provide bioinformatics analyses and training to members of their community:
 
+#### Current
+
 <table>
     <colgroup>
         <col width="20%">
@@ -66,15 +68,6 @@ The Core partners with a number of academic institutions and organizations to pr
 
     <tr>
         <td>
-            <img  src="/images/hndc_new_logo_without_background.jpg"  width="150" />
-        </td>
-        <td markdown="span">
-            Through funding from the [Harvard NeuroDiscovery Center](http://www.neurodiscovery.harvard.edu/) the core supports neurobiology researchers.
-        </td>
-    </tr>
-
-    <tr>
-        <td>
             <img src="/images/hucfarlogo-medium.jpg" width="150" />
         </td>
         <td width="75%" markdown="span">
@@ -95,7 +88,27 @@ The Core partners with a number of academic institutions and organizations to pr
 
 We receive additional funding through individual NIH and DARPA grants.
 
-----
+#### Former
+
+<table>
+    <colgroup>
+        <col width="20%">
+        <col width="80%">
+    </colgroup>
+
+    <tr>
+        <td>
+            <img  src="/images/hndc_new_logo_without_background.jpg"  width="150" />
+        </td>
+        <td markdown="span">
+            Through funding from the [Harvard NeuroDiscovery Center](http://www.neurodiscovery.harvard.edu/) the core supported neurobiology researchers.
+        </td>
+    </tr>
+
+</table>
+
+
+
 
 ### Industry Collaborations
 
