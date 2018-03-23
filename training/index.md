@@ -3,10 +3,9 @@ layout: archive
 title: "Training"
 ---
 
-With funding from the HMS Tools and Technology Committee, the Harvard NeuroDiscovery Center (HNDC) and the Harvard Stem Cell Institute (HSCI) we have a dedicated bioinformatics training program for:
+With funding from the HMS Tools and Technology Committee and the Harvard Stem Cell Institute (HSCI) we have a dedicated bioinformatics training program for:
 
 - HMS researchers with a primary affiliation in one of the Basic and Social Science Departments on the Quad 
-- researchers with an affiliation with the HNDC
 - HSCI researchers 
 
 *In addition, we also teach short courses for [Harvard Catalyst](http://catalyst.harvard.edu/services/bioinformatics-workshops/).*
@@ -17,7 +16,7 @@ With funding from the HMS Tools and Technology Committee, the Harvard NeuroDisco
 
 Please find a list of our various offerings below categorized by eligibility. If you would like to receive emails from us about training opportunities, please fill out [this form](https://harvard.az1.qualtrics.com/jfe/form/SV_6nGqk2i8RUi2oN7). 
 
-#### For HSCI, HNDC and on-quad HMS researchers
+#### For HSCI and on-quad HMS researchers
 
 * March 21st - 23rd, 2018: *Introduction to ChIP-seq using high-performance computing*. **Registration is now closed.**
 
