@@ -43,9 +43,9 @@ Please **bring a laptop** to be able to follow along in class. For instructions 
 
 ##### Harvard Catalyst Workshops
 
-* April 5th, 6th, 12th and 13th, 2018: *Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis*. **Application process is now closed.**
+* April 5th, 6th, 12th and 13th, 2018: *Introduction to R and Differential Gene Expression (DGE) analysis for RNA-seq*. **Application process is now closed.**
 * October 31st - November 2nd, 2018:  *Introduction to RNA-seq using High-Performance Computing*. **Application process will open in late summer.**
-* November 14th - 16th, 2018: *Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis*. **Application process will open in late summer.**
+* November 14th - 16th, 2018: *Introduction to R and Differential Gene Expression (DGE) analysis for RNA-seq*. **Application process will open in late summer.**
 
 ***
 
@@ -83,7 +83,7 @@ These intensive courses run for 8-12 days and are aimed at bench biologists inte
 **2018**
 
 * *[HSCI/TnT]* March 21st - 23rd: **Introduction to ChIP-seq using high-performance computing**
-* *[HSCI/TnT]* February 26th - 28th: **Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis**
+* *[HSCI/TnT]* February 26th - 28th: **Introduction to R and Differential Gene Expression (DGE) analysis for RNA-seq**
 * *[HSCI/TnT]* January 29th - 31st: **Introduction to RNA-seq using high-performance computing**
 
 **2017**
