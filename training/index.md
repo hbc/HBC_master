@@ -3,7 +3,7 @@ layout: archive
 title: "Training"
 ---
 
-With funding from the HMS Tools and Technology Committee and the Harvard Stem Cell Institute (HSCI) we have a dedicated bioinformatics training program for:
+With funding from the [HMS Tools and Technology Committee](https://hms.harvard.edu/research/hms-researcher-resources/tools-and-technology) and the [Harvard Stem Cell Institute (HSCI)](https://hsci.harvard.edu/) we have a dedicated bioinformatics training program for:
 
 - HMS researchers with a primary affiliation in one of the Basic and Social Science Departments on the Quad 
 - HSCI researchers 
@@ -18,7 +18,10 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 #### For HSCI and on-quad HMS researchers
 
-* March 21st - 23rd, 2018: *Introduction to ChIP-seq using high-performance computing*. **Registration is now closed.**
+* April 30th - May 1st, 2018: *Introduction to R*. **Registration opens on April 9th.**
+* May 30th - May 31st, 2018: *Introduction to shell and High-Performance Computing*. **Registration opens on May 9th.**
+* June 11th - 13th, 2018: *Introduction to RNA-seq using High-Performance Computing*. **Registration opens on May 21st.**
+* September - October, 2018 [Tentative]: *12-day in-depth "NGS Data Analysis Course"*. **More information will be posted by early July.**
 
 #### For all researchers at Harvard University and affiliated institutions
 
@@ -34,13 +37,15 @@ Please **bring a laptop** to be able to follow along in class. For instructions 
 |:----------|:----------:|:---------:|:----------:|:----------:|
 | [Introduction to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell/) | 1/26/2018 | 1-4pm | HSPH, Building Kresge, Room G2 | None |
 | [Intermediate bash](https://hbctraining.github.io/Training-modules/Intermediate_shell/) | 2/23/2018 | 1-4pm | HSPH, Building Kresge, Room G2 | Beginner bash or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell/) |
-| [CANCELLED][Version control using Git and Github](https://hbctraining.github.io/Training-modules/Git-Github) | 3/13/2018 | 1-4pm | [HMS-TMEC](https://goo.gl/maps/8SrsY7F3rSp), Room 227 | Beginner bash or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell/) |
 | [Accessing genomic reference and experimental sequencing data](https://hbctraining.github.io/Training-modules/Accessing_public_genomic_data) | 4/27/2018 | 1-4pm | HSPH, Buliding FXB, Room G12 | Beginner bash or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell/) |
-| [Exploring genomic variants using the GEMINI framework](https://hbctraining.github.io/Training-modules/Exploring_variants_with_GEMINI) | 5/25/2018 | 1-4pm | HSPH, Buliding Kresge, Room 502 | Beginner bash or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell/) |
+| *[RESCHEDULED from 3/13/2018]* Version control using Git and Github](https://hbctraining.github.io/Training-modules/Git-Github) | **5/25/2018** | 1-4pm | **HSPH, Buliding Kresge, Room 502** | Beginner bash or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell/) |(https://hbctraining.github.io/Training-modules/Intro_shell/) |
+| [RESCHEDULED] [Exploring genomic variants using the GEMINI framework](https://hbctraining.github.io/Training-modules/Exploring_variants_with_GEMINI) | TBD | TBD | TBD | Beginner bash or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell/) |
 
 ##### Harvard Catalyst Workshops
 
-* April 5th, 6th, 12th and 13th, 2018: *Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis* **[Apply for this workshop here](https://catalyst.harvard.edu/services/bioinformatics-workshops/intro-to-r.html)!**
+* April 5th, 6th, 12th and 13th, 2018: *Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis*. **Application process is now closed.**
+* October 31st - November 2nd, 2018:  *Introduction to RNA-seq using High-Performance Computing*. **Application process will open in late summer.**
+* November 14th - 16th, 2018: *Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis*.**Application process will open in late summer.**
 
 ***
 
@@ -76,7 +81,8 @@ These intensive courses run for 8-12 days and are aimed at bench biologists inte
 ### Past Workshops:
 
 **2018**
-  
+
+* *[HSCI/TnT]* March 21st - 23rd: **Introduction to ChIP-seq using high-performance computing**
 * *[HSCI/TnT]* February 26th - 28th: **Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis**
 * *[HSCI/TnT]* January 29th - 31st: **Introduction to RNA-seq using high-performance computing**
 
