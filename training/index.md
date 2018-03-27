@@ -45,7 +45,7 @@ Please **bring a laptop** to be able to follow along in class. For instructions 
 
 * April 5th, 6th, 12th and 13th, 2018: *Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis*. **Application process is now closed.**
 * October 31st - November 2nd, 2018:  *Introduction to RNA-seq using High-Performance Computing*. **Application process will open in late summer.**
-* November 14th - 16th, 2018: *Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis*.**Application process will open in late summer.**
+* November 14th - 16th, 2018: *Introduction to R: Basics, Plots, and RNA-seq Differential Expression Analysis*. **Application process will open in late summer.**
 
 ***
 
