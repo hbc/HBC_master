@@ -18,7 +18,7 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 #### For HSCI and on-quad HMS researchers
 
-* **[Registration is now open for April 30th - May 1st, 2018: *Introduction to R* workshop](http://tinyurl.com/hbc-intro-r-info)!** [http://tinyurl.com/hbc-intro-r-info]()! 
+* April 30th - May 1st, 2018: *Introduction to R* workshop. [Registration is now closed.]
 * May 30th - May 31st, 2018: *Introduction to shell and High-Performance Computing*. **Registration opens on May 9th.**
 * June 11th - 13th, 2018: *Introduction to RNA-seq using High-Performance Computing*. **Registration opens on May 21st.**
 * September - October, 2018 [Tentative]: *12-day in-depth "NGS Data Analysis Course"*. **More information will be posted by early July.**
