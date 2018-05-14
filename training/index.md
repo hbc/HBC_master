@@ -19,7 +19,9 @@ Please find a list of our various offerings below categorized by eligibility. If
 #### For HSCI and on-quad HMS researchers
 
 * May 30th - May 31st, 2018: *Introduction to shell and High-Performance Computing*. **[Registration is now open!](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=226850108)**
-* June 11th - 13th, 2018: *Introduction to RNA-seq using High-Performance Computing*. **Registration opens on May 21st.**
+* June 11th - 13th, 2018: *Introduction to R and differential gene expression*. **Registration opens on May 21st.**
+* July 30th, 31st and August 1st, 2018: *Introduction to ChIP-seq using high-performance computing*. **Registration opens on July 9th.**
+* August 20th - 21st, 2018: *Introduction to R*. **Registration opens on August 30th.**
 * September - October, 2018 [Tentative]: *12-day in-depth "NGS Data Analysis Course"*. **More information will be posted by early July.**
 
 #### For all researchers at Harvard University and affiliated institutions
