@@ -18,7 +18,7 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 #### For HSCI and on-quad HMS researchers
 
-* May 30th - May 31st, 2018: *Introduction to shell and High-Performance Computing*. **[Registration is now open!](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=226850108)**
+* May 30th - May 31st, 2018: *Introduction to shell and High-Performance Computing*. ***Registration is now closed!***
 * June 11th - 13th, 2018: *Introduction to R and differential gene expression*. **Registration opens on May 21st.**
 * July 30th, 31st and August 1st, 2018: *Introduction to ChIP-seq using high-performance computing*. **Registration opens on July 9th.**
 * August 20th - 21st, 2018: *Introduction to R*. **Registration opens on August 30th.**
