@@ -19,7 +19,7 @@ Please find a list of our various offerings below categorized by eligibility. If
 #### For HSCI and on-quad HMS researchers
 
 * May 30th - May 31st, 2018: *Introduction to shell and High-Performance Computing*. *Registration is now closed.*
-* June 11th - 13th, 2018: *Introduction to R and differential gene expression*. **Register at [https://tinyurl.com/introR-DGE-hbc](https://tinyurl.com/introR-DGE-hbc)**
+* June 11th - 13th, 2018: *Introduction to R and differential gene expression*. **Register at [https://tinyurl.com/introR-DGE-hbc](https://tinyurl.com/introR-DGE-hbc)!**
 * July 30th, 31st and August 1st, 2018: *Introduction to ChIP-seq using high-performance computing*. **Registration opens on July 9th.**
 * August 20th - 21st, 2018: *Introduction to R*. **Registration opens on August 30th.**
 * September - October, 2018 [Tentative]: *12-day in-depth "NGS Data Analysis Course"*. **More information will be posted by early July.**
