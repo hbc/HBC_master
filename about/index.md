@@ -38,3 +38,7 @@ Translational Neuroscience)
 ### Publications
 
 For a  complete list of core publications [see here](https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/51262208/?sort=date&direction=descending)
+
+### Privacy
+
+The Harvard University privacy statement can be found [here](https://www.harvard.edu/privacy-statement)
