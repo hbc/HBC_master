@@ -3,8 +3,11 @@ layout: archive
 title: "People"
 ---
 
-### Current Members
 
+<p><img style="margin: 9px 15px -10px 0px;" src="/images/group.jpg" width="600" /></p> 
+  
+
+### Current Members
 <p><img style="float: left; margin: 9px 15px -10px 0px;" src="/images/shannan_headshot.jpg" width="100" /></p> The Core is led by **[Shannan Ho Sui](shosui@hsph.harvard.edu)**, a Senior Research Scientist in the Department of Biostatistics at the Harvard Chan School of Public Health, an Affiliated Faculty member of the HSCI, and the Director of the Core. Her expertise includes data integration, data standards, next-generation sequence analysis, and transcriptional gene regulation. She also has experience in pathogen bioinformatics through her postdoctoral work on anti-infective drug discovery. 
 
 She developed the [oPOSSUM](http://opossum.cisreg.ca) system for predicting transcriptional regulators from gene expression data, the [HSCI Stem Cell Discovery Engine](http://discovery.hsci.harvard.edu) to facilitate molecular comparisons of stem cell experiments, and is the Director of the [HSCI Stem Cell Commons](http://stemcellcommons.org/) - an initiative to promote open exchange of stem cell data and analysis tools through a central stem cell data repository and analytical system. You can find her on [Twitter](https://twitter.com/shannanhosui). Shannan has a PhD in Genetics from the University of British Columbia.
