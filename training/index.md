@@ -20,7 +20,9 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 ***
 
-* September 5th to October 11th, 2018: *12-day in-depth "NGS Data Analysis Course"*. **Pre-registration is now open!! Find more details at [http://tinyurl.com/ngs-course-info-2018](http://tinyurl.com/ngs-course-info-2018)!**
+**Pre-registration is *now OPEN* for the next *12-day* [In-Depth NGS Data Analysis Course](http://tinyurl.com/ngs-course-info-2018) to be held in September/October 2018!!**. 
+
+**Find more details at [http://tinyurl.com/ngs-course-info-2018](http://tinyurl.com/ngs-course-info-2018)!**
 
 ***
 
@@ -42,13 +44,13 @@ The **Current Topics in Bioinformatics** series of short workshops will be back 
 
 ##### Other workshops on data skills and bioinformatics
 
-(1) Monthly workshops on Research Data Management offered by the [Data Management Working Group (DMWG)](https://datamanagement.hms.harvard.edu/) :: [https://datamanagement.hms.harvard.edu/news-events](https://datamanagement.hms.harvard.edu/news-events)
+(1) [Monthly workshops](https://datamanagement.hms.harvard.edu/news-events) on Research Data Management offered by the [Data Management Working Group (DMWG)](https://datamanagement.hms.harvard.edu/)
 
-(2) Trainings offered by [HMS-RC](https://rc.hms.harvard.edu/) :: [https://wiki.rc.hms.harvard.edu:8443/display/O2/User+Training](https://wiki.rc.hms.harvard.edu:8443/display/O2/User+Training)
+(2) [Training](https://wiki.rc.hms.harvard.edu:8443/display/O2/User+Training) offered by [HMS-RC](https://rc.hms.harvard.edu/)
 
-(3) Trainings offered by [FAS-RC](https://www.rc.fas.harvard.edu/) :: [https://www.rc.fas.harvard.edu/training/](https://www.rc.fas.harvard.edu/training/)
+(3) [Training](https://www.rc.fas.harvard.edu/training/) offered by [FAS-RC](https://www.rc.fas.harvard.edu/)
 
-(4) Trainings offered by [FAS-informatics](https://informatics.fas.harvard.edu/) :: [https://informatics.fas.harvard.edu/category/tutorials.html](https://informatics.fas.harvard.edu/category/tutorials.html)
+(4) [Training](https://informatics.fas.harvard.edu/category/tutorials.html) offered by [FAS-Informatics](https://informatics.fas.harvard.edu/)
 
 ***
 
