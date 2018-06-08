@@ -18,8 +18,6 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 #### For HSCI and on-quad HMS researchers
 
-***
-
 **Pre-registration is *now OPEN* for the next *12-day* [In-Depth NGS Data Analysis Course](http://tinyurl.com/ngs-course-info-2018) to be held in September/October 2018!!**. 
 
 Find more details at **[http://tinyurl.com/ngs-course-info-2018](http://tinyurl.com/ngs-course-info-2018)!**
