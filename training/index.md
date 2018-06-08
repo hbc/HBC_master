@@ -30,7 +30,6 @@ Please find a list of our various offerings below categorized by eligibility. If
 * July 30th, 31st and August 1st, 2018: *Introduction to ChIP-seq using high-performance computing*. **Registration opens on July 9th.**
 * August 20th - 21st, 2018: *Introduction to R*. **Registration opens on August 30th.**
 
-
 #### For all researchers at Harvard University and affiliated institutions
 
 ##### Harvard Catalyst Workshops
@@ -40,17 +39,17 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 ##### HBC's monthly short workshops
 
-The **Current Topics in Bioinformatics** series of short workshops will be back in January 2019! 
+*The **Current Topics in Bioinformatics** series of short workshops will be back in January 2019!*
 
 ##### Other workshops on data skills and bioinformatics
 
-(1) [Monthly workshops](https://datamanagement.hms.harvard.edu/news-events) on Research Data Management offered by the [Data Management Working Group (DMWG)](https://datamanagement.hms.harvard.edu/)
+* [Monthly workshops](https://datamanagement.hms.harvard.edu/news-events) on Research Data Management offered by the [Data Management Working Group (DMWG)](https://datamanagement.hms.harvard.edu/)
 
-(2) [Training](https://wiki.rc.hms.harvard.edu:8443/display/O2/User+Training) offered by [HMS-RC](https://rc.hms.harvard.edu/)
+* [Training](https://wiki.rc.hms.harvard.edu:8443/display/O2/User+Training) offered by [HMS-RC](https://rc.hms.harvard.edu/)
 
-(3) [Training](https://www.rc.fas.harvard.edu/training/) offered by [FAS-RC](https://www.rc.fas.harvard.edu/)
+* [Training](https://www.rc.fas.harvard.edu/training/) offered by [FAS-RC](https://www.rc.fas.harvard.edu/)
 
-(4) [Training](https://informatics.fas.harvard.edu/category/tutorials.html) offered by [FAS-Informatics](https://informatics.fas.harvard.edu/)
+* [Training](https://informatics.fas.harvard.edu/category/tutorials.html) offered by [FAS-Informatics](https://informatics.fas.harvard.edu/)
 
 ***
 
