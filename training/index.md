@@ -18,34 +18,37 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 #### For HSCI and on-quad HMS researchers
 
-* May 30th - May 31st, 2018: *Introduction to shell and High-Performance Computing*. *Registration is now closed.*
+***
+
+* September 5th to October 11th, 2018: *12-day in-depth "NGS Data Analysis Course"*. **Pre-registration is now open!! Find more details at [http://tinyurl.com/ngs-course-info-2018](http://tinyurl.com/ngs-course-info-2018)!**
+
+***
+
 * June 11th - 13th, 2018: *Introduction to R and differential gene expression*. *Registration is now closed.*
 * July 30th, 31st and August 1st, 2018: *Introduction to ChIP-seq using high-performance computing*. **Registration opens on July 9th.**
 * August 20th - 21st, 2018: *Introduction to R*. **Registration opens on August 30th.**
-* September - October, 2018 [Tentative]: *12-day in-depth "NGS Data Analysis Course"*. **More information will be posted by early July.**
+
 
 #### For all researchers at Harvard University and affiliated institutions
-
-We are excited to announce a new set of workshops for Spring 2018 in the **Current Topics in Bioinformatics** series of short workshops. 
-
-Similar to last semester, each of these **2 to 3 hour**, **hands-on** workshops are freestanding, but some of them will have prerequisites. They will be held **monthly** in the Longwood Medical Area at either HSPH or HMS. The workshops are first-come-first-served and there is no registration process, so we encourage you to be punctual! 
-
-Please **bring a laptop** to be able to follow along in class. For instructions to prepare yourself and your laptop for the workshop, please click on the link to the workshop you are interested in attending in the table below.
-
-**Spring 2018 schedule and lesson links:**
-
-| Lessons | Date |   Timing   | Location | Prerequisites |
-|:----------|:----------:|:---------:|:----------:|:----------:|
-| [Introduction to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell/) | 1/26/2018 | 1-4pm | HSPH, Building Kresge, Room G2 | None |
-| [Intermediate bash](https://hbctraining.github.io/Training-modules/Intermediate_shell/) | 2/23/2018 | 1-4pm | HSPH, Building Kresge, Room G2 | Beginner bash or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell/) |
-| [Accessing genomic reference and experimental sequencing data](https://hbctraining.github.io/Training-modules/Accessing_public_genomic_data) | 4/27/2018 | 1-4pm | HSPH, Buliding FXB, Room G12 | Beginner bash or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell/) |
-| *[RESCHEDULED from 3/13/2018]* [Version control using Git and Github](https://hbctraining.github.io/Training-modules/Git-Github) | 5/25/2018 | 1-4pm | HSPH, Buliding Kresge, Room 502 | Beginner bash or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell/) |
-| *[RESCHEDULED]* [Exploring genomic variants using the GEMINI framework](https://hbctraining.github.io/Training-modules/Exploring_variants_with_GEMINI) | TBD | TBD | TBD | Beginner bash or [Intro to the command-line interface](https://hbctraining.github.io/Training-modules/Intro_shell/) |
 
 ##### Harvard Catalyst Workshops
 
 * October 31st - November 2nd, 2018:  *Introduction to RNA-seq using High-Performance Computing*. **Application process will open in late summer.**
 * November 14th - 16th, 2018: *Introduction to R and Differential Gene Expression (DGE) analysis for RNA-seq*. **Application process will open in late summer.**
+
+##### HBC's monthly short workshops
+
+The **Current Topics in Bioinformatics** series of short workshops will be back in January 2019! 
+
+##### Other workshops on data skills and bioinformatics
+
+(1) Monthly workshops on Research Data Management offered by the [Data Management Working Group (DMWG)](https://datamanagement.hms.harvard.edu/) :: [https://datamanagement.hms.harvard.edu/news-events](https://datamanagement.hms.harvard.edu/news-events)
+
+(2) Trainings offered by [HMS-RC](https://rc.hms.harvard.edu/) :: [https://wiki.rc.hms.harvard.edu:8443/display/O2/User+Training](https://wiki.rc.hms.harvard.edu:8443/display/O2/User+Training)
+
+(3) Trainings offered by [FAS-RC](https://www.rc.fas.harvard.edu/) :: [https://www.rc.fas.harvard.edu/training/](https://www.rc.fas.harvard.edu/training/)
+
+(4) Trainings offered by [FAS-informatics](https://informatics.fas.harvard.edu/) :: [https://informatics.fas.harvard.edu/category/tutorials.html](https://informatics.fas.harvard.edu/category/tutorials.html)
 
 ***
 
@@ -82,6 +85,7 @@ These intensive courses run for 8-12 days and are aimed at bench biologists inte
 
 **2018**
 
+* *[HSCI/TnT]* May 30th & May 31st: **Introduction to shell and high-performance computing**
 * *[HSCI/TnT]* April 30th & May 1st: **Introduction to R**
 * *[Harvard Catalyst]* April 5th, 6th, 12th, 13th: **Introduction to R and Differential Gene Expression (DGE) analysis for RNA-seq**
 * *[HSCI/TnT]* March 21st - 23rd: **Introduction to ChIP-seq using high-performance computing**
