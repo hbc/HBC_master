@@ -43,7 +43,7 @@ Translational Neuroscience)
 
 * Training poster for Harvard Chan School of Public Health poster day
 <p>
-	<a href="https://github.com/hbc/presentations/blob/master/(https://github.com/hbc/presentations/blob/master/HSPH_poster_day_2018.pdf">
+	<a href="https://github.com/hbc/presentations/blob/master/HSPH_poster_day_2018.pdf">
 		<img style="margin: 0px 15px -10px 0px;" src="/images/poster2.png" width="400" alt=""/>
 	</a>
 </p> 
