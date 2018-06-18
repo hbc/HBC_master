@@ -33,7 +33,8 @@ Please note that **payment of fees for data analysis services and authorship are
 Translational Neuroscience)
 * [A framework for RNA-Seq DE comparisons](https://dl.dropboxusercontent.com/u/407047/Work/Presentations/20140200%20BIG-meeting-feb-2014.pdf) (BIG Meeting Group)
 * [Community-developed NGS pipelines](https://dl.dropboxusercontent.com/u/407047/Work/Presentations/20131102%20CSHL%20Genome%20Informatics/20131101%20CSHL%20GI2013%20bcbio.pdf) (2013 Genome Informatics Meeting, CSHL)
-
+* [Poster for Harvard Medical School Cores poster day](https://github.com/hbc/presentations/blob/master/20171204-TNT_core_posterday.pdf)
+* [Poster for Harvard Chan School of Public Health poster day](https://github.com/hbc/presentations/blob/master/20180518-HSPH_posterday.pdf)
 
 ### Publications
 
