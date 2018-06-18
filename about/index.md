@@ -35,6 +35,11 @@ Translational Neuroscience)
 * [Community-developed NGS pipelines](https://dl.dropboxusercontent.com/u/407047/Work/Presentations/20131102%20CSHL%20Genome%20Informatics/20131101%20CSHL%20GI2013%20bcbio.pdf) (2013 Genome Informatics Meeting, CSHL)
 * [Poster for Harvard Medical School Cores poster day](https://github.com/hbc/presentations/blob/master/20171204-TNT_core_posterday.pdf)
 * [Poster for Harvard Chan School of Public Health poster day](https://github.com/hbc/presentations/blob/master/20180518-HSPH_posterday.pdf)
+<p><img style="margin: 9px 15px -10px 0px;" src="/images/poster.png" width="600" /></p> 
+* [Training poster for Harvard Chan School of Public Health poster day](https://github.com/hbc/presentations/blob/master/HSPH_poster_day_2018.pdf)
+<p><img style="margin: 9px 15px -10px 0px;" src="/images/poster2.png" width="600" /></p> 
+
+
 
 ### Publications
 
