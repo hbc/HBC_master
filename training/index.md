@@ -18,13 +18,8 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 #### For HSCI and on-quad HMS researchers
 
-**Pre-registration is *now OPEN* for the next *12-day* [In-Depth NGS Data Analysis Course](http://tinyurl.com/ngs-course-info-2018) to be held in September/October 2018!!**. 
+**Pre-registration is ***now closed*** for the next *12-day* In-Depth NGS Data Analysis Course to be held in September/October 2018!!**. 
 
-Find more details at **[http://tinyurl.com/ngs-course-info-2018](http://tinyurl.com/ngs-course-info-2018)!**
-
-***
-
-* June 11th - 13th, 2018: *Introduction to R and differential gene expression*. *Registration is now closed.*
 * July 30th, 31st and August 1st, 2018: *Introduction to ChIP-seq using high-performance computing*. **Registration opens on July 9th.**
 * August 20th - 21st, 2018: *Introduction to R*. **Registration opens on August 30th.**
 
@@ -32,8 +27,8 @@ Find more details at **[http://tinyurl.com/ngs-course-info-2018](http://tinyurl.
 
 ##### Harvard Catalyst Workshops
 
-* October 31st - November 2nd, 2018:  *Introduction to RNA-seq using High-Performance Computing*. **Application process will open in late summer.**
-* November 14th - 16th, 2018: *Introduction to R and Differential Gene Expression (DGE) analysis for RNA-seq*. **Application process will open in late summer.**
+* October 31st - November 2nd, 2018:  *Introduction to RNA-seq using High-Performance Computing*. **Application process will open on August 3rd.**
+* November 14th - 16th, 2018: *Introduction to R and Differential Gene Expression (DGE) analysis for RNA-seq*. **Application process will open on August 3rd.**
 
 ##### HBC's monthly short workshops
 
@@ -84,6 +79,7 @@ These intensive courses run for 8-12 days and are aimed at bench biologists inte
 
 **2018**
 
+* *[HSCI/TnT]* June 11th - 13th: **Introduction to R and Differential Gene Expression (DGE) analysis for RNA-seq**
 * *[HSCI/TnT]* May 30th & May 31st: **Introduction to shell and high-performance computing**
 * *[HSCI/TnT]* April 30th & May 1st: **Introduction to R**
 * *[Harvard Catalyst]* April 5th, 6th, 12th, 13th: **Introduction to R and Differential Gene Expression (DGE) analysis for RNA-seq**
