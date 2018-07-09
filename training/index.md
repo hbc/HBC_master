@@ -18,9 +18,8 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 #### For HSCI and on-quad HMS researchers
 
-**Pre-registration is ***now closed*** for the next *12-day* In-Depth NGS Data Analysis Course to be held in September/October 2018!!**. 
+* July 30th, 31st and August 1st, 2018: *Introduction to ChIP-seq using high-performance computing*. **Registration is now open! More information at [https://tinyurl.com/chipseq-hpc-2018](https://tinyurl.com/chipseq-hpc-2018).**
 
-* July 30th, 31st and August 1st, 2018: *Introduction to ChIP-seq using high-performance computing*. **Registration opens on July 9th.**
 * August 20th - 21st, 2018: *Introduction to R*. **Registration opens on August 30th.**
 
 #### For all researchers at Harvard University and affiliated institutions
