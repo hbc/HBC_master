@@ -18,7 +18,7 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 #### For HSCI and on-quad HMS researchers
 
-* **Registration is now open** for *Introduction to ChIP-seq using high-performance computing* to be held on July 30th, 31st and August 1st, 2018. **More information at [https://tinyurl.com/chipseq-hpc-2018](https://tinyurl.com/chipseq-hpc-2018).**
+* **Registration is now open** for ***Introduction to ChIP-seq using high-performance computing*** to be held on July 30th, 31st and August 1st, 2018. **More information at [https://tinyurl.com/chipseq-hpc-2018](https://tinyurl.com/chipseq-hpc-2018).**
 
 * August 20th - 21st, 2018: *Introduction to R*. **Registration opens on August 30th.**
 
