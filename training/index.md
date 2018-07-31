@@ -20,7 +20,7 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 * **Registration is now closed** for ***Introduction to ChIP-seq using high-performance computing*** to be held on July 30th, 31st and August 1st, 2018.
 
-* August 20th - 21st, 2018: *Introduction to R*. **Registration opens on August 30th.**
+* August 20th - 21st, 2018: *Introduction to R*. **Registration opens on August 1st.**
 
 #### For all researchers at Harvard University and affiliated institutions
 
