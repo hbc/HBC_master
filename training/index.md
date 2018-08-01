@@ -18,9 +18,7 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 #### For HSCI and on-quad HMS researchers
 
-* **Registration is now closed** for ***Introduction to ChIP-seq using high-performance computing*** to be held on July 30th, 31st and August 1st, 2018.
-
-* August 20th - 21st, 2018: *Introduction to R*. **Registration opens on August 1st.**
+* August 20th - 21st, 2018: *Introduction to R*. **Registration is now open at [tinyurl.com/hbc-intro-r-info](tinyurl.com/hbc-intro-r-info).**
 
 #### For all researchers at Harvard University and affiliated institutions
 
@@ -77,6 +75,7 @@ These intensive courses run for 8-12 days and are aimed at bench biologists inte
 
 **2018**
 
+* *[HSCI/TnT]* July 30th & 31st, August 1st: **Introduction to ChIP-seq using high-performance computing**
 * *[HSCI/TnT]* June 11th - 13th: **Introduction to R and Differential Gene Expression (DGE) analysis for RNA-seq**
 * *[HSCI/TnT]* May 30th & May 31st: **Introduction to shell and high-performance computing**
 * *[HSCI/TnT]* April 30th & May 1st: **Introduction to R**
