@@ -24,7 +24,7 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 ##### Harvard Catalyst Workshops
 
-* Oct 31st, Nov 2nd, Nov 14th and Nov 16th, 2018: ***Introduction to RNA-seq Analysis Using High-Performance Computing and R***. Application process will open in early August on the [Catalyst webpage](https://catalyst.harvard.edu/services/bioinformatics-workshops/).
+* October 31st - November 2nd and Nov 14th - 16th, 2018: *Introduction to RNA-seq Analysis Using High-Performance Computing and R*. **Apply on the [Catalyst webpage](https://catalyst.harvard.edu/services/bioinformatics-workshops/)!!**
 
 ##### HBC's monthly short workshops
 
