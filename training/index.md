@@ -18,7 +18,7 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 #### For HSCI and on-quad HMS researchers
 
-* August 20th - 21st, 2018: *Introduction to R*. **Registration is now open at [tinyurl.com/hbc-intro-r-info](tinyurl.com/hbc-intro-r-info)!**
+* August 20th - 21st, 2018: *Introduction to R*. **Registration is now closed!**
 
 #### For all researchers at Harvard University and affiliated institutions
 
