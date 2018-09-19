@@ -3,7 +3,9 @@ layout: archive
 title: "Contact"
 ---
 
-As we are often away from the office, the best way to contact us for general enquiries and project requests is by **[emailing us](mailto:bioinformatics@hsph.harvard.edu)**. Generally, you can expect a response within 48 hours so we can start to assess your needs and setup a meeting in person. For administrative requests, please contact [Megan Scott](mailto:mescott@hsph.harvard.edu). Billing inquiries and grant-related questions are handled by [Rachel Boschetto](mailto:rboschet@hsph.harvard.edu). Alternatively, you can try calling us at 617-432-4917 or just stop by our office.
+As we are often away from the office, the best way to contact us for general enquiries and project requests is by **[emailing us](mailto:bioinformatics@hsph.harvard.edu)**. Generally, you can expect a response within 48 hours so we can start to assess your needs and setup a meeting in person. Please note that we currently have a substantial queue and it may take us up to 8 weeks to start an analysis after speaking with you. For administrative requests, please contact [Megan Scott](mailto:mescott@hsph.harvard.edu). Billing inquiries and grant-related questions are handled by [Rachel Boschetto](mailto:rboschet@hsph.harvard.edu). Alternatively, you can try calling us at 617-432-4917 or just stop by our office.
+
+
 
 ### Office Location
 
