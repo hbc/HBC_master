@@ -18,13 +18,13 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 #### For HSCI and on-quad HMS researchers
 
-* August 20th - 21st, 2018: *Introduction to R*. **Registration is now closed!**
+* ***December 2018 workshop announcement coming soon!***
 
 #### For all researchers at Harvard University and affiliated institutions
 
 ##### Harvard Catalyst Workshops
 
-* October 31st - November 2nd and Nov 14th - 16th, 2018: *Introduction to RNA-seq Analysis Using High-Performance Computing and R*. **Apply on the [Catalyst webpage](https://catalyst.harvard.edu/services/bioinformatics-workshops/)!!**
+* October 31st - November 2nd and Nov 14th - 16th, 2018: *Introduction to RNA-seq Analysis Using High-Performance Computing and R*. **Registration is now closed!**
 
 ##### HBC's monthly short workshops
 
@@ -75,6 +75,7 @@ These intensive courses run for 8-12 days and are aimed at bench biologists inte
 
 **2018**
 
+* *[HSCI/TnT]* August 20th & 21st: **Introduction to R**
 * *[HSCI/TnT]* July 30th & 31st, August 1st: **Introduction to ChIP-seq using high-performance computing**
 * *[HSCI/TnT]* June 11th - 13th: **Introduction to R and Differential Gene Expression (DGE) analysis for RNA-seq**
 * *[HSCI/TnT]* May 30th & May 31st: **Introduction to shell and high-performance computing**
