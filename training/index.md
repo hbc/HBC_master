@@ -12,25 +12,46 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 ***
 
-### Upcoming workshops/courses:
+# Upcoming workshops/courses:
 
 Please find a list of our various offerings below categorized by eligibility. If you would like to receive emails from us about training opportunities, please fill out [this form](https://harvard.az1.qualtrics.com/jfe/form/SV_6nGqk2i8RUi2oN7). 
 
-#### For HSCI and on-quad HMS researchers
+## For HSCI and on-quad HMS researchers
 
-* ***December 2018 workshop announcement coming soon!***
+| Topic | Date | Duration | Pre requisites |
+| :----: | :----: | :----: | :----: |
+| **Introduction to the command line interface (Shell, Unix, Linux)** | January 17th | 1 day | None |
+| **Introduction to R** | January 28th & 29th | 1.5 days | None |
+| **Introduction to the command line interface (Shell, Unix, Linux)** | Early February | 1 day | None |
+| **Introduction to (bulk) RNA-seq using High-Performance Computing** | Late February | 2 days | Beginner Shell |
+| **Introduction to R** | Early March | 1.5 days | None |
+| **Introduction to Differential Gene Expression Analysis** | Late March | 2 days | Beginner R |
 
-#### For all researchers at Harvard University and affiliated institutions
+## For all researchers at Harvard University and affiliated institutions
 
-##### Harvard Catalyst Workshops
+### HBC's monthly short workshops
 
-* October 31st - November 2nd and Nov 14th - 16th, 2018: *Introduction to RNA-seq Analysis Using High-Performance Computing and R*. **Registration is now closed!**
+**Current Topics in Bioinformatics - Spring 2019**
 
-##### HBC's monthly short workshops
+* Hands-on workshops on bioinformatics topics & related skills
+* Once a month for 3 hours
+* First-come-first-served, no registration required
+* Free and open to everyone at Harvard University and its affiliates
 
-*The **Current Topics in Bioinformatics** series of short workshops will be back in January 2019!*
+**Spring 2019 Schedule:**
 
-##### Other workshops on data skills and bioinformatics
+| Topic | Date | Time | Location | Pre requisites |
+| :----: | :----: | :----: | :----: | :----: |
+| **Introduction to R** | January 10th | 1 PM | Kresge (HSPH), room 502 | None |
+| **Introduction to tidyverse and visualizations with ggplot2** | February 6th | 1 PM | FXB (HSPH), room G12 | Beginner R |
+| **Gene annotations and functional analysis of gene lists** | March 6th | 1 PM | FXB (HSPH), room G12 | Beginner R |
+| **Generating research analysis reports with RMarkdown** | April 3rd | 1 PM | FXB (HSPH), room G12 | Beginner R |
+
+### Harvard Catalyst Workshops
+
+*Harvard Catalyst workshops for Fall 2019 will be announced in Summer 2019!*
+
+### Other workshops on data skills and bioinformatics
 
 * [Monthly workshops](https://datamanagement.hms.harvard.edu/news-events) on Research Data Management offered by the [Data Management Working Group (DMWG)](https://datamanagement.hms.harvard.edu/)
 
@@ -42,11 +63,11 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 ***
 
-### Training program description:
+# Training program description:
 
 We provide bioinformatics training through both **shorter workshops** and **in-depth courses**. [[Click here](http://bioinformatics.sph.harvard.edu/training/#upcoming-workshopscourses) for a list of upcoming workshops/courses]
 
-#### 1. Workshops 
+## 1. Workshops 
 
 These workshops vary in duration from half-day to 3 days and are aimed at biologists interested in expanding their knowledge of Next-Generation Sequence (NGS) data analysis, and basic computational skills for working with big or small datasets.
 
@@ -58,7 +79,7 @@ These workshops vary in duration from half-day to 3 days and are aimed at biolog
 
 	Topics include R, data visualization using R, Linux shell, High-Performance Computing (HPC), version control, Research Data Management, etc.
 
-#### 2.  In-Depth Next Generation Sequencing Analysis Courses
+## 2.  In-Depth Next Generation Sequencing Analysis Courses
 
 These intensive courses run for 8-12 days and are aimed at bench biologists interested in learning **how to perform independent, best practice NGS-based analyses**. Topics include:
 
@@ -71,10 +92,13 @@ These intensive courses run for 8-12 days and are aimed at bench biologists inte
 		
 ***
 
-### Past Workshops:
+# Past Workshops:
 
 **2018**
 
+* *[HSCI/TnT]* December 5th & 6th: **Introduction to R**
+* *[Harvard Catalyst]* October 31st - November 2nd & November 14th - 16th **Introduction to RNA-seq Analysis Using High-Performance Computing and R. **
+* *[HSCI/TnT/HNDC]* September 5th - October 11th: **In-depth NGS data analysis course**
 * *[HSCI/TnT]* August 20th & 21st: **Introduction to R**
 * *[HSCI/TnT]* July 30th & 31st, August 1st: **Introduction to ChIP-seq using high-performance computing**
 * *[HSCI/TnT]* June 11th - 13th: **Introduction to R and Differential Gene Expression (DGE) analysis for RNA-seq**
@@ -134,7 +158,7 @@ These intensive courses run for 8-12 days and are aimed at bench biologists inte
 
 ***
 
-### Contact:
+# Contact:
 
 For any training-related questions, please email us at [hbctraining@hsph.harvard.edu](mailto:hbctraining@hsph.harvard.edu).
 
