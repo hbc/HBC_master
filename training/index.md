@@ -20,11 +20,7 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| Introduction to the command-line interface (shell) | Basic | January 17th | 1 day | None |
-| Introduction to R | Basic | January 28th & 29th | 1.5 days | None |
-| [Introduction to the command-line interface (shell)](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233092746) | Basic | February 13th | 1 day | None |
-| Introduction to (bulk) RNA-seq | Advanced | February 27th and 28th | 2 days | Intro to shell |
-| Introduction to R | Basic | March 12th and 13th | 1.5 days | None |
+| [Introduction to R](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667) | Basic | March 12th and 13th | 1.5 days | None |
 | Introduction to differential gene expression analysis (bulk RNA-seq) | Advanced | April 1st and 2nd | 2 days | Intro to R |
 | Introduction to the command-line interface (shell) | Basic | April 11th | 1 day | None |
 | Introduction to ChIP-seq analysis | Advanced | April 29th and 30th | 2 days | Intro to R **&** shell |
@@ -64,6 +60,10 @@ Please find a list of our various offerings below categorized by eligibility. If
 * [Training](https://www.rc.fas.harvard.edu/training/) offered by [FAS-RC](https://www.rc.fas.harvard.edu/)
 
 * [Training](https://informatics.fas.harvard.edu/category/tutorials.html) offered by [FAS-Informatics](https://informatics.fas.harvard.edu/)
+
+* [Boston R/Bioconductor for genomics Meetup group](https://www.meetup.com/Boston-R-Bioconductor-for-genomics/)
+
+* [Boston area Women's Bioinformatics Meetup group](https://www.meetup.com/boston-area-womens-bioinformatics/)
 
 ***
 
