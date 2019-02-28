@@ -44,7 +44,7 @@ Please find a list of our various offerings below categorized by eligibility. If
 | :----: | :----: | :----: | :----: | :----: |
 | **Introduction to R** | January 10th | 1 PM | Kresge (HSPH), room 502 | None |
 | **Introduction to tidyverse and visualizations with ggplot2** | February 6th | 1 PM | FXB (HSPH), room G12 | Beginner R |
-| **Gene annotations and functional analysis of gene lists** | March 6th | 1 PM | Kresge (HSPH), room G1 | Beginner R |
+| **Gene annotations and functional analysis of gene lists** | March 6th | 1 PM | FXB (HSPH), room G12 | Beginner R |
 | **Generating research analysis reports with RMarkdown** | April 3rd | 1 PM | FXB (HSPH), room G12 | Beginner R |
 
 #### Harvard Catalyst Workshops
