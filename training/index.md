@@ -21,7 +21,7 @@ Please find a list of our various offerings below categorized by eligibility. If
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
 | [Introduction to differential gene expression analysis (bulk RNA-seq)](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233978712) | Advanced | April 1st and 2nd | 2 days | Intro to R |
-| Introduction to the command-line interface (shell) | Basic | April 11th | 1 day | None |
+| [Introduction to the command-line interface (shell)](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233092746) | Basic | April 11th | 1 day | None |
 | Introduction to ChIP-seq analysis | Advanced | April 29th and 30th | 2 days | Intro to R **&** shell |
 
 **[Click here for additional information about these workshops and our new program.](https://hbctraining.github.io/main/training_spring2019.html)**
@@ -96,6 +96,14 @@ These intensive courses run for 8-12 days and are aimed at bench biologists inte
 ***
 
 ## Past Workshops:
+
+**2019**
+
+* *[HSCI/TnT]* January 17th: **Introduction to shell**
+* *[HSCI/TnT]* January 28 & 29th: **Introduction to R**
+* *[HSCI/TnT]* February 13th: **Introduction to shell**
+* *[HSCI/TnT]* February 27th & 28th: **Introduction to RNA-seq**
+* *[HSCI/TnT]* March 12 & 13th: **Introduction to R**
 
 **2018**
 
