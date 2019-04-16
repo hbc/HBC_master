@@ -47,7 +47,7 @@ Before taking over as Faculty Director of HBC from founding Faculty Advisor Win 
 
 #### Administrative support
 
-<p><img style="float: left; margin: 9px 15px -20px 0px;" src="/images/Rachel.jpg" width="100" /><img style="float: left; margin: 9px 15px -20px 0px;" src="/images/" width="100" /> </p>We are fortunate to have access to dedicated administrative support through the HSPH Department of Biostatistics. **[Rachel Boschetto](mailto:rboschet@hsph.harvard.edu)** is our grants manager and all-around financial guru, and **[Priti Thareja](mailto:pthareja@hsph.harvard.edu)** coordinates our events and helps with all planning tasks.
+<p><img style="float: left; margin: 9px 15px -20px 0px;" src="/images/Rachel.jpg" width="100" /><img style="float: left; margin: 9px 15px -20px 0px;" src="/images/priti.jpg" width="100" /> </p>We are fortunate to have access to dedicated administrative support through the HSPH Department of Biostatistics. **[Rachel Boschetto](mailto:rboschet@hsph.harvard.edu)** is our grants manager and all-around financial guru, and **[Priti Thareja](mailto:pthareja@hsph.harvard.edu)** coordinates our events and helps with all planning tasks.
 
 ---
  
