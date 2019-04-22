@@ -109,7 +109,7 @@ These intensive courses run for 8-12 days and are aimed at bench biologists inte
 
 * *[HSCI/TnT]* December 5th & 6th: **Introduction to R**
 * *[Harvard Catalyst]* October 31st - November 2nd & November 14th - 16th **Introduction to RNA-seq Analysis Using High-Performance Computing and R. **
-* *[HSCI/TnT/HNDC]* September 5th - October 11th: **In-depth NGS data analysis course**
+* *[HSCI/TnT]* September 5th - October 11th: **In-depth NGS data analysis course**
 * *[HSCI/TnT]* August 20th & 21st: **Introduction to R**
 * *[HSCI/TnT]* July 30th & 31st, August 1st: **Introduction to ChIP-seq using high-performance computing**
 * *[HSCI/TnT]* June 11th - 13th: **Introduction to R and Differential Gene Expression (DGE) analysis for RNA-seq**
