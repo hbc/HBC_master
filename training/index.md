@@ -20,7 +20,7 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| [Introduction to ChIP-seq analysis](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=224827083) | Advanced | April 29th and 30th | 2 days | Intro to R **&** shell |
+| *Introduction to ChIP-seq analysis (Registration closed)* | Advanced | April 29th and 30th | 2 days | Intro to R **&** shell |
 
 **[Click here for additional information about these workshops and our new program.](https://hbctraining.github.io/main/training_spring2019.html)**
 
