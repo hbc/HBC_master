@@ -10,11 +10,12 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 *In addition, we also teach short courses for [Harvard Catalyst](http://catalyst.harvard.edu/services/bioinformatics-workshops/).*
 
-=====
+***
+***
 
 Please find a list of our various offerings below **categorized by eligibility**. If you would like to receive emails from us about training opportunities, please fill out [this form](https://harvard.az1.qualtrics.com/jfe/form/SV_6nGqk2i8RUi2oN7). 
 
-## Workshops for HSCI and on-quad HMS researchers
+### Workshops for HSCI and on-quad HMS researchers
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
@@ -25,25 +26,25 @@ Please find a list of our various offerings below **categorized by eligibility**
 | Introduction to R | Basic | July 29th & 30th | 1.5 days | none |
 | Introduction to differential gene expression analysis - bulk RNA-seq (counts -> DE genes) | Advanced | August 15th & 16th | 2 days | Intro to R |
 
-**[Click here for workshop descriptions.](https://hbctraining.github.io/main/#introduction-to-next-generation-sequencing-ngs-analysis-series)**
+***[Please click here for workshop descriptions.](https://hbctraining.github.io/main/#introduction-to-next-generation-sequencing-ngs-analysis-series)***
 
------
+***
 
-## Workshops for all researchers at Harvard University and affiliated institutions
+### Workshops for all researchers at Harvard University and affiliated institutions
 
-### HBC's monthly short workshops
+#### HBC's monthly short workshops
 
 *[This series of workshops](https://hbctraining.github.io/main/#current-topics-in-bioinformatics-series) will return in Fall 2019!*
 
------
+***
 
 #### Harvard Catalyst Workshops
 
 *[Harvard Catalyst workshops](https://catalyst.harvard.edu/services/bioinformatics-workshops/) for Fall 2019 will be announced in Summer 2019!*
 
------
+***
 
-### List of groups offering related workshops on data skills and bioinformatics
+#### List of groups offering related workshops on data skills and bioinformatics
 
 * [Monthly workshops](https://datamanagement.hms.harvard.edu/news-events) on Research Data Management offered by the [Data Management Working Group (DMWG)](https://datamanagement.hms.harvard.edu/)
 
@@ -57,7 +58,8 @@ Please find a list of our various offerings below **categorized by eligibility**
 
 * [Boston area Women's Bioinformatics Meetup group](https://www.meetup.com/boston-area-womens-bioinformatics/)
 
-=====
+***
+***
 
 ## Contact:
 
@@ -65,7 +67,8 @@ For any training-related questions, please email us at [hbctraining@hsph.harvard
 
 Training materials can be [accessed here](https://hbctraining.github.io/main/). Please read our [licensing information](https://hbctraining.github.io/main/license) prior to reusing or adapting our materials.
 
-=====
+***
+***
 
 ## Past Workshops:
 
@@ -141,5 +144,3 @@ Training materials can be [accessed here](https://hbctraining.github.io/main/). 
 * *[TnT/HNDC]* July 22nd: **A Hands-on Introduction to Python** (in collaboration with [IQSS](http://www.iq.harvard.edu/))
 * *[TnT/HNDC]* July 17th: **Introduction to RNA-seq with Galaxy**
 * *[TnT/HNDC]* June 26th: **Introduction to R and R graphics with ggplot2** (in collaboration with [IQSS](http://www.iq.harvard.edu/))
-
-=====
