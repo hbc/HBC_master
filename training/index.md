@@ -33,16 +33,11 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 #### HBC's monthly short workshops
 
-***We will not be holding this series of workshops in Summer 2019, the Fall 2019 schedule will be available in August.***
-
-* Hands-on workshops on bioinformatics topics & related skills
-* Once a month for 3 hours
-* First-come-first-served, no registration required
-* Free and open to everyone at Harvard University and its affiliates
+*[This series of workshops](https://hbctraining.github.io/main/#current-topics-in-bioinformatics-series) will return in Fall 2019!*
 
 #### Harvard Catalyst Workshops
 
-*Harvard Catalyst workshops for Fall 2019 will be announced in Summer 2019!*
+*[Harvard Catalyst workshops](https://catalyst.harvard.edu/services/bioinformatics-workshops/) for Fall 2019 will be announced in Summer 2019!*
 
 #### Other workshops on data skills and bioinformatics
 
@@ -58,35 +53,6 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 * [Boston area Women's Bioinformatics Meetup group](https://www.meetup.com/boston-area-womens-bioinformatics/)
 
-***
-
-## Training program description:
-
-We provide bioinformatics training through both **shorter workshops** and **in-depth courses**. [[Click here](http://bioinformatics.sph.harvard.edu/training/#upcoming-workshopscourses) for a list of upcoming workshops/courses]
-
-### 1. Workshops 
-
-These workshops vary in duration from half-day to 3 days and are aimed at biologists interested in expanding their knowledge of Next-Generation Sequence (NGS) data analysis, and basic computational skills for working with big or small datasets.
-
-* **Next-Generation Sequencing**
-
-	Short workshops on RNA-Seq, ChIP-Seq to introduce basic concepts of Next-Generation Sequencing (NGS) analysis. The goal of these workshops are to enable researchers to design their studies appropriately and perform preliminary data analyses using best practices.
-
-* **Basic Skills for Data Analysis**	
-
-	Topics include R, data visualization using R, Linux shell, High-Performance Computing (HPC), version control, Research Data Management, etc.
-
-### 2.  In-Depth Next Generation Sequencing Analysis Courses
-
-These intensive courses run for 8-12 days and are aimed at bench biologists interested in learning **how to perform independent, best practice NGS-based analyses**. Topics include:
-
-- Unix & High-Performance Computing ([O2](https://rc.hms.harvard.edu/))
-- NGS data analysis (RNA-Seq, ChIP-Seq, Variant calling)
-- Statistical analysis using R
-- Functional analysis
-
-*No prior NGS or command line expertise is required for our workshops or courses unless explicitly stated.*
-		
 ***
 
 ## Past Workshops:
