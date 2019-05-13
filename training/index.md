@@ -11,7 +11,6 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 *In addition, we also teach short courses for [Harvard Catalyst](http://catalyst.harvard.edu/services/bioinformatics-workshops/).*
 
 ***
-***
 
 Please find a list of our various offerings below **categorized by eligibility**. If you would like to receive emails from us about training opportunities, please fill out [this form](https://harvard.az1.qualtrics.com/jfe/form/SV_6nGqk2i8RUi2oN7). 
 
@@ -59,7 +58,6 @@ Please find a list of our various offerings below **categorized by eligibility**
 * [Boston area Women's Bioinformatics Meetup group](https://www.meetup.com/boston-area-womens-bioinformatics/)
 
 ***
-***
 
 ## Contact:
 
@@ -67,7 +65,6 @@ For any training-related questions, please email us at [hbctraining@hsph.harvard
 
 Training materials can be [accessed here](https://hbctraining.github.io/main/). Please read our [licensing information](https://hbctraining.github.io/main/license) prior to reusing or adapting our materials.
 
-***
 ***
 
 ## Past Workshops:
