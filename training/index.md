@@ -20,7 +20,12 @@ Please find a list of our various offerings below categorized by eligibility. If
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| *Introduction to ChIP-seq analysis (Registration closed)* | Advanced | April 29th and 30th | 2 days | Intro to R **&** shell |
+| Introduction to the command-line interface (shell) | Basic | June 4th | 1 day | none |
+| Introduction to bulk RNA-seq (experimental design -> counts) | Advanced | June 24th & 25th | 2 days | Intro to shell |
+| Introduction to R | Basic | July 1st & 2nd | 1.5 days | none |
+| Introduction to single-cell RNA-seq | Advanced | July 17th & 18th | 2 days | Intro to R **and** Intro to shell |
+| Introduction to R | Basic | July 29th & 30th | 1.5 days | none |
+| Introduction to differential gene expression analysis - bulk RNA-seq (counts -> DE genes) | Advanced | August 15th & 16th | 2 days | Intro to R |
 
 **[Click here for additional information about these workshops and our new program.](https://hbctraining.github.io/main/training_spring2019.html)**
 
@@ -97,6 +102,7 @@ These intensive courses run for 8-12 days and are aimed at bench biologists inte
 
 **2019**
 
+* *[HSCI/TnT]* April 29th & 30th: **Introduction to ChIP-seq**
 * *[HSCI/TnT]* April 11th: **Introduction to shell**
 * *[HSCI/TnT]* April 1st & 2nd: **Introduction to differential gene expression analysis (bulk RNA-seq)**
 * *[HSCI/TnT]* March 12 & 13th: **Introduction to R**
