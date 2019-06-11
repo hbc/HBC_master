@@ -21,7 +21,7 @@ Please find a list of our various offerings below **categorized by eligibility**
 | Introduction to the command-line interface (shell) - *Registration is closed* | Basic | June 4th | 1 day | none |
 | [Introduction to bulk RNA-seq (experimental design -> counts - Registration is open!)](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233110607) | Advanced | June 24th & 25th | 2 days | **Intro to shell** |
 | [Introduction to R (Registration is open!)](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667) | Basic | July 1st & 2nd | 1.5 days | none |
-| Introduction to single-cell RNA-seq | Advanced | July 17th & 18th | 2 days | Intro to R **and** Intro to shell |
+| Introduction to single-cell RNA-seq | Advanced | July 17th & 18th | 2 days | Intro to R |
 | Introduction to R | Basic | July 29th & 30th | 1.5 days | none |
 | Introduction to differential gene expression analysis - bulk RNA-seq (counts -> DE genes) | Advanced | August 15th & 16th | 2 days | Intro to R |
 
