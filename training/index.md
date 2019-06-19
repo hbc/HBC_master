@@ -16,6 +16,8 @@ Please find a list of our various offerings below **categorized by eligibility**
 
 ### Workshops for HSCI and on-quad HMS researchers:
 
+> *Please note that registration opens ~3 weeks prior to workshop date.*
+
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
 | Introduction to bulk RNA-seq (experimental design  - *Registration is closed* | Advanced | June 24th & 25th | 2 days | **Intro to shell** |
