@@ -3,9 +3,11 @@ layout: archive
 title: "Contact"
 ---
 
-To request a consultation, please contact us **[by email](mailto:bioinformatics@hsph.harvard.edu)**. Generally, you can expect a response within 48 hours so we can start to assess your needs and setup a meeting in person. Please note that we currently have a substantial queue and it may take us up to 8 weeks to start an analysis after speaking with you. For administrative requests, please contact [Megan Scott](mailto:mescott@hsph.harvard.edu). Billing inquiries and grant-related questions are handled by [Rachel Boschetto](mailto:rboschet@hsph.harvard.edu). Alternatively, you can try calling us at 617-432-4917 or just stop by our office.
+To request a consultation, please contact us **[by email](mailto:bioinformatics@hsph.harvard.edu)**. Generally, you can expect a response within 48 hours so we can start to assess your needs and setup a meeting in person. Please note that we currently have a substantial queue and it may take us up to 8 weeks to start an analysis after speaking with you. 
 
+If you have any questions about the training program or upcoming workshops, please **[email](mailto:hbctraining@hsph.harvard.edu) the training team** directly. 
 
+For administrative requests, please contact [Priti Thareja](mailto:pthareja@hsph.harvard.edu). Billing inquiries and grant-related questions are handled by [Rachel Boschetto](mailto:rboschet@hsph.harvard.edu). Alternatively, you can try calling us at 617-432-4917 or just stop by our office.
 
 ### Office Location
 
