@@ -16,7 +16,7 @@ Please find a list of our various offerings below **categorized by eligibility**
 
 ### Workshops for HSCI and on-quad HMS researchers:
 
-> *Please note that registration opens ~3 weeks prior to workshop date.*
+*Please note that registration opens ~3 weeks prior to workshop date.*
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
