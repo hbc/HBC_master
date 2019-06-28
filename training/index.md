@@ -20,9 +20,8 @@ Please find a list of our various offerings below **categorized by eligibility**
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| Introduction to bulk RNA-seq (experimental design  - *Registration is closed* | Advanced | June 24th & 25th | 2 days | **Intro to shell** |
 | Introduction to R - *Registration is closed*  | Basic | July 1st & 2nd | 1.5 days | none |
-| Introduction to single-cell RNA-seq | Advanced | July 17th & 18th | 2 days | Intro to R |
+| [Introduction to single-cell RNA-seq - Registration is open!](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=236863629) | Advanced | July 17th & 18th | 2 days | Intro to R |
 | Introduction to R | Basic | July 29th & 30th | 1.5 days | none |
 | Introduction to differential gene expression analysis - bulk RNA-seq (counts -> DE genes) | Advanced | August 15th & 16th | 2 days | Intro to R |
 
@@ -72,6 +71,7 @@ Training materials can be [accessed here](https://hbctraining.github.io/main/). 
 
 **2019**
 
+* *[HSCI/TnT]* June 24th & 25th: **Introduction to RNA-seq**
 * *[HSCI/TnT]* June 4th: **Introduction to shell**
 * *[HSCI/TnT]* April 29th & 30th: **Introduction to ChIP-seq**
 * *[HSCI/TnT]* April 11th: **Introduction to shell**
