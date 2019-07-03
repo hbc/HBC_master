@@ -20,8 +20,7 @@ Please find a list of our various offerings below **categorized by eligibility**
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| Introduction to R - *Registration is closed*  | Basic | July 1st & 2nd | 1.5 days | none |
-| [Introduction to single-cell RNA-seq - Registration is open!](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=236863629) | Advanced | July 17th & 18th | 2 days | Intro to R |
+| Introduction to single-cell RNA-seq - *Registration is closed* | Advanced | July 17th & 18th | 2 days | Intro to R |
 | Introduction to R | Basic | July 29th & 30th | 1.5 days | none |
 | Introduction to differential gene expression analysis - bulk RNA-seq (counts -> DE genes) | Advanced | August 15th & 16th | 2 days | Intro to R |
 
@@ -71,15 +70,16 @@ Training materials can be [accessed here](https://hbctraining.github.io/main/). 
 
 **2019**
 
+* *[HSCI/TnT]* July 1st & 2nd: **Introduction to R**
 * *[HSCI/TnT]* June 24th & 25th: **Introduction to RNA-seq**
 * *[HSCI/TnT]* June 4th: **Introduction to shell**
 * *[HSCI/TnT]* April 29th & 30th: **Introduction to ChIP-seq**
 * *[HSCI/TnT]* April 11th: **Introduction to shell**
 * *[HSCI/TnT]* April 1st & 2nd: **Introduction to differential gene expression analysis (bulk RNA-seq)**
-* *[HSCI/TnT]* March 12 & 13th: **Introduction to R**
+* *[HSCI/TnT]* March 12th & 13th: **Introduction to R**
 * *[HSCI/TnT]* February 27th & 28th: **Introduction to RNA-seq**
 * *[HSCI/TnT]* February 13th: **Introduction to shell**
-* *[HSCI/TnT]* January 28 & 29th: **Introduction to R**
+* *[HSCI/TnT]* January 28th & 29th: **Introduction to R**
 * *[HSCI/TnT]* January 17th: **Introduction to shell**
 
 **2018**
