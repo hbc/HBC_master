@@ -21,7 +21,7 @@ Please find a list of our various offerings below **categorized by eligibility**
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
 | Introduction to single-cell RNA-seq - *Registration is closed* | Advanced | July 17th & 18th | 2 days | Intro to R |
-| Introduction to R | Basic | July 29th & 30th | 1.5 days | none |
+| [Introduction to R - *Registration is now open!*](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667) | Basic | July 29th & 30th | 1.5 days | none |
 | Introduction to differential gene expression analysis - bulk RNA-seq (counts -> DE genes) | Advanced | August 15th & 16th | 2 days | Intro to R |
 
 ***[Please click here for workshop descriptions.](https://hbctraining.github.io/main/#introduction-to-next-generation-sequencing-ngs-analysis-series)***
