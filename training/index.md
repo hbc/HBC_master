@@ -40,7 +40,13 @@ Please find a list of our various offerings below **categorized by eligibility**
 
 #### Harvard Catalyst Workshops
 
-*[Harvard Catalyst workshops](https://catalyst.harvard.edu/services/bioinformatics-workshops/) for Fall 2019 will be announced in Summer 2019!*
+In Fall 2019, we will be teaching the following workshop series with Harvard Catalyst - [**Introduction to RNA-seq Analysis Using High-Performance Computing and R**](https://catalyst.harvard.edu/services/bioinformatics-workshops/)
+
+This ***six-day*** hands-on workshop series includes the following two workshops:
+* **October 28-30, 2019** - Introduction to RNA-seq Analysis Using High-Performance Computing Workshop
+* **December 9-11, 2019** - Introduction to R: Basics, Plots and RNA-seq Differential Expression Analysis Workshop
+
+***Application cycle for the above Catalyst workshop opens on July 26th.*** Please note that there is a single application for both portions of this series. Please [email Harvard Catalyst](mailto:PGE_Bioinformatics@catalyst.harvard.edu) for more information.
 
 ***
 
