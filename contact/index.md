@@ -2,8 +2,8 @@
 layout: archive
 title: "Contact"
 ---
-
-To request a consultation, please contact us **[by email](mailto:bioinformatics@hsph.harvard.edu)**. Generally, you can expect a response within 48 hours so we can start to assess your needs and setup a meeting in person. Please note that we currently have a substantial queue and it may take us up to 8 weeks to start an analysis after speaking with you. 
+  
+To request a consultation, please contact us **by email at [bioinformatics@sph.harvard.edu](mailto:bioinformatics@hsph.harvard.edu)**. Generally, you can expect a response within 48 hours so we can start to assess your needs and setup a meeting in person. Please note that we currently have a substantial queue and it may take us up to 8 weeks to start an analysis after speaking with you. 
 
 If you have any questions about the training program or upcoming workshops, please **[email](mailto:hbctraining@hsph.harvard.edu) the training team** directly. 
 
