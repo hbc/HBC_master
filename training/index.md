@@ -20,11 +20,12 @@ Please find a list of our various offerings below **categorized by eligibility**
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| Introduction to single-cell RNA-seq - *Registration is closed* | Advanced | July 17th & 18th | 2 days | Intro to R |
-| Introduction to R - *Registration is closed* | Basic | July 29th & 30th | 1.5 days | none |
-| Introduction to differential gene expression analysis - bulk RNA-seq (counts -> DE genes) | Advanced | August 15th & 16th | 2 days | Intro to R |
-| Introduction to the command-line interface (Unix/Linux/shell) | Basic | TBD | 1 day | none |
-| Introduction to ChIP-seq | Advanced | TBD | 2 days | Intro to R & shell |
+| Introduction to the command-line interface (Unix/Linux/shell) | Basic | September 17th | 1 day | none |
+| Introduction to bulk RNA-seq (raw data -> counts) | Advanced | September 23rd & 24th | 2 days | Intro to shell |
+| Introduction to R | Basic | October (exact dates TBD) | 1.5 day | none |
+| Introduction to differential gene expression analysis - bulk RNA-seq (counts -> DE genes) | Advanced | October (exact dates TBD) | 2 days | Intro to R |
+| Introduction to R | Basic | November 19th & 20th | 1.5 day | none |
+| Introduction to single-cell RNA-seq | Advanced | December 2nd & 3rd | 2 days | Intro to R |
 
 ***[Please click here for workshop descriptions.](https://hbctraining.github.io/main/#introduction-to-next-generation-sequencing-ngs-analysis-series)***
 
@@ -77,7 +78,9 @@ Training materials can be [accessed here](https://hbctraining.github.io/main/). 
 ## Past Workshops:
 
 **2019**
-
+* *[HSCI/TnT]* August 15th & 16th: **Introduction to differential gene expression analysis (bulk RNA-seq)**
+* *[HSCI/TnT]* July 29th & 30th: **Introduction to R**
+* *[HSCI/TnT]* July 17th & 18th: **Introduction to single-cell RNA-seq**
 * *[HSCI/TnT]* July 1st & 2nd: **Introduction to R**
 * *[HSCI/TnT]* June 24th & 25th: **Introduction to RNA-seq**
 * *[HSCI/TnT]* June 4th: **Introduction to shell**
