@@ -20,11 +20,11 @@ Please find a list of our various offerings below **categorized by eligibility**
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| Introduction to the command-line interface (Unix/Linux/shell) | Basic | September 17th | 1 day | none |
+| Introduction to the command-line interface (Unix/Linux/shell) | Basic | September 17th | 1 day | None |
 | Introduction to bulk RNA-seq (raw data -> counts) | Advanced | September 23rd & 24th | 2 days | Intro to shell |
-| Introduction to R | Basic | October (exact dates TBD) | 1.5 day | none |
+| Introduction to R | Basic | October (exact dates TBD) | 1.5 day | None |
 | Introduction to differential gene expression analysis - bulk RNA-seq (counts -> DE genes) | Advanced | October (exact dates TBD) | 2 days | Intro to R |
-| Introduction to R | Basic | November 19th & 20th | 1.5 day | none |
+| Introduction to R | Basic | November 19th & 20th | 1.5 day | None |
 | Introduction to single-cell RNA-seq | Advanced | December 2nd & 3rd | 2 days | Intro to R |
 
 ***[Please click here for workshop descriptions.](https://hbctraining.github.io/main/#introduction-to-next-generation-sequencing-ngs-analysis-series)***
@@ -42,9 +42,9 @@ Please find a list of our various offerings below **categorized by eligibility**
 | Topic | Date | Time | Location | Pre requisites |
 | :----: | :----: | :----: | :----: | :----: |
 | **Setting up for success: Everything you need to know when planning for an (bulk) RNA-seq analysis Part I** | September (exact dates TBD) | 1 PM | TBD | None |
-| **Setting up for success: Everything you need to know when planning for an (bulk) RNA-seq analysis Part II** | October (exact dates TBD) | 1 PM | TBD | Beginner R |
-| **Setting up for Success: Everything you need to know to make your data analysis reproducible** | November (exact dates TBD) | 1 PM | TBD | Beginner R |
-| **Setting up for Success: Introduction to Version Control (Git)** | December (exact dates TBD) | 1 PM | TBD | Beginner R |
+| **Setting up for success: Everything you need to know when planning for an (bulk) RNA-seq analysis Part II** | October (exact dates TBD) | 1 PM | TBD | None |
+| **Setting up for Success: Everything you need to know to make your data analysis reproducible** | November (exact dates TBD) | 1 PM | TBD | None |
+| **Setting up for Success: Introduction to Version Control (Git)** | December (exact dates TBD) | 1 PM | TBD | None |
 
 ***
 
