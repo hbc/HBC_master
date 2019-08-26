@@ -35,16 +35,19 @@ Please find a list of our various offerings below **categorized by eligibility**
 
 #### HBC's monthly short workshops
 
-*[This series of workshops](https://hbctraining.github.io/main/#current-topics-in-bioinformatics-series) will return in Fall 2019!*
+* Workshops on bioinformatics methods & related skills
+* Once a month for 3 hours
+* First-come-first-served, no registration required
+* Free and open to everyone at Harvard University and its affiliates
 
-##### Fall 2019 Schedule:
+**Fall 2019 Schedule:**
 
 | Topic | Date | Time | Location | Pre requisites |
 | :----: | :----: | :----: | :----: | :----: |
-| **Setting up for success: Everything you need to know when planning for an (bulk) RNA-seq analysis Part I** | September (exact dates TBD) | 1 PM | TBD | None |
-| **Setting up for success: Everything you need to know when planning for an (bulk) RNA-seq analysis Part II** | October (exact dates TBD) | 1 PM | TBD | None |
-| **Setting up for Success: Everything you need to know to make your data analysis reproducible** | November (exact dates TBD) | 1 PM | TBD | None |
-| **Setting up for Success: Introduction to Version Control (Git)** | December (exact dates TBD) | 1 PM | TBD | None |
+| **Setting up for success: *Everything you need to know when planning for an (bulk) RNA-seq analysis Part I*** | September (date TBD) | 1 PM | TBD | None |
+| **Setting up for success: *Everything you need to know when planning for an (bulk) RNA-seq analysis Part II*** | October (date TBD) | 1 PM | TBD | None |
+| **Setting up for Success: *Everything you need to know to make your data analysis reproducible*** | November (date TBD) | 1 PM | TBD | None |
+| **Setting up for Success: *Introduction to Version Control (Git)*** | December (date TBD) | 1 PM | TBD | None |
 
 ***
 
