@@ -23,7 +23,7 @@ Please find a list of our various offerings below **categorized by eligibility**
 | Introduction to the command-line interface (Unix/Linux/shell) *Registration is now closed!* | Basic | September 17th | 1 day | None |
 | [Introduction to bulk RNA-seq (raw data -> counts) *Registration is now open!*](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233110607) | Advanced | September 23rd & 24th | 2 days | Intro to shell |
 | Introduction to R | Basic | October 3rd & 4th | 1.5 day | None |
-| Introduction to differential gene expression analysis - bulk RNA-seq (counts -> DE genes) | Advanced | October (exact dates TBD) | 2 days | Intro to R |
+| Introduction to differential gene expression analysis - bulk RNA-seq (counts -> DE genes) | Advanced | October 21st & 22nd | 2 days | Intro to R |
 | Introduction to R | Basic | November 19th & 20th | 1.5 day | None |
 | Introduction to single-cell RNA-seq | Advanced | December 2nd & 3rd | 2 days | Intro to R |
 
@@ -59,7 +59,7 @@ This ***six-day*** hands-on workshop series includes the following two workshops
 * **October 28-30, 2019** - Introduction to RNA-seq Analysis Using High-Performance Computing Workshop
 * **December 9-11, 2019** - Introduction to R: Basics, Plots and RNA-seq Differential Expression Analysis Workshop
 
-***Application cycle for the above Catalyst workshop opens on July 26th.*** Please note that there is a single application for both portions of this series. Please [email Harvard Catalyst](mailto:PGE_Bioinformatics@catalyst.harvard.edu) for more information.
+***Application cycle for this Catalyst workshop closed on September 9th, 2019.*** Please [email Harvard Catalyst](mailto:PGE_Bioinformatics@catalyst.harvard.edu) for more information.
 
 ***
 
