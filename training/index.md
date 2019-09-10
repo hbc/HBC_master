@@ -21,11 +21,11 @@ Please find a list of our various offerings below **categorized by eligibility**
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
 | Introduction to the command-line interface (Unix/Linux/shell) *Registration is now closed!* | Basic | September 17th | 1 day | None |
-| [Introduction to bulk RNA-seq (raw data -> counts) *Registration is now open!*](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233110607) | Advanced | September 23rd & 24th | 2 days | Intro to shell |
+| [Introduction to bulk RNA-seq (raw data -> counts) *Registration is now open!*](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233110607) | Advanced | September 23rd & 24th | 2 days | Introduction to the command-line interface |
 | Introduction to R | Basic | October 3rd & 4th | 1.5 day | None |
-| Introduction to differential gene expression analysis - bulk RNA-seq (counts -> DE genes) | Advanced | October 21st & 22nd | 2 days | Intro to R |
+| Introduction to differential gene expression analysis - bulk RNA-seq (counts -> DE genes) | Advanced | October 21st & 22nd | 2 days | Introduction to R|
 | Introduction to R | Basic | November 19th & 20th | 1.5 day | None |
-| Introduction to single-cell RNA-seq | Advanced | December 2nd & 3rd | 2 days | Intro to R |
+| Introduction to single-cell RNA-seq | Advanced | December 2nd & 3rd | 2 days | Introduction to R |
 
 ***[Please click here for workshop descriptions.](https://hbctraining.github.io/main/#introduction-to-next-generation-sequencing-ngs-analysis-series)***
 
