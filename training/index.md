@@ -73,6 +73,8 @@ This ***six-day*** hands-on workshop series includes the following two workshops
 
 * [Training](https://informatics.fas.harvard.edu/category/tutorials.html) offered by [FAS-Informatics](https://informatics.fas.harvard.edu/)
 
+* [Training](https://dss.iq.harvard.edu/workshop-registration) offered by the [Data Science Services group](https://dss.iq.harvard.edu/) at [IQSS](https://www.iq.harvard.edu/)
+
 * [Boston R/Bioconductor for genomics Meetup group](https://www.meetup.com/Boston-R-Bioconductor-for-genomics/)
 
 * [Boston area Women's Bioinformatics Meetup group](https://www.meetup.com/boston-area-womens-bioinformatics/)
