@@ -44,8 +44,8 @@ Please find a list of our various offerings below **categorized by eligibility**
 
 | Topic | Date | Time | Location | Pre requisites |
 | :----: | :----: | :----: | :----: | :----: |
-| **[Setting up for success: *Everything you need to know when planning for an (bulk) RNA-seq analysis Part I](https://hbctraining.github.io/Training-modules/planning_successful_rnaseq/#setting-up-for-success-everything-you-need-to-know-when-planning-for-an-rna-seq-analysis)*** | September 20th | 1 PM | HSPH Kresge G1 | None |
-| **[Setting up for success: *Everything you need to know when planning for an (bulk) RNA-seq analysis Part II](https://hbctraining.github.io/Training-modules/planning_successful_rnaseq/#setting-up-for-success-everything-you-need-to-know-when-planning-for-an-rna-seq-analysis)*** | October 25th | 1 PM | HSPH Kresge G1 | None |
+| **[Setting up for success: *Everything you need to know when planning for an (bulk) RNA-seq analysis Part I*](https://hbctraining.github.io/Training-modules/planning_successful_rnaseq/#setting-up-for-success-everything-you-need-to-know-when-planning-for-an-rna-seq-analysis)** | September 20th | 1 PM | HSPH Kresge G1 | None |
+| **[Setting up for success: *Everything you need to know when planning for an (bulk) RNA-seq analysis Part II*](https://hbctraining.github.io/Training-modules/planning_successful_rnaseq/#setting-up-for-success-everything-you-need-to-know-when-planning-for-an-rna-seq-analysis)** | October 25th | 1 PM | HSPH Kresge G1 | None |
 | **Setting up for Success: *Everything you need to know to make your data analysis reproducible*** | November 15th | 1 PM | HSPH Kresge G2 | None |
 | **Setting up for Success: *Introduction to Version Control (Git)*** | December 13th | 1 PM | HSPH Kresge G2 | None |
 
