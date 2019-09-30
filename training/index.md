@@ -21,7 +21,7 @@ Please find a list of our various offerings below **categorized by eligibility**
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
 | Introduction to R *Registration is now closed!* | Basic | October 3rd & 4th | 1.5 day | None |
-| Introduction to differential gene expression analysis - bulk RNA-seq (counts -> DE genes) ** [Registration is now open!](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233978712) **| Advanced | October 21st & 22nd | 2 days | Introduction to R|
+| Introduction to differential gene expression analysis - bulk RNA-seq (counts -> DE genes) **[Registration is now open!](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233978712)** | Advanced | October 21st & 22nd | 2 days | Introduction to R|
 | Introduction to R | Basic | November 19th & 20th | 1.5 day | None |
 | Introduction to single-cell RNA-seq | Advanced | December 2nd & 3rd | 2 days | Introduction to R |
 
