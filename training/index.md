@@ -20,12 +20,10 @@ Please find a list of our various offerings below **categorized by eligibility**
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| Introduction to the command-line interface (Unix/Linux/shell) *Registration is now closed!* | Basic | September 17th | 1 day | None |
-| [Introduction to bulk RNA-seq (raw data -> counts) *Registration is now open!*](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233110607) | Advanced | September 23rd & 24th | 2 days | Intro to shell |
-| Introduction to R | Basic | October 3rd & 4th | 1.5 day | None |
-| Introduction to differential gene expression analysis - bulk RNA-seq (counts -> DE genes) | Advanced | October (exact dates TBD) | 2 days | Intro to R |
+| Introduction to R *Registration is now closed!* | Basic | October 3rd & 4th | 1.5 day | None |
+| Introduction to differential gene expression analysis - bulk RNA-seq (counts -> DE genes): **[Registration is now open!](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233978712)** | Advanced | October 21st & 22nd | 2 days | Introduction to R|
 | Introduction to R | Basic | November 19th & 20th | 1.5 day | None |
-| Introduction to single-cell RNA-seq | Advanced | December 2nd & 3rd | 2 days | Intro to R |
+| Introduction to single-cell RNA-seq | Advanced | December 2nd & 3rd | 2 days | Introduction to R |
 
 ***[Please click here for workshop descriptions.](https://hbctraining.github.io/main/#introduction-to-next-generation-sequencing-ngs-analysis-series)***
 
@@ -37,15 +35,15 @@ Please find a list of our various offerings below **categorized by eligibility**
 
 * Workshops on bioinformatics methods & related skills
 * Once a month for 3 hours
-* First-come-first-served, no registration required
-* Free and open to everyone at Harvard University and its affiliates
+* **First-come-first-served, no registration required**
+* **Free and open to everyone at Harvard University and its affiliates**
 
 **Fall 2019 Schedule:**
 
 | Topic | Date | Time | Location | Pre requisites |
 | :----: | :----: | :----: | :----: | :----: |
-| **Setting up for success: *Everything you need to know when planning for an (bulk) RNA-seq analysis Part I*** | September 20th | 1 PM | HSPH Kresge G1 | None |
-| **Setting up for success: *Everything you need to know when planning for an (bulk) RNA-seq analysis Part II*** | October (TBD) | 1 PM | HSPH Kresge G1 | None |
+| **[Setting up for success: *Everything you need to know when planning for an (bulk) RNA-seq analysis Part I*](https://hbctraining.github.io/Training-modules/planning_successful_rnaseq/#setting-up-for-success-everything-you-need-to-know-when-planning-for-an-rna-seq-analysis)** | September 20th | 1 PM | HSPH Kresge G1 | None |
+| **[Setting up for success: *Everything you need to know when planning for an (bulk) RNA-seq analysis Part II*](https://hbctraining.github.io/Training-modules/planning_successful_rnaseq/#setting-up-for-success-everything-you-need-to-know-when-planning-for-an-rna-seq-analysis)** | October 25th | 1 PM | HSPH Kresge G1 | None |
 | **Setting up for Success: *Everything you need to know to make your data analysis reproducible*** | November 15th | 1 PM | HSPH Kresge G2 | None |
 | **Setting up for Success: *Introduction to Version Control (Git)*** | December 13th | 1 PM | HSPH Kresge G2 | None |
 
@@ -59,7 +57,7 @@ This ***six-day*** hands-on workshop series includes the following two workshops
 * **October 28-30, 2019** - Introduction to RNA-seq Analysis Using High-Performance Computing Workshop
 * **December 9-11, 2019** - Introduction to R: Basics, Plots and RNA-seq Differential Expression Analysis Workshop
 
-***Application cycle for the above Catalyst workshop opens on July 26th.*** Please note that there is a single application for both portions of this series. Please [email Harvard Catalyst](mailto:PGE_Bioinformatics@catalyst.harvard.edu) for more information.
+***Application cycle for this Catalyst workshop closed on September 9th, 2019.*** Please [email Harvard Catalyst](mailto:PGE_Bioinformatics@catalyst.harvard.edu) for more information.
 
 ***
 
@@ -72,6 +70,8 @@ This ***six-day*** hands-on workshop series includes the following two workshops
 * [Training](https://www.rc.fas.harvard.edu/training/) offered by [FAS-RC](https://www.rc.fas.harvard.edu/)
 
 * [Training](https://informatics.fas.harvard.edu/category/tutorials.html) offered by [FAS-Informatics](https://informatics.fas.harvard.edu/)
+
+* [Training](https://dss.iq.harvard.edu/workshop-registration) offered by the [Data Science Services group](https://dss.iq.harvard.edu/) at [IQSS](https://www.iq.harvard.edu/)
 
 * [Boston R/Bioconductor for genomics Meetup group](https://www.meetup.com/Boston-R-Bioconductor-for-genomics/)
 
@@ -90,20 +90,23 @@ Training materials can be [accessed here](https://hbctraining.github.io/main/). 
 ## Past Workshops:
 
 **2019**
+
+* *[HSCI/TnT]* September 23rd & 24th: **Introduction to RNA-seq**
+* *[HSCI/TnT]* September 17th: **Introduction to the command-line interface**
 * *[HSCI/TnT]* August 15th & 16th: **Introduction to differential gene expression analysis (bulk RNA-seq)**
 * *[HSCI/TnT]* July 29th & 30th: **Introduction to R**
 * *[HSCI/TnT]* July 17th & 18th: **Introduction to single-cell RNA-seq**
 * *[HSCI/TnT]* July 1st & 2nd: **Introduction to R**
 * *[HSCI/TnT]* June 24th & 25th: **Introduction to RNA-seq**
-* *[HSCI/TnT]* June 4th: **Introduction to shell**
+* *[HSCI/TnT]* June 4th: **Introduction to the command-line interface**
 * *[HSCI/TnT]* April 29th & 30th: **Introduction to ChIP-seq**
-* *[HSCI/TnT]* April 11th: **Introduction to shell**
+* *[HSCI/TnT]* April 11th: **Introduction to the command-line interface**
 * *[HSCI/TnT]* April 1st & 2nd: **Introduction to differential gene expression analysis (bulk RNA-seq)**
 * *[HSCI/TnT]* March 12th & 13th: **Introduction to R**
 * *[HSCI/TnT]* February 27th & 28th: **Introduction to RNA-seq**
-* *[HSCI/TnT]* February 13th: **Introduction to shell**
+* *[HSCI/TnT]* February 13th: **Introduction to the command-line interface**
 * *[HSCI/TnT]* January 28th & 29th: **Introduction to R**
-* *[HSCI/TnT]* January 17th: **Introduction to shell**
+* *[HSCI/TnT]* January 17th: **Introduction to the command-line interface**
 
 **2018**
 
