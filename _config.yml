@@ -32,8 +32,8 @@ owner:
     plus:
     ad-client:
     ad-slot:
-    google_analytics: UA-150923842-1        
   disqus-shortname:
 
+google_analytics: UA-150923842-1        
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
