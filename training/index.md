@@ -89,8 +89,8 @@ Training materials can be [accessed here](https://hbctraining.github.io/main/). 
 
 **2019**
 
-
-* *[HSCI/TnT]* OCtober 21st & 22nd: **Introduction to differential gene expression analysis (bulk RNA-seq)**
+* *[Harvard Catalyst]* October 28th - October 30th **Introduction to RNA-seq Analysis Using High-Performance Computing and R - Part 1**
+* *[HSCI/TnT]* October 21st & 22nd: **Introduction to differential gene expression analysis (bulk RNA-seq)**
 * *[HSCI/TnT]* October 3rd & 4th: **Introduction to R**
 * *[HSCI/TnT]* September 23rd & 24th: **Introduction to RNA-seq**
 * *[HSCI/TnT]* September 17th: **Introduction to the command-line interface**
@@ -112,7 +112,8 @@ Training materials can be [accessed here](https://hbctraining.github.io/main/). 
 **2018**
 
 * *[HSCI/TnT]* December 5th & 6th: **Introduction to R**
-* *[Harvard Catalyst]* October 31st - November 2nd & November 14th - 16th **Introduction to RNA-seq Analysis Using High-Performance Computing and R. **
+* *[Harvard Catalyst]* November 14th - 16th **Introduction to RNA-seq Analysis Using High-Performance Computing and R - Part 2**
+* *[Harvard Catalyst]* October 31st - November 2nd **Introduction to RNA-seq Analysis Using High-Performance Computing and R - Part 1**
 * *[HSCI/TnT]* September 5th - October 11th: **In-depth NGS data analysis course**
 * *[HSCI/TnT]* August 20th & 21st: **Introduction to R**
 * *[HSCI/TnT]* July 30th & 31st, August 1st: **Introduction to ChIP-seq using high-performance computing**
