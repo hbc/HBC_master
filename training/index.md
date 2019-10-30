@@ -20,8 +20,7 @@ Please find a list of our various offerings below **categorized by eligibility**
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| Introduction to differential gene expression analysis - bulk RNA-seq (counts -> DE genes): *Registration is now closed!* | Advanced | October 21st & 22nd | 2 days | Introduction to R|
-| Introduction to R | Basic | November 19th & 20th | 1.5 day | None |
+| [Introduction to R - *Registration is now open!*](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667) | Basic | November 19th & 20th | 1.5 day | None |
 | Introduction to single-cell RNA-seq | Advanced | December 2nd & 3rd | 2 days | Introduction to R |
 
 ***[Please click here for workshop descriptions.](https://hbctraining.github.io/main/#introduction-to-next-generation-sequencing-ngs-analysis-series)***
@@ -90,6 +89,8 @@ Training materials can be [accessed here](https://hbctraining.github.io/main/). 
 
 **2019**
 
+
+* *[HSCI/TnT]* OCtober 21st & 22nd: **Introduction to differential gene expression analysis (bulk RNA-seq)**
 * *[HSCI/TnT]* October 3rd & 4th: **Introduction to R**
 * *[HSCI/TnT]* September 23rd & 24th: **Introduction to RNA-seq**
 * *[HSCI/TnT]* September 17th: **Introduction to the command-line interface**
