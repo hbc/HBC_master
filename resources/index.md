@@ -7,6 +7,10 @@ title: "Resources"
 
 In addition to the material here, our teaching team maintains a list of useful [bioinformatics resources](https://wiki.harvard.edu/confluence/display/hbctraining/Resources).
 
+### Knowledgebase
+Our team collaborates on an eclectic list of useful bioinformatic tips and tricks in our [Knowledgebase](http://bioinformatics.sph.harvard.edu/knowledgebase)
+
+
 ### Software
 
 #### bcbio.nextgen
