@@ -137,14 +137,7 @@ We work with various biomedical and biotechnology companies, including:
         </td>
     </tr>
     
-    <tr>
-        <td>
-            <img  src="/images/arvados_curoverse_logo_01.jpeg" width="150" />
-        </td>
-        <td width="75%" markdown="span">
-            [Curoverse](https://curoverse.com/)
-        </td>
-    </tr>
+
 </table>
 
 
