@@ -10,6 +10,8 @@ In addition to the material here, our teaching team maintains a list of useful [
 ### Knowledgebase
 Our team collaborates on an eclectic list of useful bioinformatic tips and tricks in our [Knowledgebase](http://bioinformatics.sph.harvard.edu/knowledgebase)
 
+----
+
 
 ### Software
 
