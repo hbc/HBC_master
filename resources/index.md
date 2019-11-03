@@ -57,9 +57,13 @@ We work with data from any sequencing core but currently work most closely with 
 
 - [Biopolymers facility](https://genome.med.harvard.edu/)
 
- and the
+the
 
 - [Molecular Biology Core facility at the Dana Farber Cancer Institute](https://mbcf.dfci.harvard.edu/)
+
+and the
+
+- [Bauer Core Facility at FAS](https://bauercore.fas.harvard.edu/
 
 
 
