@@ -15,7 +15,7 @@ Core analysts have extensive experience in [managing and analyzing sequencing da
 - whole genome and exome sequencing (quality control, mapping, re-alignment, variant calls, prioritization), 
 - RNA-seq (quantification and _de novo_ transcriptome analysis), 
 - small RNA-seq (i.e. miRNA analysis),
-- single-cell RNA-seq, 
+- single-cell and single-nuclei RNA-seq, 
 - genome assembly (reference guided and _de novo_),  
 - ChIP-seq and ATAC-seq
 - bisulfite sequencing 
