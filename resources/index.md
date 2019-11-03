@@ -45,7 +45,7 @@ We work closely with and use the computational resources of both:
 -  the Odyssey high performance cluster at the [FAS Research Computing Center](http://rc.fas.harvard.edu/)
 -  the Orchestra high performance cluster at [Harvard Medical School Research Computing](https://rc.hms.harvard.edu)
 
-We also use a variety of cloud architectures including [Amazon AWS](https://aws.amazon.com/) and [Microsoft Azure](https://azure.microsoft.com/en-us/)](https://azure.microsoft.com/en-us/)
+We also use a variety of cloud architectures including [Amazon AWS](https://aws.amazon.com/) and [Microsoft Azure](https://azure.microsoft.com/en-us/)
 
 #### Data Management
 
