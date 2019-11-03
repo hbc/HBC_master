@@ -17,7 +17,7 @@ Core analysts have extensive experience in [managing and analyzing sequencing da
 - small RNA-seq (i.e. miRNA analysis),
 - single-cell RNA-seq, 
 - genome assembly (reference guided and _de novo_),  
-- ChIP-seq and 
+- ChIP-seq and ATAC-seq
 - bisulfite sequencing 
 
 We can also provide support in the design and and analysis of your customized NGS experiment.
