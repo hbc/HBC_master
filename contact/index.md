@@ -13,6 +13,6 @@ For administrative requests, please contact [Priti Thareja](mailto:pthareja@hsph
 
 We are located at the Harvard T. H. Chan School of Public Health, Landmark Center, 3rd Floor East, 401 Park Drive, Boston, MA 02215.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5898.66583363224!2d-71.10239336878662!3d42.33542501123007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e379895b79ced3%3A0x679266ac78a5478a!2s655+Huntington+Ave!5e0!3m2!1sen!2sus!4v1397283489103" width="1080" height="450" frameborder="0" style="border:0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.8908160182846!2d-71.10452474835758!3d42.34485114395125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e379f4104aadcd%3A0x31a1b1742a7da86c!2sLandmark%20Center%2C%20401%20Park%20Dr%2C%20Boston%2C%20MA%2002215!5e0!3m2!1sen!2sus!4v1576269693424!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 Additional maps for the Longwood area, shuttle bus time tables and additional information can be found at the main [HSPH website](http://www.hsph.harvard.edu/about/location-and-directions/).
