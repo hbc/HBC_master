@@ -20,8 +20,16 @@ Please find a list of our various offerings below **categorized by eligibility**
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| Introduction to R - *Registration is now closed.* | Basic | November 19th & 20th | 1.5 day | None |
-| Introduction to single-cell RNA-seq | Advanced | December 2nd & 3rd | 2 days | Introduction to R |
+| Introduction to shell | Basic | TBD | 1 day | None |
+| Introduction to bulk RNA-seq Analysis | Advanced | TBD | 2 days | Introduction to shell |
+| Introduction to R | Basic | TBD | 1.5 days | None |
+| Introduction to Differential Gene Expression Analysis | Advanced | TBD | 2 days | Introduction to R |
+| Introduction to R | Basic | TBD | 1.5 days | None |
+| Introduction to Single-cell RNA-seq Analysis | Advanced | TBD | 2 days | Introduction to R |
+| Introduction to shell | Basic | TBD | 1 day | None |
+| Introduction to ChIP-seq Analysis | Advanced | TBD | 2 days | Introduction to shell |
+
+***The order of workshops listed above is subject to change ***
 
 ***[Please click here for workshop descriptions.](https://hbctraining.github.io/main/#introduction-to-next-generation-sequencing-ngs-analysis-series)***
 
@@ -89,6 +97,8 @@ Training materials can be [accessed here](https://hbctraining.github.io/main/). 
 
 **2019**
 
+* *[HSCI/TnT]* December 2nd & 3rd: **Introduction to single-cell RNA-seq**
+* *[HSCI/TnT]* November 19th & 20th: **Introduction to R**
 * *[Harvard Catalyst]* October 28th - October 30th **Introduction to RNA-seq Analysis Using High-Performance Computing and R - Part 1**
 * *[HSCI/TnT]* October 21st & 22nd: **Introduction to differential gene expression analysis (bulk RNA-seq)**
 * *[HSCI/TnT]* October 3rd & 4th: **Introduction to R**
