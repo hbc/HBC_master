@@ -80,7 +80,7 @@ Training materials can be [accessed here](https://hbctraining.github.io/main/). 
 ## Past Workshops:
 
 **2019**
-* *[Harvard Catalyst]* December 9-11: **Introduction to R: Basics, Plots and RNA-seq Differential Expression Analysis Workshop**
+* *[Harvard Catalyst]* December 9th - December 11th: **Introduction to R: Basics, Plots and RNA-seq Differential Expression Analysis Workshop - Part 2**
 * *[HSCI/TnT]* December 2nd & 3rd: **Introduction to single-cell RNA-seq**
 * *[HSCI/TnT]* November 19th & 20th: **Introduction to R**
 * *[Harvard Catalyst]* October 28th - October 30th **Introduction to RNA-seq Analysis Using High-Performance Computing and R - Part 1**
