@@ -47,7 +47,7 @@ Please find a list of our various offerings below **categorized by eligibility**
 | Introduction to R | January 15th | 1 PM | HSPH Kresge G1 | None |
 | Introduction to `tidyverse` and Data Visualization with `ggplot2`| February 12th | 1 PM | HSPH Kresge G1 | None |
 | Gene Annotations and Functional Analysis of Gene Lists | March 18th | 1 PM | HSPH Kresge G1 | None |
-| Generating data analysis reports with RMarkdown | April 15th | 1 PM | HSPH Kresge G1 | None |
+| Generating Data Analysis Reports with RMarkdown | April 15th | 1 PM | HSPH Kresge G1 | None |
 
 ***
 
