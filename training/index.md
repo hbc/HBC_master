@@ -22,10 +22,10 @@ Please find a list of our various offerings below **categorized by eligibility**
 | :----: | :----: | :----: | :----: | :----: |
 | Introduction to R | Basic | Feb. 3rd & 4th | 1.5 days | None |
 | Introduction to single-cell RNA-seq Analysis | Advanced | Feb. 19th & 20th | 2 days | Introduction to R |
-| Introduction to shell | Basic | March (exact dates TBD) | 1 day | None |
+| Introduction to shell | Basic | March 6th | 1 day | None |
 | Introduction to bulk RNA-seq Analysis | Advanced | March (exact dates TBD) | 2 days | Introduction to shell |
 | Introduction to R | Basic | April (exact dates TBD) | 1.5 days | None |
-| Introduction to Differential Gene Expression Analysis | Advanced | May (exact dates TBD) | 2 days | Introduction to R |
+| Introduction to Differential Gene Expression Analysis | Advanced | May 19th & 20th | 2 days | Introduction to R |
 
 ***[Please click here for workshop descriptions.](https://hbctraining.github.io/main/#introduction-to-next-generation-sequencing-ngs-analysis-series)***
 
