@@ -14,22 +14,18 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 Please find a list of our various offerings below **categorized by eligibility**. If you would like to receive emails from us about training opportunities, please fill out [this form](https://harvard.az1.qualtrics.com/jfe/form/SV_6nGqk2i8RUi2oN7). 
 
-### Workshops for HSCI and on-quad HMS researchers:
+### Workshops for HSCI and on-quad HMS researchers (2020):
 
 *Please note that registration opens ~3 weeks prior to workshop date.*
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| Introduction to shell | Basic | TBD | 1 day | None |
-| Introduction to bulk RNA-seq Analysis | Advanced | TBD | 2 days | Introduction to shell |
-| Introduction to R | Basic | TBD | 1.5 days | None |
-| Introduction to Differential Gene Expression Analysis | Advanced | TBD | 2 days | Introduction to R |
-| Introduction to R | Basic | TBD | 1.5 days | None |
-| Introduction to Single-cell RNA-seq Analysis | Advanced | TBD | 2 days | Introduction to R |
-| Introduction to shell | Basic | TBD | 1 day | None |
-| Introduction to ChIP-seq Analysis | Advanced | TBD | 2 days | Introduction to shell |
-
-***The order of workshops listed above is subject to change ***
+| Introduction to R | Basic | Feb. 3rd & 4th | 1.5 days | None |
+| Introduction to single-cell RNA-seq Analysis | Advanced | Feb. 19th & 20th | 2 days | Introduction to R |
+| Introduction to shell | Basic | March 6th | 1 day | None |
+| Introduction to bulk RNA-seq Analysis | Advanced | March (exact dates TBD) | 2 days | Introduction to shell |
+| Introduction to R | Basic | April (exact dates TBD) | 1.5 days | None |
+| Introduction to Differential Gene Expression Analysis | Advanced | May 19th & 20th | 2 days | Introduction to R |
 
 ***[Please click here for workshop descriptions.](https://hbctraining.github.io/main/#introduction-to-next-generation-sequencing-ngs-analysis-series)***
 
@@ -44,26 +40,14 @@ Please find a list of our various offerings below **categorized by eligibility**
 * **First-come-first-served, no registration required**
 * **Free and open to everyone at Harvard University and its affiliates**
 
-**Fall 2019 Schedule:**
+**Spring 2020 Schedule:**
 
 | Topic | Date | Time | Location | Pre requisites |
 | :----: | :----: | :----: | :----: | :----: |
-| **[Setting up for success: *Everything you need to know when planning for an (bulk) RNA-seq analysis Part I*](https://hbctraining.github.io/Training-modules/planning_successful_rnaseq/#setting-up-for-success-everything-you-need-to-know-when-planning-for-an-rna-seq-analysis)** | September 20th | 1 PM | HSPH Kresge G1 | None |
-| **[Setting up for success: *Everything you need to know when planning for an (bulk) RNA-seq analysis Part II*](https://hbctraining.github.io/Training-modules/planning_successful_rnaseq/#setting-up-for-success-everything-you-need-to-know-when-planning-for-an-rna-seq-analysis)** | October 25th | 1 PM | HSPH Kresge G1 | None |
-| **Setting up for Success: *Everything you need to know to make your data analysis reproducible*** | November 15th | 1 PM | HSPH Kresge G2 | None |
-| **Setting up for Success: *Introduction to Version Control (Git)*** | December 13th | 1 PM | HSPH Kresge G2 | None |
-
-***
-
-#### Harvard Catalyst Workshops
-
-In Fall 2019, we will be teaching the following workshop series with Harvard Catalyst - [**Introduction to RNA-seq Analysis Using High-Performance Computing and R**](https://catalyst.harvard.edu/services/bioinformatics-workshops/)
-
-This ***six-day*** hands-on workshop series includes the following two workshops:
-* **October 28-30, 2019** - Introduction to RNA-seq Analysis Using High-Performance Computing Workshop
-* **December 9-11, 2019** - Introduction to R: Basics, Plots and RNA-seq Differential Expression Analysis Workshop
-
-***Application cycle for this Catalyst workshop closed on September 9th, 2019.*** Please [email Harvard Catalyst](mailto:PGE_Bioinformatics@catalyst.harvard.edu) for more information.
+| Introduction to R | January 15th | 1 PM | HSPH Kresge G1 | None |
+| Introduction to `tidyverse` and Data Visualization with `ggplot2`| February 12th | 1 PM | HSPH Kresge G1 | None |
+| Gene Annotations and Functional Analysis of Gene Lists | March 18th | 1 PM | HSPH Kresge G1 | None |
+| Generating Data Analysis Reports with RMarkdown | April 15th | 1 PM | HSPH Kresge G1 | None |
 
 ***
 
@@ -96,7 +80,7 @@ Training materials can be [accessed here](https://hbctraining.github.io/main/). 
 ## Past Workshops:
 
 **2019**
-
+* *[Harvard Catalyst]* December 9th - December 11th: **Introduction to R: Basics, Plots and RNA-seq Differential Expression Analysis Workshop - Part 2**
 * *[HSCI/TnT]* December 2nd & 3rd: **Introduction to single-cell RNA-seq**
 * *[HSCI/TnT]* November 19th & 20th: **Introduction to R**
 * *[Harvard Catalyst]* October 28th - October 30th **Introduction to RNA-seq Analysis Using High-Performance Computing and R - Part 1**
