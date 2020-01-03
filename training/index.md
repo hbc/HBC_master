@@ -12,7 +12,7 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 ***
 
-## Workshop listings (categorized by eligibility)
+## Upcoming workshops
 
 **[Join our mailing list](https://harvard.az1.qualtrics.com/jfe/form/SV_6nGqk2i8RUi2oN7)** if you are interested in receiving emails from us about training opportunities. 
 
