@@ -12,22 +12,24 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 ***
 
-Please find a list of our various offerings below **categorized by eligibility**. If you would like to receive emails from us about training opportunities, please fill out [this form](https://harvard.az1.qualtrics.com/jfe/form/SV_6nGqk2i8RUi2oN7). 
+### Workshop listings (categorized by eligibility)
+
+**Join our mailing list!** - If you would like to receive emails from us about training opportunities, please fill out [this form](https://harvard.az1.qualtrics.com/jfe/form/SV_6nGqk2i8RUi2oN7). 
+
+Workshop descriptions and links to lessons can be [found here](https://hbctraining.github.io/main/).
 
 ### Workshops for HSCI and on-quad HMS researchers (2020):
 
-*Please note that registration opens ~3 weeks prior to workshop date.*
+*Please note that registration opens about 3 weeks prior to workshop date(s).*
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| Introduction to R | Basic | Feb. 3rd & 4th | 1.5 days | None |
+| [Introduction to R](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667) | Basic | Feb. 3rd & 4th | 1.5 days | None |
 | Introduction to single-cell RNA-seq Analysis | Advanced | Feb. 19th & 20th | 2 days | Introduction to R |
 | Introduction to shell | Basic | March 6th | 1 day | None |
 | Introduction to bulk RNA-seq Analysis | Advanced | March (exact dates TBD) | 2 days | Introduction to shell |
 | Introduction to R | Basic | April 1st & 2nd | 1.5 days | None |
 | Introduction to Differential Gene Expression Analysis | Advanced | May 19th & 20th | 2 days | Introduction to R |
-
-***[Please click here for workshop descriptions.](https://hbctraining.github.io/main/#introduction-to-next-generation-sequencing-ngs-analysis-series)***
 
 ***
 
