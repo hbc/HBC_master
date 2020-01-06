@@ -25,7 +25,7 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
 | [Introduction to R](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667) | Basic | Feb. 3rd & 4th | 1.5 days | None |
-| Introduction to single-cell RNA-seq Analysis | Advanced | Feb. 19th & 20th | 2 days | Introduction to R |
+| Introduction to single-cell RNA-seq Analysis | Advanced | February (exact dates TBD) | 2 days | Introduction to R |
 | Introduction to shell | Basic | March 6th | 1 day | None |
 | Introduction to bulk RNA-seq Analysis | Advanced | March (exact dates TBD) | 2 days | Introduction to shell |
 | Introduction to R | Basic | April 1st & 2nd | 1.5 days | None |
