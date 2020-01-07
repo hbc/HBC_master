@@ -26,10 +26,10 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 | :----: | :----: | :----: | :----: | :----: |
 | [Introduction to R](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667) | Basic | Feb. 3rd & 4th | 1.5 days | None |
 | Introduction to single-cell RNA-seq Analysis | Advanced | February (exact dates TBD) | 2 days | Introduction to R |
-| Introduction to shell | Basic | March 6th | 1 day | None |
-| Introduction to bulk RNA-seq Analysis | Advanced | March (exact dates TBD) | 2 days | Introduction to shell |
-| Introduction to R | Basic | April 1st & 2nd | 1.5 days | None |
-| Introduction to Differential Gene Expression Analysis | Advanced | May 19th & 20th | 2 days | Introduction to R |
+| [Introduction to shell](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233092746) | Basic | March 6th | 1 day | None |
+| [Introduction to bulk RNA-seq Analysis](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233110607) | Advanced | March (exact dates TBD) | 2 days | Introduction to shell |
+| [Introduction to R](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667)| Basic | April 1st & 2nd | 1.5 days | None |
+| [Introduction to Differential Gene Expression Analysis](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233978712) | Advanced | May 19th & 20th | 2 days | Introduction to R |
 
 ***
 
@@ -46,10 +46,10 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 | Topic | Date | Time | Location | Pre requisites |
 | :----: | :----: | :----: | :----: | :----: |
-| Introduction to R | January 15th | 1 PM | HSPH Kresge G1 | None |
-| Introduction to `tidyverse` and Data Visualization with `ggplot2`| February 12th | 1 PM | HSPH Kresge G1 | None |
-| Gene Annotations and Functional Analysis of Gene Lists | March 18th | 1 PM | HSPH Kresge G1 | None |
-| Generating Data Analysis Reports with RMarkdown | April 15th | 1 PM | HSPH Kresge G1 | None |
+| [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) | January 15th | 1 PM | HSPH Kresge G1 | None |
+| [Introduction to `tidyverse` and Data Visualization with `ggplot2`](https://hbctraining.github.io/Training-modules/Tidyverse_ggplot2/) | February 12th | 1 PM | TBD | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) |
+| [Gene Annotations and Functional Analysis of Gene Lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis/) | March 18th | 1 PM | HSPH Kresge G1 | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/)  |
+| [Generating Data Analysis Reports with RMarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown/) | April 15th | 1 PM | HSPH Kresge G1 | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) |
 
 ***
 
