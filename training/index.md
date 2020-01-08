@@ -14,7 +14,7 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 ## Upcoming workshops
 
-**[Join our mailing list](https://harvard.az1.qualtrics.com/jfe/form/SV_6nGqk2i8RUi2oN7)** if you are interested in receiving emails from us about training opportunities. 
+**[Join our mailing list](https://hsphsun3.harvard.edu/mailman/listinfo/hbctraining)** if you are interested in receiving emails from us about training opportunities. 
 
 [Click here](https://hbctraining.github.io/main/) for descriptions of all the workshops we offer, as well as links to the materials/lessons.
 
