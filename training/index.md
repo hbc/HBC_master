@@ -20,7 +20,7 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 ### Workshops for HSCI and on-quad HMS researchers (2020):
 
-*Please note that registration opens about 3 weeks prior to workshop date(s).*
+***Please note that registration opens about 3 weeks prior to workshop date(s).***
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
