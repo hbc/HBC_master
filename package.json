@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A Jekyll starter site",
   "author": "Michael Rose <michael@mademistakes.com>",
-  "homepage": "http://mademistakes.com/",
+  "homepage": "https://mademistakes.com/",
   "license": "The MIT License (MIT)",
   "devDependencies": {
     "grunt": "~0.4.2",
