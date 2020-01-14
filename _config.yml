@@ -23,7 +23,7 @@ gems:
 # Site owner
 owner:
   name: Harvard Chan Bioinformatics Core
-  web: http://hbc.github.io 
+  web: https://hbc.github.io 
   email: bioinformatics@hsph.harvard.edu
   twitter: 
   bio: "Bioinfomatics Analysis for the Harvard Community"
