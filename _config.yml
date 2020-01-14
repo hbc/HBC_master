@@ -6,6 +6,7 @@ logo: site_logo_120x120.gif
 teaser: teaser_400x250.gif
 locale: en_US
 url: https://bioinformatics.sph.harvard.edu
+enforce_ssl: bioinformatics.sph.harvard.edu
 
 # Jekyll configuration
 
