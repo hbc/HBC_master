@@ -53,7 +53,7 @@ The Core partners with a number of academic institutions and organizations to pr
             <img src="/images/hsci_logo.png" width="150" />
         </td>
         <td markdown="span">
-            The core is a part of the [Center for Stem Cell Bioinformatics](http://stemcellcommons.hsci.harvard.edu/) which serves members of the Harvard Stem Cell Institute community. 
+            The core is a part of the [Center for Stem Cell Bioinformatics](https://hsci.harvard.edu/bioinformatics) which serves members of the Harvard Stem Cell Institute community. 
         </td>
     </tr>
 
