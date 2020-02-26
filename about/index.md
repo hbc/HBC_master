@@ -13,6 +13,10 @@ HBC provides a single point of contact for Harvard researchers interested in bio
 
 [Core staff](/people) aid researchers within the Harvard community with the management, integration and contextual analysis of biological high-throughput data, focusing on next-generation sequencing support. We [provide consulting, training, tools, databases and best practices](/services), foster collaboration and a community of bioinformatics activities, and build a unified infrastructure supporting a diverse set of experimental systems and high-throughput biological data.
 
+### Publications
+
+For a  complete list of core publications [see here](https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/51262208/?sort=date&direction=descending)
+
 
 ### Working with us
 
@@ -50,9 +54,6 @@ Translational Neuroscience)
 
 
 
-### Publications
-
-For a  complete list of core publications [see here](https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/51262208/?sort=date&direction=descending)
 
 ### Privacy
 
