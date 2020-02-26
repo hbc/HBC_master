@@ -20,9 +20,9 @@
   excerpt: "Who we are"
   image: teaser_400x250.gif
 
-- title: Publications
-  url: /publications/
-  excerpt: "Publications"
+- title: Resources
+  url: /resources/
+  excerpt: "Selected Resources for Bioinformatics at Harvard"
   image: teaser_400x250.gif
 
 - title: Funders
