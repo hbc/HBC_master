@@ -46,7 +46,6 @@ and he blogs at [spliced](https://spliced.ghost.io).
 
 <p><img style="float: left; margin: 9px 15px -10px 0px;" src="/images/preeti.jpg" width="100" /></p> **[Preetida Bhetariya](mailto:pbhetariya@hsph.harvard.edu)**
 Dr. Preetida J Bhetariya is a Research Associate in the Department of Biostatistics. She received her PhD in Biotechnology from Institute of Genomics and Integrative Biology, India where she studied Aspergillus genomics for secondary metabolites. Along with molecular and functional genomics approaches, she developed a diagnostic test for fungal (Aspergillus) detection from clinical samples. She continued pursuing her computational genomics interests during her post-doctoral training at University of Utah where she used RNA-seq to study microbial interactions in Multiple Sclerosis and characterized human gene expression patterns in MS and other autoimmune diseases. Following her passion for diagnostic research, she moved to Dr. Gabor Marth’s lab where she studied cancer genomics; developing a  bioinformatics pipeline for low-frequency variant calling for circulating tumor DNA from liquid biopsies. She is an expert in designing custom custom analysis workflows in Python and R. She supports the data analytics of projects involving single cell genomics and cancer genomics at the core.
-
 [Github]( https://github.com/preetida),
 [Google Scholar](https://scholar.google.com/citations?user=tpmwIvMAAAAJ&hl=en&oi=ao), [Twitter](https://twitter.com/preetiaahir)
 
@@ -54,6 +53,7 @@ Dr. Preetida J Bhetariya is a Research Associate in the Department of Biostatist
 <p><img style="float: left; margin: 9px 15px 0px 0px;" src="/images/ilya.jpg" width="100" /></p> **[Ilya Sytchev](mailto:isytchev@hsph.harvard.edu)** is a Senior Bioinformatics Software Developer in the Department of Biostatistics. He was one of the founders of [OpenWetWare](https://openwetware.org/) - an online community for biologists and is currently helping build and maintain the [HSCI Stem Cell Commons](https://stemcellcommons.org/). He has a BS in Computer Science from University of Massachusetts Boston and a MS in Bioinformatics from Northeastern University.
 
 
+<p><img style="float: left; margin: 9px 15px -20px 0px;" src="/images/maria.png" width="100" /></p>**[Maria Simoneau](mailto:msimoneau@hsph.harvard.edu)**  is the Project Manager for the Core and helps with onboarding consults, grant support, record keeping, reporting, planning and training and event coordination. She joins us with nine years of experience at Harvard Chan in the Onnela Lab in Biostatistics and in Social and Behavioral Sciences. She has an MBA from the F.W. Olin Graduate School of Business at Babson College in Wellesley, MA and a BS in Computer Science from Boston College in Chestnut Hill, MA.
 
 #### Faculty Director
 <p><img style="float: left; margin: 9px 15px -10px 0px;" src="/images/Pete_headshot.png" width="100" /></p>**[Peter Kraft](mailto:pkraft@hsph.harvard.edu)** is a Professor of Epidemiology and Biostatistics at the Harvard T.H. Chan School of Public Health. Dr. Kraft’s research focuses on statistical issues in the design and analysis of genetic association studies, with an emphasis on applications in cancer epidemiology. He has published over 300 articles and was recognized by Thompson Reuters as a highly cited researcher in 2014. Dr. Kraft has also developed and taught courses on introductory genetic epidemiology and “big data” for epidemiologists. Dr. Kraft is the Director of the Harvard Chan Program in Genetic Epidemiology and Statistical Genetics, and Faculty Director of the Harvard Chan Bioinformatics Core (HBC).
@@ -63,7 +63,8 @@ Before taking over as Faculty Director of HBC from founding Faculty Advisor Win 
 
 #### Administrative support
 
-<p><img style="float: left; margin: 9px 15px -20px 0px;" src="/images/Rachel.jpg" width="100" /><img style="float: left; margin: 9px 15px -20px 0px;" src="/images/maria.png" width="100" /> </p>We are fortunate to have access to dedicated administrative support. **[Rachel Boschetto](mailto:rboschet@hsph.harvard.edu)** is our grants manager and all-around financial guru, and **[Maria Simoneau](mailto:msimoneau@hsph.harvard.edu)** is our Project Coordinator, helping with grant support, record keeping, reporting, planning and event coordination.
+<p><img style="float: left; margin: 9px 15px -20px 0px;" src="/images/Rachel.jpg" width="100" /></p>We are fortunate to have access to dedicated administrative support. **[Rachel Boschetto](mailto:rboschet@hsph.harvard.edu)** is our grants manager and all-around financial guru. 
+
 
 ---
  
