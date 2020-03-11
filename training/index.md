@@ -24,11 +24,9 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| [Introduction to the command-line interface (shell/bash/Unix)](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233092746) | Basic | March 6th | 1 day | None |
-| [Introduction to bulk RNA-seq Analysis](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233110607) | Advanced | March 16th & 17th | 2 days | Introduction to shell |
-| [Introduction to R](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667)| Basic | April 1st & 2nd | 1.5 days | None |
+| ***CANCELLED*** [Introduction to bulk RNA-seq Analysis](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233110607) | Advanced | TBD | 2 days | Introduction to shell |
+| ***CANCELLED*** [Introduction to R](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667)| Basic | TBD | 1.5 days | None |
 | [Introduction to Differential Gene Expression Analysis](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233978712) | Advanced | May 19th & 20th | 2 days | Introduction to R |
-
 
 
 ### Workshops for all researchers at Harvard University and affiliated institutions:
@@ -48,7 +46,7 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 | [Introduction to `tidyverse` and Data Visualization with `ggplot2`](https://hbctraining.github.io/Training-modules/Tidyverse_ggplot2/) | February 12th | 1 PM | HSPH Kresge G1 | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) |
 | ***CANCELLED*** [Gene Annotations and Functional Analysis of Gene Lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis/) |  |  |  | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/)  |
 | [Generating Data Analysis Reports with RMarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown/) | April 15th | 1 PM | HSPH Kresge G1 | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) |
-| Interactive Data Visualization with Shiny in R (with [Ista Zahn](https://grid.rcs.hbs.org/people/ista-zahn) from the Harvard Business School) | May 13th | 1 PM | HSPH Kresge G1 | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) |
+| [Interactive Data Visualization with Shiny in R]() (with [Ista Zahn](https://grid.rcs.hbs.org/people/ista-zahn) from the Harvard Business School) | May 13th | 1 PM | HSPH Kresge G1 | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) |
 
 ***
 
@@ -81,6 +79,8 @@ Training materials can be [accessed here](https://hbctraining.github.io/main/). 
 ## Past Workshops:
 
 **2020**
+
+* *[HSCI/TnT]* March 6th: **Introduction to the command-line interface**
 * *[HSCI/TnT]* February 27th & 28th: **Introduction to single-cell RNA-seq**
 * *[HSCI/TnT]* February 3rd & 4th: **Introduction to R**
 
