@@ -26,7 +26,7 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 | :----: | :----: | :----: | :----: | :----: |
 | ***CANCELLED*** [Introduction to bulk RNA-seq Analysis](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233110607) | Advanced | TBD | 2 days | Introduction to shell |
 | ***CANCELLED*** [Introduction to R](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667)| Basic | TBD | 1.5 days | None |
-| ***CANCELLED*** [Introduction to Differential Gene Expression Analysis](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233978712) | Advanced | May 19th & 20th | 2 days | Introduction to R |
+| ***CANCELLED*** [Introduction to Differential Gene Expression Analysis](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233978712) | Advanced | TBD | 2 days | Introduction to R |
 
 
 ### Workshops for all researchers at Harvard University and affiliated institutions:
