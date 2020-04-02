@@ -24,7 +24,7 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| **Closed!** [Introduction to R - online](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667)| Basic | April 14th - 16th | 3 half days | None |
+| [Introduction to R - online](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667)| Basic | April 14th - 16th | 3 half days | None |
 | ***Postponed*** [Introduction to bulk RNA-seq Analysis](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233110607) | Advanced | TBD | 2 days | Introduction to shell |
 | ***Postponed*** [Introduction to Differential Gene Expression Analysis](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233978712) | Advanced | TBD | 2 days | Introduction to R |
 
