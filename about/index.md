@@ -20,7 +20,7 @@ For a  complete list of core publications [see here](https://www.ncbi.nlm.nih.go
 
 ### Working with us
 
-**Consults within the Harvard system are billed at $150/hour after an initial meeting to discuss your project.**  Consults for external academic institutions are billed at $175/hour and consults for our industry partners are billed at $200/hour. We will provide you with an estimate of the number of hours required, a quote and a start date as part of our [Memorandum of Understanding](https://dl.dropboxusercontent.com/u/407047/Ghost/hbc/CHB%20MOU.pdf) (PDF). During the project you will receive detailed monthly billing updates and ongoing analysis results via our project page.
+**Consults within the Harvard system are billed at $150/hour after an initial meeting to discuss your project.**  Consults for external academic institutions are billed at $175/hour and consults for our industry partners are billed at $250/hour. We will provide you with an estimate of the number of hours required, a quote and a start date as part of our [Memorandum of Understanding](https://dl.dropboxusercontent.com/u/407047/Ghost/hbc/CHB%20MOU.pdf) (PDF). During the project you will receive detailed monthly billing updates and ongoing analysis results via our project page.
 
 <p><img src="/images/fineprint.jpg" style="float: left; margin: 7px 15px 10px 0px;"  width="250" /> </p>
 
