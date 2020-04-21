@@ -49,7 +49,7 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 | [Generating Data Analysis Reports with RMarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown/) | April 27th | 1 PM | [Sign up here to receive Zoom link](https://tinyurl.com/rmd-workshop)** | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) |
 | Interactive Data Visualization with Shiny in R (with [Ista Zahn](https://grid.rcs.hbs.org/people/ista-zahn) from the Harvard Business School) | May 13th | 1 PM | [Sign up here to receive Zoom link](https://tinyurl.com/rshiny-workshop)** | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) |
 
-> ** We will be sending out a Zoom Meeting URL 30 minutes prior to the workshop to people who have signed up.
+** We will be sending out a Zoom Meeting URL 30 minutes prior to the workshop to people who have signed up.
 
 ***
 
