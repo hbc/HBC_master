@@ -46,7 +46,7 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) | January 15th | 1 PM | HSPH Kresge G1 | None |
 | [Introduction to `tidyverse` and Data Visualization with `ggplot2`](https://hbctraining.github.io/Training-modules/Tidyverse_ggplot2/) | February 12th | 1 PM | HSPH Kresge G1 | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) |
 | ***Postponed*** [Gene Annotations and Functional Analysis of Gene Lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis/) | TBD |  |  | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/)  |
-| [Generating Data Analysis Reports with RMarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown/) | April 27th | 1 PM | [Sign up here to receive Zoom link](https://tinyurl.com/rmd-workshop)** | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) |
+| [Generating Data Analysis Reports with RMarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown/) | April 27th | 1 PM | | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) |
 | Interactive Data Visualization with Shiny in R (with [Ista Zahn](https://grid.rcs.hbs.org/people/ista-zahn) from the Harvard Business School) | May 13th | 1 PM | [Sign up here to receive Zoom link](https://tinyurl.com/rshiny-workshop)** | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) |
 
 ** We will be sending out a Zoom Meeting URL 30 minutes prior to the workshop to people who have signed up.
