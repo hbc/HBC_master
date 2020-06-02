@@ -24,8 +24,7 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| [Introduction to R - online](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=214443667)| Basic | May 19th, 21st, 26th & 28th | Four 2hour sessions | None |
-| [Introduction to Differential Gene Expression Analysis](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233978712) | Advanced | June (TBD) | TBD | Introduction to R |
+| [Introduction to Differential Gene Expression Analysis (online)](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=233978712) | Advanced | June 16th, 18th, 23rd, 25th | Four 2h sessions | Introduction to R |
 
 
 ### Workshops for all researchers at Harvard University and affiliated institutions:
@@ -82,6 +81,7 @@ Training materials can be [accessed here](https://hbctraining.github.io/main/). 
 
 **2020**
 
+* *[HSCI/TnT]* May 19th, 21st, 26th, 28th: **Introduction to R**
 * *[HSCI/TnT]* April 14th - 16th: **Introduction to R**
 * *[HSCI/TnT]* March 6th: **Introduction to the command-line interface**
 * *[HSCI/TnT]* February 27th & 28th: **Introduction to single-cell RNA-seq**
