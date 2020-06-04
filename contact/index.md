@@ -3,7 +3,7 @@ layout: archive
 title: "Contact"
 ---
   
-To request a consultation to discuss your experiment, grant application or manuscript, please contact us **by email at [bioinformatics@hsph.harvard.edu](mailto:bioinformatics@hsph.harvard.edu)**. Generally, you can expect a response within 48 hours so we can start to assess your needs and setup a meeting in person. Please note that we may have a queue and it can take time for us to start an analysis after speaking with you. 
+To request a consultation to discuss your experiment, grant application or manuscript, please contact us **by email at [bioinformatics@hsph.harvard.edu](mailto:bioinformatics@hsph.harvard.edu)**. Generally, you can expect a response within 48 hours so we can start to assess your needs and setup a meeting via Zoom. Please note that we may have a queue and it can take time for us to start an analysis after speaking with you. 
 
 If you have any questions about the training program or upcoming workshops, please **[email](mailto:hbctraining@hsph.harvard.edu) the training team** directly. 
 
