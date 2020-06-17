@@ -5,6 +5,11 @@
   excerpt: "More about us"
   image: teaser_400x250.gif
 
+- title: Jobs
+  url: /jobs/
+  excerpt: "Come work with us"
+  image: teaser_400x250.gif
+
 - title: Services
   url: /services/
   excerpt: "What we do"
