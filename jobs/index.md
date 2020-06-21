@@ -60,20 +60,17 @@ You will also spend time providing analysis support to researchers at Harvard an
 * Knowledge of and experience with cancer datasets is a plus
 	
 ### Contact
-Email	**[hbctraining@hsph.harvard.edu](mailto:hbctraining@hsph.harvard.edu)** for more information
+Email	**[hbctraining (at) hsph.harvard.edu](mailto:hbctraining@hsph.harvard.edu)** for more information
 
 ### Equal Opportunity Employer	
 We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, gender identity, sexual orientation, pregnancy and pregnancy-related conditions or any other characteristic protected by law.
 
-### Minimum Number of References Required	
-2
-
-### Maximum Number of References Allowed	
-4
-
 ### Required Documents
 * Curriculum Vitae
 * Cover Letter
+* References Required/Allowed
+  * Minimum - 2
+  * Maximum - 4
 
 ### Apply
 To apply **[Click Here](https://academicpositions.harvard.edu/postings/9711)**!
