@@ -24,7 +24,7 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| [Introduction to single-cell RNA-seq data analysis (online)](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=236863629 | Advanced | July 16th, 21st, 23rd | Three 2.5h sessions | Introduction to R |
+| [Introduction to single-cell RNA-seq data analysis (online)](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=236863629) | Advanced | July 16th, 21st, 23rd | Three 2.5h sessions | Introduction to R |
 
 
 ### Workshops for all researchers at Harvard University and affiliated institutions:
