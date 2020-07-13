@@ -3,10 +3,11 @@ layout: archive
 title: "Training"
 ---
 
-With funding from the [HMS Tools and Technology Committee](https://hms.harvard.edu/research/hms-researcher-resources/tools-and-technology) and the [Harvard Stem Cell Institute (HSCI)](https://hsci.harvard.edu/) we have a dedicated bioinformatics training program for:
+With funding from the [HMS Tools and Technology Committee](https://hms.harvard.edu/research/hms-researcher-resources/tools-and-technology), the [Harvard Stem Cell Institute (HSCI)](https://hsci.harvard.edu/) and the [Dana Farber / Harvard Cancer Center (DF/HCC)](https://www.dfhcc.harvard.edu/) we have a dedicated bioinformatics training program for:
 
-- HMS researchers with a primary affiliation in one of the Basic and Social Science Departments on the Quad 
-- HSCI researchers 
+  - HMS researchers with a primary affiliation in one of the Basic and Social Science Departments on the Quad 
+  - HSCI researchers 
+  - DF/HCC researchers
 
 *In addition, we also teach short courses for [Harvard Catalyst](http://catalyst.harvard.edu/services/bioinformatics-workshops/).*
 
