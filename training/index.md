@@ -25,7 +25,7 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| [Introduction to single-cell RNA-seq data analysis (online)](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=236863629) | Advanced | July 16th, 21st, 23rd | Three 2.5h sessions | Introduction to R |
+| Introduction to single-cell RNA-seq data analysis (online) | Advanced | August 27th, September 1st & 3rd | Three 2.5h sessions | Introduction to R |
 
 
 ### Workshops for all researchers at Harvard University and affiliated institutions:
@@ -42,13 +42,7 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 | Topic | Date | Time | Location | Pre requisites |
 | :----: | :----: | :----: | :----: | :----: |
-| [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) | January 15th | 1 PM | HSPH Kresge G1 | None |
-| [Introduction to `tidyverse` and Data Visualization with `ggplot2`](https://hbctraining.github.io/Training-modules/Tidyverse_ggplot2/) | February 12th | 1 PM | HSPH Kresge G1 | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) |
-| [Gene Annotations and Functional Analysis of Gene Lists](https://hbctraining.github.io/Training-modules/DGE-functional-analysis/) | ***Cancelled***  |  |  | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/)  |
-| [Generating Data Analysis Reports with RMarkdown](https://hbctraining.github.io/Training-modules/Rmarkdown/) | April 29th | 1 PM | | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) |
-| Interactive Data Visualization with Shiny in R (with [Ista Zahn](https://grid.rcs.hbs.org/people/ista-zahn) from the Harvard Business School) | May 13th | 1 PM | [Sign up here to receive Zoom link](https://tinyurl.com/rshiny-workshop)** | [Introduction to R](https://hbctraining.github.io/Training-modules/IntroR/) |
-
-** We will be sending out a Zoom Meeting URL 30 minutes prior to the workshop to people who have signed up.
+| [Introduction to Python](https://harvard.zoom.us/meeting/register/tJcpc--orTIqGdJfgVWMQfLBcJteE3l9D6C3) | July 29th | 1 PM | Zoom | None |
 
 ***
 
@@ -82,6 +76,7 @@ Training materials can be [accessed here](https://hbctraining.github.io/main/). 
 
 **2020**
 
+* *[HSCI/TnT]* July 16th, 21st, 23rd: **Introduction to single-cell RNA-seq (online)**
 * *[HSCI/TnT]* June 16th, 18th, 23rd, 25th: **Introduction to differential gene expression analysis (bulk RNA-seq) (online)**
 * *[HSCI/TnT]* May 19th, 21st, 26th, 28th: **Introduction to R (online)**
 * *[HMS Nanocourse]* April 28th & 30th, May 5th & 7th: **Introduction to R (online)**
