@@ -40,9 +40,9 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 **Spring 2020 Schedule:**
 
-| Topic | Date | Time | Location | Pre requisites |
+| Topic and link to description | Date | Time | Sign up link | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| [Introduction to Python](https://harvard.zoom.us/meeting/register/tJcpc--orTIqGdJfgVWMQfLBcJteE3l9D6C3) | July 29th | 1 PM | Zoom | None |
+| [Introduction to Python - online](https://hbctraining.github.io/Training-modules/Python/) | July 29th | 1 PM | [**Sign up here!!**](https://harvard.zoom.us/meeting/register/tJcpc--orTIqGdJfgVWMQfLBcJteE3l9D6C3) | None |
 
 ***
 
