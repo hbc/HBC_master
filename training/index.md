@@ -42,7 +42,7 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 | Topic and link to description | Date | Time | Sign up link | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| [Introduction to Python - online](https://hbctraining.github.io/Training-modules/Python/) | July 29th | 1 PM | [**Sign up here!!**](https://harvard.zoom.us/meeting/register/tJcpc--orTIqGdJfgVWMQfLBcJteE3l9D6C3) | None |
+| [Introduction to Python - online](https://hbctraining.github.io/Training-modules/Python/) | July 29th | 1 PM | **Workshop is now full*** | None |
 
 ***
 
