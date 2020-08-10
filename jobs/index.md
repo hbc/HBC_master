@@ -5,11 +5,13 @@ title: "Jobs"
 
 ## Bioinformatics Trainer and Analyst Position
 
+***This will be a remote (telework) position until the end of the COVID-19 pandemic.***
+
 ### Title
 Research Associate - Bioinformatics Trainer and Analyst
 
 ### School	
-Harvard T.H. Chan School of Public Health
+Harvard T.H. Chan School of Public Health, Boston MA
 
 ### Department/Area	
 Biostatistics
