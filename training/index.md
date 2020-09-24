@@ -11,8 +11,7 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 *In addition, we also teach short courses for [Harvard Catalyst](http://catalyst.harvard.edu/services/bioinformatics-workshops/).*
 
-#### [Join our mailing list](https://hsphsun3.harvard.edu/mailman/listinfo/hbctraining) if you are interested in receiving emails from us about bioinformatics trainings!
-
+#### Join our mailing list by [clicking here](https://hsphsun3.harvard.edu/mailman/listinfo/hbctraining)!
 
 ***
 
@@ -43,7 +42,7 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 * Will meet **online via Zoom**
 * **Sign up at the links below to receive the workshop Zoom link**
 
-**Spring 2021 Schedule: *Coming Soon!* **
+**Spring 2021 short workshop schedule is coming soon!**
 
 ***
 
