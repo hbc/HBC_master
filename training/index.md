@@ -20,14 +20,18 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 [Click here](https://hbctraining.github.io/main/) for descriptions of all the workshops we offer, as well as links to the materials/lessons.
 
-### Workshops for HSCI and on-quad HMS researchers (2020):
+### Workshops for HSCI, on-quad HMS researchers and DF/HCC:
 
-***Please note that registration opens about 3 weeks prior to workshop date(s).***
+***Please note that until further notice, all workshops will be taught remotely via Zoom.***
+
+***Workshop registration opens about 3 weeks prior to workshop date(s).***
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| Introduction to single-cell RNA-seq data analysis (online) | Advanced | August 27th, September 1st & 3rd | Three 2.5h sessions | Introduction to R |
-
+| Introduction to single-cell RNA-seq data analysis | Advanced | October 20th, 23rd, 27th | Three 2.5h sessions | Introduction to R |
+| Introduction to the command-line interface (Shell, bash, Linux) and HMS-RC's O2 cluster | Basic | November 3rd, 6th, 10th | Three 2.5h sessions | None |
+| Introduction to bulk RNA-seq (raw data to counts) | Advanced | November 20th, 24th, 27th, December 1st | Four 2.5h sessions | Introduction to Shell |
+| Reproducible research with Git/Github and RMarkdown | Advanced | December 8th, 11th, 15th| Three 2.5h sessions | Introduction to Shell and Introduction to R |
 
 ### Workshops for all researchers at Harvard University and affiliated institutions:
 
@@ -39,11 +43,7 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 * Will meet **online via Zoom**
 * **Sign up at the links below to receive the workshop Zoom link**
 
-**Spring 2020 Schedule:**
-
-| Topic and link to description | Date | Time | Sign up link | Prerequisites |
-| :----: | :----: | :----: | :----: | :----: |
-| [Introduction to Python - online](https://hbctraining.github.io/Training-modules/Python/) | July 29th | 1 PM | **Workshop is now full*** | None |
+**Spring 2021 Schedule: *Coming Soon!* **
 
 ***
 
@@ -77,14 +77,24 @@ Training materials can be [accessed here](https://hbctraining.github.io/main/). 
 
 **2020**
 
+* *[HSCI/TnT/DFHCC]* September 15th, 18th, 22nd, 25th: **Introduction to R (online)**
+* *[Current Topics Workshop]* August 28th: **Introduction to Python**
+* *[HSCI/TnT]* August 27th, September 1st, 3rd: **Introduction to single-cell RNA-seq (online)**
+* *[DFHCC]* August 4th, 6th, 11th, 13th: **Introduction to differential gene expression analysis (bulk RNA-seq) (online)**
+* *[Current Topics Workshop]* July 29th: **Introduction to Python**
 * *[HSCI/TnT]* July 16th, 21st, 23rd: **Introduction to single-cell RNA-seq (online)**
+* *[DFHCC]* July 6th, 8th, 10th, 13th: **Introduction to R (online)**
 * *[HSCI/TnT]* June 16th, 18th, 23rd, 25th: **Introduction to differential gene expression analysis (bulk RNA-seq) (online)**
 * *[HSCI/TnT]* May 19th, 21st, 26th, 28th: **Introduction to R (online)**
+* *[Current Topics Workshop]* May 13th: **Interactive Data Visualization with RShiny**
+* *[Current Topics Workshop]* April 29th: **Introduction to RMarkdown**
 * *[HMS Nanocourse]* April 28th & 30th, May 5th & 7th: **Introduction to R (online)**
 * *[HSCI/TnT]* April 14th - 16th: **Introduction to R (online)**
 * *[HSCI/TnT]* March 6th: **Introduction to the command-line interface**
 * *[HSCI/TnT]* February 27th & 28th: **Introduction to single-cell RNA-seq**
+* *[Current Topics Workshop]* February 12th: **Introduction to R**
 * *[HSCI/TnT]* February 3rd & 4th: **Introduction to R**
+* *[Current Topics Workshop]* January 15th: **Introduction to R**
 
 **2019**
 
