@@ -29,8 +29,8 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 | :----: | :----: | :----: | :----: | :----: |
 | Introduction to single-cell RNA-seq data analysis | Advanced | October 20th, 23rd, 27th | Three 2.5h sessions | Introduction to R |
 | Introduction to the command-line interface (Shell, bash, Linux) and HMS-RC's O2 cluster | Basic | November 3rd, 6th, 10th | Three 2.5h sessions | None |
-| Introduction to bulk RNA-seq (raw data to counts) | Advanced | November 20th, 24th, 27th, December 1st | Four 2.5h sessions | Introduction to Shell |
-| Reproducible research with Git/Github and RMarkdown | Advanced | December 8th, 11th, 15th| Three 2.5h sessions | Introduction to Shell and Introduction to R |
+| Introduction to bulk RNA-seq (raw data to counts) | Advanced | November 17th, 20th, 24th | Three 2.5h sessions | Introduction to Shell |
+| Reproducible research with Git/Github and RMarkdown | Advanced | December 8th, 11th, 15th | Three 2.5h sessions | Introduction to Shell and Introduction to R |
 
 ### Workshops for all researchers at Harvard University and affiliated institutions:
 
