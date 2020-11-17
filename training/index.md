@@ -27,8 +27,6 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| Introduction to single-cell RNA-seq data analysis | Advanced | October 20th, 23rd, 27th | Three 2.5h sessions | Introduction to R |
-| Introduction to the command-line interface (Shell, bash, Linux) and HMS-RC's O2 cluster | Basic | November 3rd, 6th, 10th | Three 2.5h sessions | None |
 | Introduction to bulk RNA-seq (raw data to counts) | Advanced | November 17th, 20th, 24th | Three 2.5h sessions | Introduction to Shell |
 | Reproducible research with Git/Github and RMarkdown | Advanced | December 8th, 11th, 15th | Three 2.5h sessions | Introduction to Shell and Introduction to R |
 
@@ -76,6 +74,8 @@ Training materials can be [accessed here](https://hbctraining.github.io/main/). 
 
 **2020**
 
+* *[HSCI/TnT/DFHCC]* October 20th, 23rd, 27th: **Introduction to single-cell RNA-seq data analysis**
+* *[HSCI/TnT/DFHCC]* November 3rd, 6th, 10th: **Introduction to the command-line interface (Shell, bash, Linux) and HMS-RC's O2 cluster**
 * *[HSCI/TnT/DFHCC]* September 15th, 18th, 22nd, 25th: **Introduction to R (online)**
 * *[Current Topics Workshop]* August 28th: **Introduction to Python**
 * *[HSCI/TnT]* August 27th, September 1st, 3rd: **Introduction to single-cell RNA-seq (online)**
