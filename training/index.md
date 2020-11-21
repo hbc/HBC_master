@@ -27,8 +27,7 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| Introduction to bulk RNA-seq (raw data to counts) | Advanced | November 17th, 20th, 24th | Three 2.5h sessions | Introduction to Shell |
-| Reproducible research with Git/Github and RMarkdown | Advanced | December 8th, 11th, 15th | Three 2.5h sessions | Introduction to Shell and Introduction to R |
+| ***Registration is OPEN!*** [Tools for Reproducible Research](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=262591349) | Advanced | December 8th, 11th, 15th | Three 2.5h sessions | Introduction to Shell and Introduction to R |
 
 ### Workshops for all researchers at Harvard University and affiliated institutions:
 
@@ -74,13 +73,14 @@ Training materials can be [accessed here](https://hbctraining.github.io/main/). 
 
 **2020**
 
-* *[HSCI/TnT/DFHCC]* October 20th, 23rd, 27th: **Introduction to single-cell RNA-seq data analysis**
-* *[HSCI/TnT/DFHCC]* November 3rd, 6th, 10th: **Introduction to the command-line interface (Shell, bash, Linux) and HMS-RC's O2 cluster**
+* *[HSCI/TnT/DFHCC]* November 17th, 20th, 24th: **Introduction to bulk RNA-seq (Fastq to counts) (online)**
+* *[HSCI/TnT/DFHCC]* November 3rd, 6th, 10th: **Introduction to the command-line interface (Shell, bash, Linux) and HMS-RC's O2 cluster (online)**
+* *[HSCI/TnT/DFHCC]* October 20th, 23rd, 27th: **Introduction to single-cell RNA-seq data analysis (online)**
 * *[HSCI/TnT/DFHCC]* September 15th, 18th, 22nd, 25th: **Introduction to R (online)**
-* *[Current Topics Workshop]* August 28th: **Introduction to Python**
+* *[Current Topics Workshop]* August 28th: **Introduction to Python (online)**
 * *[HSCI/TnT]* August 27th, September 1st, 3rd: **Introduction to single-cell RNA-seq (online)**
 * *[DFHCC]* August 4th, 6th, 11th, 13th: **Introduction to differential gene expression analysis (bulk RNA-seq) (online)**
-* *[Current Topics Workshop]* July 29th: **Introduction to Python**
+* *[Current Topics Workshop]* July 29th: **Introduction to Python (online)**
 * *[HSCI/TnT]* July 16th, 21st, 23rd: **Introduction to single-cell RNA-seq (online)**
 * *[DFHCC]* July 6th, 8th, 10th, 13th: **Introduction to R (online)**
 * *[HSCI/TnT]* June 16th, 18th, 23rd, 25th: **Introduction to differential gene expression analysis (bulk RNA-seq) (online)**
