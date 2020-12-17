@@ -27,11 +27,11 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| Intro to R | Basic | January 26th, 29th & February 2nd, 5th | Four 2h sessions | None |
+| R | Basic | January 26th, 29th & February 2nd, 5th | Four 2h sessions | None |
 | scRNA-seq | Advanced | February 16th, 19th, 23rd | Three 2.5h sessions | None |
-| Intro to shell | Basic | March 5th, 9th, 12th| Three 2.5h sessions | None |
+| Command-line interface (shell/Unix/Linux) | Basic | March 5th, 9th, 12th| Three 2.5h sessions | None |
 | Bulk RNA-seq (Part I - FASTQ to counts) | Advanced | March 23rd, 26th, 30th & April 2nd | Four 2.5h sessions | None |
-| Intro to R | Basic | April 13th, 16th, 20th, 23rd | Four 2h sessions | None |
+| R | Basic | April 13th, 16th, 20th, 23rd | Four 2h sessions | None |
 | Bulk RNA-seq (Part II - Differential gene expression) | Advanced | May 4th, 7th, 11th, 14th | Four 2h sessions | None |
 | scRNA-seq | Advanced | May 25th, 28th & June 1st| Three 2.5h sessions | None |
 
