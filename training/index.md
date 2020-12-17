@@ -78,7 +78,7 @@ Training materials can be [accessed here](https://hbctraining.github.io/main/). 
 ## Past Workshops:
 
 **2020**
-* *[HSCI/TnT/DFHCC]* December 8^th^, 11^th^, 15^th^: **Tools for Reproducible Research (online)**
+* *[HSCI/TnT/DFHCC]* December 8th, 11th, 15th: **Tools for Reproducible Research (online)**
 * *[HSCI/TnT/DFHCC]* November 17th, 20th, 24th: **Introduction to bulk RNA-seq (Fastq to counts) (online)**
 * *[HSCI/TnT/DFHCC]* November 3rd, 6th, 10th: **Introduction to the command-line interface (Shell, bash, Linux) and HMS-RC's O2 cluster (online)**
 * *[HSCI/TnT/DFHCC]* October 20th, 23rd, 27th: **Introduction to single-cell RNA-seq data analysis (online)**
