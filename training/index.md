@@ -19,15 +19,21 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 
 [Click here](https://hbctraining.github.io/main/) for descriptions of all the workshops we offer, as well as links to the materials/lessons.
 
-### Workshops for HSCI, on-quad HMS researchers and DF/HCC:
+### Workshops for HSCI, on-quad HMS and DF/HCC researchers:
 
 ***Please note that until further notice, all workshops will be taught remotely via Zoom.***
 
-***Workshop registration opens about 3 weeks prior to workshop date(s).***
+***Workshop registration opens about 3 weeks prior to workshop date(s). The schedule below is subject to change.***
 
 | Topic | Category | Date | Duration | Prerequisites |
 | :----: | :----: | :----: | :----: | :----: |
-| ***Registration is OPEN!*** [Tools for Reproducible Research](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=262591349) | Advanced | December 8th, 11th, 15th | Three 2.5h sessions | Introduction to Shell and Introduction to R |
+| Intro to R | Basic | January 26th, 29th & February 2nd, 5th | Four 2h sessions | None |
+| scRNA-seq | Advanced | February 16th, 19th, 23rd | Three 2.5h sessions | None |
+| Intro to shell | Basic | March 5th, 9th, 12th| Three 2.5h sessions | None |
+| Bulk RNA-seq (Part I - FASTQ to counts) | Advanced | March 23rd, 26th, 30th & April 2nd | Four 2.5h sessions | None |
+| Intro to R | Basic | April 13th, 16th, 20th, 23rd | Four 2h sessions | None |
+| Bulk RNA-seq (Part II - Differential gene expression) | Advanced | May 4th, 7th, 11th, 14th | Four 2h sessions | None |
+| scRNA-seq | Advanced | May 25th, 28th & June 1st| Three 2.5h sessions | None |
 
 ### Workshops for all researchers at Harvard University and affiliated institutions:
 
@@ -72,7 +78,7 @@ Training materials can be [accessed here](https://hbctraining.github.io/main/). 
 ## Past Workshops:
 
 **2020**
-
+* *[HSCI/TnT/DFHCC]* December 8^th^, 11^th^, 15^th^: **Tools for Reproducible Research (online)**
 * *[HSCI/TnT/DFHCC]* November 17th, 20th, 24th: **Introduction to bulk RNA-seq (Fastq to counts) (online)**
 * *[HSCI/TnT/DFHCC]* November 3rd, 6th, 10th: **Introduction to the command-line interface (Shell, bash, Linux) and HMS-RC's O2 cluster (online)**
 * *[HSCI/TnT/DFHCC]* October 20th, 23rd, 27th: **Introduction to single-cell RNA-seq data analysis (online)**
