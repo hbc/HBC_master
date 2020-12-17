@@ -45,7 +45,9 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 * Will meet **online via Zoom**
 * **Sign up at the links below to receive the workshop Zoom link**
 
-**In Spring 2021 these short workshops will be held on the last Wednesday of every month (January - May) from 1 PM to 4 PM!**
+**In Spring 2021 these short workshops will be held on the last Wednesday of every month (January - May) from 1 PM to 4 PM.**
+
+**Workshop schedule coming soon!**
 
 ***
 
