@@ -33,7 +33,7 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 | [Bulk RNA-seq (Part I - FASTQ to counts)](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=262582768) | Advanced | March 23rd, 26th, 30th & April 2nd | Four 2.5h sessions | Command-line interface |
 | [R](https://wiki.harvard.edu/confluence/display/hbctraining/%5BAll+funders%5D+Introduction+to+R+workshop) | Basic | April 13th, 16th, 20th, 23rd | Four 2h sessions | None |
 | [Bulk RNA-seq (Part II - Differential gene expression)](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=258087300) | Advanced | May 4th, 7th, 11th, 14th | Four 2h sessions | R |
-| [scRNA-seq](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=262573480) | Advanced | May 25th, 28th & June 1st| Three 2.5h sessions | None |
+| [scRNA-seq](https://wiki.harvard.edu/confluence/pages/viewpage.action?pageId=262573480) | Advanced | May 25th, 28th & June 1st| Three 2.5h sessions | R |
 
 ### Workshops for all researchers at Harvard University and affiliated institutions:
 
