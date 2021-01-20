@@ -53,7 +53,7 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 | Visualizations with ggplot2 and advanced plotting methods (volcano plots, heatmaps, etc.) | 02/24/2021 at 1pm | [Sign up!](https://harvard.zoom.us/meeting/register/tJwod-qtqz8pGdXk3ShWNRddxATPrbFNUVGg) | Beginner R or Intro R workshop|
 | Gene annotations and functional analysis of gene lists  | 03/31/2021 at 1pm | [Sign up!](https://harvard.zoom.us/meeting/register/tJcufu-trD8tGtHyUMA1PBibusBxCNBmXovl) | Beginner R or Intro R workshop |
 | Reproducible research using R (Rmarkdown: report generation) | 04/28/2021 at 1pm | [Sign up!](https://harvard.zoom.us/meeting/register/tJUlfu2sqDkrHNXa6FF0J_8dGBqMbCBmS95R) | Beginner R or Intro R workshop |
-| Interactive Data Visualization with RShiny | 05/26/2021 at 1pm | [Sign up!](https://harvard.zoom.us/meeting/register/tJwlf-2rqjMjHNSdX7rrwR-YTuLkUnT5vP9A) | Beginner R or Intro R workshop |
+| Interactive Data Visualization with RShiny (taught by Ista Zahn from [HBS](https://www.hbs.edu/))) | 05/26/2021 at 1pm | [Sign up!](https://harvard.zoom.us/meeting/register/tJwlf-2rqjMjHNSdX7rrwR-YTuLkUnT5vP9A) | Beginner R or Intro R workshop |
 
 ***
 
