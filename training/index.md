@@ -45,9 +45,15 @@ With funding from the [HMS Tools and Technology Committee](https://hms.harvard.e
 * Will meet **online via Zoom**
 * **Sign up at the links below to receive the workshop Zoom link**
 
-**In Spring 2021 these short workshops will be held on the last Wednesday of every month (January - May) from 1 PM to 4 PM.**
+**Note: The workshop on Jan. 27th does not require any prior programming knowledge, however the knowledge from this workshop is a prerequisite for all other topics in the Spring 2021 series.**
 
-**Workshop schedule coming soon!**
+| Topic | Date/Time | Registration | Prerequisites |
+| :----: | :----: | :----: | :----: | 
+| Introduction to R | 01/27/2021 at 1pm | [Sign up!](https://harvard.zoom.us/meeting/register/tJIudu2sqz0iG9YnWvE8Y339qIUcuBDBbXEh) | None|
+| Visualizations with ggplot2 and advanced plotting methods (volcano plots, heatmaps, etc.) | 02/24/2021 at 1pm | [Sign up!](https://harvard.zoom.us/meeting/register/tJwod-qtqz8pGdXk3ShWNRddxATPrbFNUVGg) | Beginner R or Intro R workshop|
+| Gene annotations and functional analysis of gene lists  | 03/31/2021 at 1pm | [Sign up!](https://harvard.zoom.us/meeting/register/tJcufu-trD8tGtHyUMA1PBibusBxCNBmXovl) | Beginner R or Intro R workshop |
+| Reproducible research using R (Rmarkdown: report generation) | 04/28/2021 at 1pm | [Sign up!](https://harvard.zoom.us/meeting/register/tJUlfu2sqDkrHNXa6FF0J_8dGBqMbCBmS95R) | Beginner R or Intro R workshop |
+| Interactive Data Visualization with RShiny | 05/26/2021 at 1pm | [Sign up!](https://harvard.zoom.us/meeting/register/tJwlf-2rqjMjHNSdX7rrwR-YTuLkUnT5vP9A) | Beginner R or Intro R workshop |
 
 ***
 
