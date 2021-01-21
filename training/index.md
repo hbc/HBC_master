@@ -90,6 +90,7 @@ Training materials can be [accessed here](https://hbctraining.github.io/main/). 
 * *[HSCI/TnT/DFHCC]* November 17th, 20th, 24th: **Introduction to bulk RNA-seq (Fastq to counts) (online)**
 * *[HSCI/TnT/DFHCC]* November 3rd, 6th, 10th: **Introduction to the command-line interface (Shell, bash, Linux) and HMS-RC's O2 cluster (online)**
 * *[HSCI/TnT/DFHCC]* October 20th, 23rd, 27th: **Introduction to single-cell RNA-seq data analysis (online)**
+* *[HMS Nanocourse]* October 6th, 9th, 13th: **Introduction to the command-line interface (Shell, bash, Linux) and HMS-RC’s O2 cluster (online)**
 * *[HSCI/TnT/DFHCC]* September 15th, 18th, 22nd, 25th: **Introduction to R (online)**
 * *[Current Topics Workshop]* August 28th: **Introduction to Python (online)**
 * *[HSCI/TnT]* August 27th, September 1st, 3rd: **Introduction to single-cell RNA-seq (online)**
